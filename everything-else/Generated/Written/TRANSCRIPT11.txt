@@ -1,0 +1,34 @@
+AGENTE-Bom dia, o meu nome é Inês Correia, das clínicas SmileUP. Estou a falar com o Eliel Numbi. Bom dia, estou a falar com o Eliel Numbi? Está a me ouvir? 
+CLIENTE-Sim.
+AGENTE-Bom dia, nós estamos a contactá-lo em seguimento de uma ação de bancada. A gente facultou o seu contacto e, nesse sentido, gostaríamos de convidá-lo a usufruir de uma consulta. Quando é que lhe seria possível? Pode ser já esta semana, amanhã, quarta-feira... Temos também ao sábado... 
+CLIENTE-No sábado. 
+AGENTE-O sábado é, então, o ideal? 
+CLIENTE-Sábado... Dá para marcar durante as semanas. 
+AGENTE-Nós temos durante a semana e ao sábado também. 
+CLIENTE-Ok, no sábado. 
+AGENTE-No sábado. Eu vou já verificar. Permita-me só informá-lo que, por motivos de qualidade e segurança, a chamada está a ser gravada. Autoriza? 
+CLIENTE-Sim, sim. 
+AGENTE-Eu vou-lhe pedir o seu nome completo. Faz favor, Sr. Eliel. 
+CLIENTE-Eliel, Jesus... 
+AGENTE-Jesus... 
+CLIENTE-Numbi. 
+AGENTE-Numbi. Tem email? 
+CLIENTE-Sim. 
+AGENTE-Pode indicar aqui.
+CLIENTE-Eliel Numbi. 
+AGENTE-Numbi. 
+CLIENTE-D. E. 
+AGENTE-D. E. 
+CLIENTE-D. E. 08.
+AGENTE-08. 
+CLIENTE-arroba.gmail.com 
+AGENTE-Então, Eliel é E-L-I-E-L, depois Numbi, com N de Noruega, U, M de Marrocos, V de Braga, I. E depois é B de Braga ou D de Dinamarca? 
+CLIENTE-B de Braga. 
+AGENTE-B-E-0-8-arroba-gmail.com .Para o seu email vai ser enviado então a confirmação da marcação com a morada e recebe uma mensagem no dia anterior a relembrar. A nossa consulta da Aveiro fica na rua Doutor Alberto Souto. É uma rua perpendicular à avenida Lourenço Peixinho, a avenida principal onde tem a segurança social, os bancos... Em termos de disponibilidade, temos já este sábado, dia 1. Qual era o horário preferível para si? 
+CLIENTE-Às 14. 
+AGENTE-Às 14, claro que sim. Fica então confirmado para este sábado, dia 1, às 14 horas, às 2 da tarde, na clínica Smile Up de Aveiro. Irá realizar o raio-x, fazer a avaliação e, se necessário, o plano de tratamento e o respectivo orçamento. A consulta também não terá qualquer custo para o seu agregado familiar. Gostaria de levar mais alguém consigo? 
+CLIENTE-Não, vou sozinho. 
+AGENTE-Fica então confirmado, para o Sr. Eliel Numbi, sábado, dia 1, às 14, em Aveiro. Não sei se teria mais alguma questão? 
+CLIENTE-Não. 
+AGENTE-Está então confirmado. Muito obrigada,e um resto de um Bom dia, uma boa semana. Obrigada.
+CLIENTE-Obrigado.

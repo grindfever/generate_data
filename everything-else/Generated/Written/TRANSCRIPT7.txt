@@ -1,0 +1,61 @@
+AGENTE-Olá bom dia, meu nome é Pedro Araújo, falo por parte da clínica dentária da SmileUP, estou a falar com o senhor Sandro Barbosa.
+CLIENTE-Sim.
+AGENTE-Sandro, estou a contactá-lo no seguimento aqui do formulário que preencheu através dos canais digitais. Gostaria de o convidar a realizar uma consulta de avaliação dentária, sem qualquer tipo de custo, na Smileup de Loures , deseja marcar esta consulta?
+CLIENTE-Aonde é mesmo?
+AGENTE-Loures.
+CLIENTE-Loures? Eu não moro perto de Loures.Na verdade eu não moro em Loures.
+AGENTE-Foi a clínica que deixou como mais próxima. 
+CLIENTE-Ah, está bom. Isso é sem custos, não é? 
+AGENTE-Sim, uma avaliação dentária sem custos, exatamente. 
+CLIENTE-Mas a avaliação está pronta é isso? 
+AGENTE-É uma avaliação dentária, ou seja, será feito, está incluído um raio-x panorâmico, um diagnóstico completo, portanto um rastreio oral completo, um plano de tratamento integral com o respeitivo orçamento. Neste caso, de acordo com o interesse que manifestou, claro. 
+CLIENTE-É, porque o meu caso aqui é um caso com em implantes. Já está horrível. 
+AGENTE-Sim, claro que eu estou a perceber. Aí portanto convém ter a avaliação dentária, porque vai ter uma opinião médica relativamente a essas questões e quais são os tratamentos que deverá fazer para ficar tratado. Portanto, estariamos a convidá-lo para fazer a consulta da avaliação, porque depois terá uma opinião médica relativamente a essa questão também. Quais são os melhores tratamentos que serão aplicados também, uma vez que também é visto o estado do osso, o estado da gengiva.
+CLIENTE-Sim. Quando é que a gente pode começar a fazer isso? Vamos marcar para... Esta semana está difícil, tou com muitos serviços. 
+AGENTE-Esta semana... Eu teria a possibilidade de marcar já para a quarta-feira, não sei a sua disponibilidade. CLIENTE-Mano, não dá para a quarta-feira, pois estou de serviço já. Esta semana também, segunda-feira. 
+Agente-Próxima segunda? Próxima segunda eu consigo marcar da parte da tarde. 
+CLIENTE-Pode ser. 
+AGENTE-Tenho às quatro, tenho às cinco. 
+CLIENTE-Não tem mais cedo não? 
+AGENTE-Deixe-me confirmar,ver se consigo mais cedo. 
+CLIENTE-Por causa do trânsito. Na verdade eu moro aqui agora, mas já estou me mudando já. 
+AGENTE-Assim, se for mais cedo eu consigo à uma e também consigo às nove da parte da manhã. Também tenho ao meio-dia, que é o final da manhã. 
+CLIENTE-Pode ser, pode ser uma. Pode ser uma.
+AGENTE-E deixe-me ver se eu tenho aqui outros horários também.
+CLIENTE-Uma hora está bom. 
+AGENTE-O máximo que consigo da parte da tarde,o mais cedo que consigo é uma da tarde. 
+CLIENTE-Uma da tarde? Prontos está bom. 
+AGENTE-Uma da tarde é o máximo. 
+CLIENTE-Então e às nove da manhã?
+AGENTE-Nove? 
+CLIENTE-Nove da manhã que você falou. 
+AGENTE-Deixe-me só aqui confirmar. Só um instante. Já nem consigo a sua hora. Já só consigo as três. 
+CLIENTE-As três? 
+AGENTE-Não, três. Três da tarde. 
+CLIENTE-Três da tarde? Está bom. Deixe-me para três. 
+AGENTE-Então antes de seguir para a sua criação informal, que por motivos de qualidade e segurança a chamada será gravada. Autoriza senhor Sandro? 
+Autorizo, sim. 
+AGENTE-Muito bem. O seu e-mail é smfigbard arroba gmail.com, correto? 
+Isso, isso, isso. 
+AGENTE-Quando eu ia para marcar para uma, já apareceu indisponível. Portanto, neste caso, ficou na clínica de Loures, que é, portanto, a clínica que é mais próxima. Sabe onde é que fica exatamente a clínica? 
+CLIENTE-Não sei. Eu não conheço nada aqui. Estou ainda... estou no GPS ainda. Ou é isso? Se me mandar a localização para mim, agradeço. 
+AGENTE-Sim, sim, sim. 
+CLIENTE-Esse número aí. 
+AGENTE-Exato. Nós enviamos por... 
+CLIENTE-Por WhatsApp.
+AGENTE-É por mensagem não. 
+CLIENTE-É por mensagem. 
+AGENTE-É por e-mail. Nós enviamos a localização. Mas eu posso lhe dar alguns pontos de referência para ser depois mais fácil para ser mais facil encontrar a clínica. 
+CLIENTE-Pode, pode sim. 
+AGENTE-Pronto. Esta consulta é extensiva ao agregado familiar e amigos. O senhor deseja marcar para mais alguém? 
+CLIENTE-Como? 
+AGENTE-A consulta é extensiva ao agregado familiar e amigos. Deseja marcar para mais alguém, senhor Sandro? 
+CLIENTE-Não, não, não. Eu estou sozinho aqui em Portugal. 
+AGENTE-Muito bem. Então, neste caso, a consulta inclui o raio-x panoramico, o rastreio oral completo e o plano de tratamento integral com o respeitivo orçamento. Vai receber então a mensagem com a indicação de que a consulta está marcada, um SMS, e depois recebe um e-mail com a localização. A clínica fica perto do centro comercial Loures Shopping, prédios mesmo atrás do centro, zona do infantado. Está bem? 
+CLIENTE-Eu conheço. Eu conheço Loures Shopping. Conheço. 
+AGENTE-Pronto. É nos prédios mesmo antes do centro comercial. 
+CLIENTE-É nos prédios antes do centro. Pronto. Está bom. 
+AGENTE-Pronto. Zona do infantado em Loures. Mas até nas dias das descobertas, lote 192, 84A, vai receber esta informação por e-mail. Se não estiver na caixa principal, verifique no spam. Está bem? 
+CLIENTE-Está bom. Obrigado. 
+AGENTE-Eu é que agradeço desde já então a sua disponibilidade, da minha parte desejo-lhe desde já um bom dia,uma boa semana e uma boa consulta. Está bom. Obrigado. Bom dia para você também, obrigado.
+CLIENTE-Obrigado. Bom dia.

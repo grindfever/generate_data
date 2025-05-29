@@ -1,0 +1,37 @@
+AGENTE-Olá, muito bom dia! 
+CLIENTE-Bom dia! 
+AGENTE-Bom dia! O meu nome é Sandra Sanches, das Clínicas Dentárias, da SmileUP. Tenho o gosto de falar com a Sra. Ana Martins? 
+CLIENTE-Sim! 
+AGENTE-Sra. Ana Martins, estamos a contactá-la visto que facultou o seu contato no pedido online para a nossa clínica em Queluz. Gostaríamos então de convidá-la para uma consulta. É uma avaliação dentária sem custos, no qual possa ter as informações, tratamento, orçamentos e valores. Vamos agendar a data para a Sra. Ana poder ir à nossa clínica. 
+CLIENTE-E no sábado vocês trabalham? 
+AGENTE-A clínica está a atender também ao sábado, só preciso verificar a disponibilidade no sábado da SmileUP em Queluz. A Sra. gostaria então de agendar ao sábado, onde tem disponibilidade? 
+CLIENTE-Sim, no sábado eu acho, que horas? 
+AGENTE-Deixa eu verificar se eu ainda tenho horários. Me permite informar a Sra. Martins que a nossa chamada é gravada por motivos de qualidade e segurança. Autoriza? 
+CLIENTE-Sim, sim. 
+AGENTE-Obrigada. Para hoje e amanhã a Sra. Ana não teria disponibilidade? Só mesmo sábado? 
+CLIENTE-Não. 
+AGENTE-Deixa eu verificar se eu ainda tenho... Deixa eu só verificar na outra agenda. Enquanto eu verifico eu vou lhe informando sobre a consulta, que é uma avaliação dentária sem custos. Na avaliação também está incluído o exame do raio-x panorâmico, o diagnóstico e o orçamento, no qual fica com todas as informações, tratamentos e valores. E se quiser aproveitar para mais alguém também poderá, às vezes um familiar, um amigo, a consulta seria só para a Sra.? Sim, só para mim. Só para a Sra. Esse eu já não tenho mais, que é o do dia 1, dia 8 também, não, 15... Estou sem horário disponível, até porque hoje de fevereiro ao sábado. A Sra. não teria nenhum dia durante a semana, no horário pós-laboral, no horário de almoço? 
+CLIENTE-Não, porque eu trabalho em Cascais. 
+AGENTE-E seria só mesmo ao sábado. E a Sra., a mais próxima para a Sra. seria Queluz. Temos também benfica e alegro-alfragide. 
+CLIENTE-Alfragide? 
+AGENTE-Quer que eu verifique se na da alfragide estou tendo horário para o sábado? 
+CLIENTE-Sim, sim.
+AGENTE-Deixa eu só colocar aqui a alegro-alfragide para ter acesso à agenda. Vou verificar para a Sra. aqui na da alegro. Alegro-alfragide... Para o alegro-alfragide eu tenho no sábado, dia 8, horários disponíveis. Eu tenho às 15 horas, às 3 da tarde e às 4 da tarde. Qual o horário então que a Sra. prefere? 
+CLIENTE-Quais as horas?
+AGENTE-Eu tenho às 3 da tarde e às 4 horas, 15 e 16. Qual o horário que a Sra. prefere? 
+CLIENTE-15.
+AGENTE-15? Muito bem. Então eu vou agendar para a Sra. para sábado, dia 8, de fevereiro, às 15 da tarde. Mas recebe uma mensagem antes da clínica para relembrar a confirmar a presença e vai no seu e-mail. Vou confirmar o seu e-mail, anasofiapereiramartins0, arroba gmail.com. Está correto? 
+CLIENTE-É. 
+AGENTE-Pode só confirmar o nome completo, a Sra. não se importa para preencher a ficha? 
+CLIENTE-Ana Sofia Pereira Martins. 
+AGENTE-Ana Sofia Pereira Martins. Aí eu já deixo aqui também correto, eu vou só informar, a nossa clínica no Alegro é dentro do shopping do Alegro Alfragide. A Sra. conhece o Alegro Alfragide? 
+CLIENTE-Sim, conheço. 
+AGENTE-A nossa clínica então é dentro do Alegro Alfragide, dentro do shopping. Nossa loja é 3, mas vai no seu e-mail. Fica então agendado para a Sra. para o dia 8, que é um sábado, às 15 horas da tarde, para a nossa clínica do Alegro Alfragide. Mas recebe a mensagem dessa marcação da consulta conosco. Teria mais alguma questão referente à consulta? Algo mais? 
+CLIENTE-Não, não. Eles lá dão a informação sobre o preço, sobre todas as coisas? 
+AGENTE-Sim. Ao fazer a avaliação, a Sra. já fica com o diagnóstico, o plano de tratamento, o orçamento e os valores. A Sra. fica com todas as informações referentes ao seu tratamento também, referentes ao tratamento e os valores. Está bem? 
+CLIENTE-Ok, está bem. 
+AGENTE-Então está agendado, o dia é 8, às 15 horas do Alegro Alfragide. Muito obrigada. Continuação, bom dia. 
+CLIENTE-Obrigada. 
+AGENTE-Boa semana. 
+CLIENTE-Obrigada, bom trabalho.
+AGENTE-Obrigada.

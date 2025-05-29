@@ -1,0 +1,48 @@
+AGENTE-Sim, olá, muito bom dia. 
+CLIENTE-Bom dia. 
+AGENTE-Muito bom dia. O meu nome é Isabel Barros, eu estou a contactar com a parte da clínica dentária SmileUp. Tenho o gosto de estar a falar com a senhora Liliana Coelho. 
+CLIENTE-Sim, sim. 
+AGENTE-Sim, a senhora Liliana Coelho, estaria a contactá-la porque tínhamos aqui a indicação que tentou fazer o agendamento de uma consulta online através do nosso site, mas que não conseguiu concluir esse agendamento e gostaríamos então de convidar a poder então fazer essa marcação de consulta. Podemos então ajudá-la a concluir o agendamento? 
+CLIENTE-Sim, sim, podemos fazer. 
+AGENTE-Pronto e diga-me só, já agora, qual seria a localização para ver também qual a SmileUp mais próxima? 
+CLIENTE-Eu moro na Amadora, propriamente na Brandoa. 
+AGENTE-Ok. Agora vamos aqui. Antes de mais, também permita-me só informar que por motivos de qualidade e segurança a chamada é gravada. Autoriza-me a gravação. Certo, senhora Liliana? 
+CLIENTE-Sim autorizo. 
+AGENTE-Pronto. Nesse caso, na zona de Amadora, nós temos clínicas ou em Queluz ou em Benfica, na Avenida Grão Vasco. Alguma ficaria mais próxima para si para poder então fazer essa deslocação? 
+CLIENTE-Sim, a de Benfica fica mais perto. 
+AGENTE-Então, a clínica de Benfica. Esta consulta de avaliação dentária, que estou a convida-la a então fazer o agendamento, ela não tem qualquer tipo de custo associado. Vai fazer o raio X panorâmico, a chamada ortopantomografia, todo o plano de diagnóstico com o médico dentista à cavidade oral e fica com o plano de tratamento. Nesse caso, qual o tratamento mais adequado às suas necessidades, o respectivo orçamento e facilidades de pagamento que possa ter. A partir dessa informação é que depois dará início, caso seja conveniente, ao seu tratamento. Está bem? 
+CLIENTE-Ok. 
+AGENTE-Sra. Liliana, confirme-me eu tenho aqui a indicação que o seu endereço de e-mail será serpiar.tendencias0d arroba iclose.com, certo? 
+CLIENTE-Ah, isso é, pronto, eles camuflaram o meu e-mail, mas pode alterá-lo? 
+AGENTE-Posso, neste caso, é só no sentido de eu poder também depois enviar o comprovativo, está bem? Diga-me, então, só o endereço de e-mail correto. 
+CLIENTE-Liliana Coelho. 
+AGENTE-Ora, Liana Coelho, tudo junto, certo? 
+CLIENTE-Sim, tudo junto, 43... 
+AGENTE-43... 
+CLIENTE-Arroba gmail.com 
+AGENTE-Arroba gmail.com .E já agora, o nome completo, que assim já fica a ficha preenchida para a colega da clínica.  
+CLIENTE-Liliana Mendes Coelho. 
+AGENTE-Liliana Mendes Coelho. A nível do horário, tem preferência de horário de poder fazer esta consulta? 
+CLIENTE-Sim, poderia ser no dia 8, é um sábado de manhã. 
+AGENTE-Ora, deixe-me só verificar como é que está a clínica de Benfica nesse sentido. Às vezes os sábados são muito complicados, mas vamos então aqui verificar, então essa a possibilidade. 
+CLIENTE-Ou então, podia ser na segunda ou na terça, mas tinha que ser tarde. 
+AGENTE-E em que horários, já agora? 
+CLIENTE-Se for, é da próxima semana... 
+AGENTE-Sim. 
+CLIENTE-E por volta das 3.
+AGENTE-Pronto, tenho na segunda-feira, então, que será dia 3, 2 a 8 dias. Tenho então a possibilidade de agenda no horário das 3, das 4, 5 e 6 horas. 
+CLIENTE-Então pode ser das 3. 
+AGENTE-Ora então, para Benfica, para dia 3 do 2, às 15 horas. Sra. Liliana Coelho, pretende esta consulta também para mais alguém de família ou seria só mesmo para si? 
+CLIENTE-Não, é só para mim mesmo. 
+AGENTE-Pronto, a nossa clínica em Benfica, ela fica situada na Avenida Grão Vasco, número 31. Fica perto da Igreja de Benfica e da Confeitaria Lua de Mel. Não sei se conhece ali aquela zona. 
+CLIENTE-Sim, conheço a Igreja de Benfica. 
+AGENTE-Pronto, a nossa clínica fica logo ali no início da Avenida Grão Vasco, no número 31. Fica logo mesmo ali junto à Igreja de Benfica, está bem? Pronto, e vai ficar então para as 15 horas, de 2 a 8 dias, então dia 3. A colega da clínica, depois também, em princípio, sexta ou sábado, envia também só uma mensagem para o seu telemóvel para lembrar que tem a marcação efetuadas, está bem? 
+CLIENTE-Está bem.
+AGENTE-Da minha parte, alguma dúvida que tenha ficado? Alguns conhecimentos adicionales que sejam necessários? 
+CLIENTE-Não. 
+AGENTE-Pronto, Sra. Liliana, ficamos então a aguardá-la para nos conhecer na próxima semana, então, 2 a 8 dias, no horário das 3 horas, na clínica de Benfica. Está bom? 
+CLIENTE-Está bem. 
+AGENTE-Obrigada, então. Obrigada e uma continuação de um bom dia para si e uma boa semana. 
+CLIENTE-Obrigada. 
+AGENTE-Obrigada, obrigada. 
+CLIENTE-Obrigada.

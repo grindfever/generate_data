@@ -1,0 +1,69 @@
+AGENTE-Sim, olá, muito bem dia. 
+CLIENTE-Bom dia. 
+AGENTE-Muito bem dia, meu nome é Isabel Barros, eu estou a contactar pela parte da clínica dentária Smile Up. Eu tenho o gosto de falar com a senhora Carla Vinda. 
+CLIENTE-Não, não, Carla Neves. 
+AGENTE-Ah, peço desculpa. Senhora Carla Neves, eu estou a contactá-la pela parte da clínica dentária Smile Up, porque rececionamos aqui um pedido, neste caso, para uma informação a nível dentário, neste caso para a nossa clínica da Smile Up de Barcelos. 
+CLIENTE-Sim, sim, sim. 
+AGENTE-Casa Roriz, neste caso. 
+CLIENTE-Sim, sim, sim, foi através do Instagram da loja, foi. 
+AGENTE-Certo, e nesse sentido, senhora Carla Neves, nós estariamos a contactá-la para verificar, então, a possibilidade de agendamento de uma consulta de avaliação dentária, que neste caso não terá qualquer tipo de custo para si, para a nossa clínica de Barcelos, no sentido de podermos dar, então, uma segunda opinião médica em relação às suas necessidades de tratamento, o respeitivo orçamento e facilidade de pagamento também que possa ter para usufruir do seu tratamento na nossa clínica. 
+CLIENTE-Sim, sim, a clínica, a clínica, qual é o horário da clínica, por favor? 
+AGENTE-Certo, de segunda à sexta fazemos das nove da manhã e a última marcação às sete da tarde, ou sábado entre as dez da manhã e a última marcação às dezoito horas, às seis da tarde. 
+CLIENTE-Sim, eu tenho interesse na hora do almoço, qualquer dia que possa ter disponibilidade, tipo uma e trinta, por exemplo. 
+AGENTE-Pronto, vamos então aqui verificar,sim diga.
+CLIENTE-Desculpe, semana sim, semana não, esta semana eu posso, a próxima não posso. 
+AGENTE-Ok, certo, vamos então aqui verificar. Eu vou alterar então aqui o nome, porque está a casa Roriz, e vou então colocar o seu nome, está bem a ser a Carla Neves. Diga-me só o nome. 
+CLIENTE-Neto, Neto, Neto, é Neto. 
+AGENTE-Já lhe estou a trocar o nome outra vez, peço desculpa. 
+CLIENTE-Não faz mal, é Carla Cristina. 
+AGENTE-Carla Cristina, sim. 
+CLIENTE-Alves.
+AGENTE-Cristina Alves, certo? 
+CLIENTE-Neto, Neto, de neto. 
+AGENTE-Alves Neto. 
+CLIENTE-Exatamente. 
+AGENTE-O endereço de e-mail? É o mesmo. 
+CLIENTE-Não, não, não. 
+AGENTE-Não? 
+CLIENTE-Não, não, não. Ponha Roriz, que é o nome da loja, Roriz. 
+AGENTE-Ok, Roriz. 
+CLIENTE-Lingerie, com um I e um E no fim. 
+AGENTE-Lingerie, sim. 
+CLIENTE-E no início pôs um I, não pôs? 
+AGENTE-Sim, sim. 
+CLIENTE-A seguir ao L? 
+AGENTE-Sim, sim. 
+CLIENTE-Pronto, Lingerie, cinco zero. 
+AGENTE-Cinco zero. 
+CLIENTE-Arroba hotmail.com. 
+AGENTE-Hotmail.com, pronto. Que assim eu já lhe consigo enviar também o comprovativo do agendamento da consulta. Então, esta semana, perto do horário do almoço. 
+CLIENTE-Olha, esta semana do almoço, só na quarta-feira não consigo porque já tenho uma consulta marcada. 
+AGENTE-Certo. 
+CLIENTE-Aí tem uma consulta, tenho uma consulta às duas horas, por isso para mim é impossível ir à clínica. Mas posso amanhã, por exemplo. 
+AGENTE-Amanhã tenho horário de almoço às duas. 
+CLIENTE-Hoje, se ainda tivesse vaga, poderia, porque vou ter que ir a Barcelos com a minha filha na hora do almoço. Eu não sei se a senhora hoje ainda tem. Se tivesse era ótimo. 
+AGENTE-Que assim já ficava, não é? 
+CLIENTE-Era porque vou ter que fazer a viagem, vou ter que fechar o estabelecimento e então já que vou... Era uma ótima oportunidade de já ir para o Barcelos, percebe? 
+AGENTE-Certo, e já fazia a consulta. Então, vamos então aqui verificar. Sra. Carla Neto, nesse sentido. Sra. Carla Neto permita-me também só informar que por motivos também de qualidade e segurança, a chamada é gravada. Autoriza-me a gravação, certo? 
+CLIENTE-Autorizo sim. 
+AGENTE-Obrigada. Então, para hoje, em Barcelos, tenho horário de uma e das duas horas. 
+CLIENTE-Pode ser das duas, por favor. 
+AGENTE-Ora, ora... É só para si esta consulta ou pretende também uma segunda opinião médica para alguém que queira levar a acompanhar? 
+CLIENTE-Não, não, é só para mim.
+AGENTE-É só para a senhora. Então, às 14 horas. E podia fazer então a sua consulta. Agora, vamos então aqui. Sra. Carla Neto está feita então aqui a marcação da sua consulta, então, para a nossa clínica em Barcelos. A nível da localização da clínica de Barcelos, sabe onde fica? 
+CLIENTE-Eu acho que sei. 
+AGENTE-Pronto. 
+CLIENTE-Eu acho que sei. 
+AGENTE-Fica ali na rua em frente ao Jardim Velho e é onde tem a estátua do Bombeiro. É na rua Cândido dos Reis. Número 15. 
+CLIENTE-É uma rua lateral, não é? 
+AGENTE-É isso mesmo. Fica ali mesmo em frente ao Jardim Velho e é onde tem a estátua do Bombeiro. Pronto. E fica então feito o agendamento da sua consulta para hoje, às 14 horas. E esta consulta de avaliação, como mencionei no início da nossa conversa, não tem qualquer tipo de custo para a senhora. 
+CLIENTE-Mesmo que faça algum exame, não é? 
+AGENTE-Nesta consulta até já tem o exame da ortopantomografia, o raio-x panorâmico, está incluído nesta consulta. Não tem qualquer tipo de custo associado. 
+CLIENTE-Muito bem.
+AGENTE-Depois, a partir de hoje, como vai ficar com a informação a nível do tratamento, depois aí é que fica então com o plano do tratamento que é necessário fazer, o respeitivo orçamento e, a partir deste, de analisar e ponderar. É que tomará a sua decisão nesse sentido de poder dar início ao seu tratamento. Está bem? 
+CLIENTE-Muito obrigada pela atenção, um bom dia. 
+AGENTE-De nada, agradeço então bom dia. 
+CLIENTE-Obrigada, obrigada. 
+AGENTE-Obrigada. 
+CLIENTE-Bom dia obrigada. 
+AGENTE-Bom dia.

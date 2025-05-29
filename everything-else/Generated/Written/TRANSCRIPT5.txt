@@ -1,0 +1,41 @@
+AGENTE-Olá, muito bom dia. 
+CLIENTE-Olá, bom dia. 
+AGENTE-Bom dia, meu nome é Gonçalo Cunha, sou por parte das Clínicas Dentárias de SmileUp, tenho o prazer de estar a falar com a senhora Diana Rocha.
+CLIENTE-Exatamente, exatamente. 
+AGENTE-Olá, Diana, nós estamos apenas a contactá-la, pois temos aqui a indicação que terá feito um agendamento da nossa consulta de avaliação sem custo para a Clínica de Gondomar, mas que não terá sido possível usufruir do dia agendado. 
+CLIENTE-Sim, não consegui, exatamente. 
+AGENTE-Não há problema, nós estamos apenas a contatá-la para saber se gostaria de re-agendar, a campanha ainda está a decorrer, ou seja a avaliação sem custo. 
+CLIENTE-Sim, eu gostaria de re-agendar, teria era só de saber quais eram os dias que tinham disponíveis, porque como eu trabalho às vezes fica um bocadinho complicado, aquele dia em que eu marquei obviamente não consegui ir, porque trocaram-me o horário e eu tive que ir trabalhar no dia em que teria folga, portanto foi um bocadinho complicado conseguir ir.
+AGENTE-Entendido. 
+CLIENTE-Se puder dizer-me os dias que têm disponíveis, mais ou menos. 
+AGENTE-Sim, aqui da nossa parte é conforme a sua preferência.
+CLIENTE-Ah, conforme a minha preferência. Ok, posso só ir, deixe-me só ver quais são os dias da próxima semana, se não houver problema. 
+AGENTE-Esteja à vontade, esteja à vontade. 
+CLIENTE-Posso ir Domingo... Na terça-feira dia 4, estaria disponível? 
+AGENTE-Na terça-feira dia 4, deixe-me então aqui confirmar, e gostaria da parte de amanhã ou da tarde? 
+CLIENTE-Dava me mais jeito da parte da tarde, porque depois tinha que ir lá apanhar alguns transportes,é em Gondomar certo? A clínica.
+AGENTE-Sim, sim, aqui tenho indicação que seria a de Gondomar sim. 
+CLIENTE-Exatamente, exato fica mais complicado para mim. 
+AGENTE-Ok, ok deixe-me então aqui confirmar, deixe-me indicar que por motivos de qualidade e segurança a chamada será gravada, autoriza a gravação? 
+CLIENTE-Sim, sim, sim. 
+AGENTE-Então, nós na parte da tarde temos vaga ao meio-dia, à uma, às duas, três, quatro, cinco, seis e sete. 
+CLIENTE-Pode ser a das duas, se não houver problema. 
+AGENTE-A das duas. Muito bem, portanto, na consulta, tem direito ao raio-x panorâmico, que irá avaliar o estado dos dentes, da gengiva e do próprio osso. Terá também direito a outras avaliações feitas pelo dentista, bem como um plano de tratamento integrado e o respetivo ao orçamento, tudo isto sem qualquer tipo de custo. Quanto à localização, nós podemos também enviar por e-mail, ok, por nosso e-mail.
+CLIENTE-É agradecia, sim, sim, sim. 
+AGENTE-E também, um dia antes, recebe um SMS a relembrar e a confirmar da presença. Portanto, aqui o e-mail que recebemos aqui, no caso, desculpa não ficamos com o e-mail na altura registado.Era preciso confirmar consigo se quer receber por e-mail, sabe me indicar o e-mail, por favor? 
+CLIENTE-Sim, sim, é Diana.
+AGENTE-Viana?Diana?
+CLIENTE-Diana, Diana, sim. 
+AGENTE-Ok. Diana, sim. 
+CLIENTE-Alexandra. Diana, Alexandra. 
+AGENTE-Sim, sim, Diana, Alexandra, sim. 
+CLIENTE-Ponto Rocha. 
+AGENTE-Ponto Rocha. 
+CLIENTE-Arroba hotmail.com 
+AGENTE-Arroba hotmail.com ,muito bem. Mando por e-mail as informações e um dia antes um SMS. E fica assim, então, para dia 4, a terça-feira, às 14 horas.
+CLIENTE-Ótimo, ótimo. 
+AGENTE-Está bem? 
+CLIENTE-Ótimo, muito obrigada. 
+AGENTE-De nada, obrigado eu.
+CLIENTE-Não, não, não tenho duvidas, obrigada, bom dia. 
+AGENTE-Obrigado. Uma boa semana então com licença.

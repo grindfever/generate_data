@@ -1,0 +1,29 @@
+AGENTE-Olá, muito bom dia! 
+CLIENTE-Sim.
+AGENTE-Bom dia, meu nome é Sandra Sanches, das clínicas dentárias da SmileUP  Nós estamos a contactar, temos a indicação de Sofia Souza, é familiar com quem estou a falar? 
+CLIENTE-É sim, é a Alice Mateo. 
+AGENTE-Sim, porque tinha um pedido online que nos deixou através do nosso canal digitais, que encaminhou com o e-mail e o contato para as clínicas da SmileUP. Nós estamos a contactar para convidar para uma consulta de avaliação dentária sem custos. A avaliação também poderá usufruir todo agregado familiar, no qual fica com todas as informações do tratamento, de orçamentos e valores. Gostaria de agendar a consulta? 
+CLIENTE-Eu gostaria de agendar a consulta hoje à tarde. 
+AGENTE-Posso verificar, sim. Mas a consulta é para a Sra. Sofia Souza ou para mais alguém? Não, para a Sofia. 
+Vou só informar antes de prosseguir que a chamada é gravada por motivos de qualidade de segurança. Autoriza? 
+CLIENTE-Sim. 
+AGENTE-Obrigada. Pode me informar o nome completo da Sofia Souza? 
+CLIENTE-Sofia Souza de Souza. 
+AGENTE-Sofia Souza de Souza, duas vezes? 
+CLIENTE-Aham, Sofia Silva de Souza. 
+AGENTE-Ah, Silva de Souza. O e-mail está como allif415 arroba gmail.com. Ele está correto? 
+CLIENTE-Isso. Só que antes está uma dúvida. É que eu queria saber valores porque eu tenho que levar a Sofia para ter uma cárie no dente. 
+AGENTE-Sim. Eu vou lhe informar sobre o seu assinamento na nossa clínica, só que também eu não tenho aqui a clínica indicada porque nós temos mais de 78 clínicas espalhadas de norte a todo o país. Você está em Braga? 
+CLIENTE-Isso. 
+AGENTE-Deixe-me então adicionar aqui a clínica em Braga para eu ter acesso à agenda. A avaliação então da nossa clínica, primeiramente, a clínica é feita com uma consulta de avaliação sem custos, onde nessa consulta está incluído o exame também do raio-x panorâmico, o diagnóstico e o orçamento e fica todas as informações para ver se deseja ou não a seguir o tratamento conosco. Mas fica com todas as informações para si referente ao tratamento. A avaliação poderá usufruir todo o agregado familiar, além de amigos próximos e crianças a partir de dois anos em diante. A consulta é mesmo só para a Sofia Sousa. 
+CLIENTE-Isso. 
+AGENTE-Me pergunto, você tem horário hoje à tarde, é isso? 
+CLIENTE-Isso. 
+AGENTE-Deixe-me verificar, né? Conhece a nossa Smile Up em Braga, a nossa clínica em Braga?
+CLIENTE-Vejo na Internet.
+AGENTE-É na Avenida Liberdade, 536. Mas vai ao seu e-mail assim que agendar, o e-mail que está associado na sua ficha. É perto da loja do cidadão do outro lado da rua, está a clínica. Eu tenho assim, hoje então é 27, segunda-feira, eu tenho horários às duas, depois eu vou ter às quatro da tarde e também às cinco horas. Qual horário prefere para agendar? 
+CLIENTE-Às duas. 
+AGENTE-Às duas horas, às quatorze horas? Então eu vou já encaminhar às quatorze horas, vou voltar aqui. Ao agendarmos, como eu lhe informei, vai receber a mensagem do agendamento e vai no e-mail com a marcação, a data, a hora e a morada da clínica da Smile Up. Bem? Fique então agendado. Mais alguma questão?
+CLIENTE-Não está tudo, obrigado.
+AGENTE-Pronto fica então agendado para hoje ás 2 horas em Braga, muito bom dia , boa consulta.
+

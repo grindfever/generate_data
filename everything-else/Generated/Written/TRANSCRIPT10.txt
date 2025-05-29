@@ -1,0 +1,43 @@
+AGENTE-Bom dia, meu nome é Natália Pereira, estou a contactar por parte das clínicas dentárias Smile Up. Nesse telefone eu falo com a senhora Ana Maria Pinto?
+CLIENTE-Sim, sim. 
+AGENTE-Senhora Ana Maria, estou contactando no seguimento de um formulário que a senhora preencheu através de nossas redes sociais, solicitando informações para o cliente. Nesse sentido, eu gostaria de convidá-la a usufruir de uma consulta de avaliação dentária que consiste num raio-X panorâmico, um check-up completo, com diagnóstico e plano de tratamento sem custo, na clínica de Braga.
+CLIENTE-Sim 
+AGENTE-Tenho aqui disponibilidade de horário para a clínica de Braga, tanto na parte da manhã quanto na parte da tarde, sendo que hoje nós ainda temos disponibilidade no final da tarde. 
+CLIENTE-No final da tarde, a que horas? 
+AGENTE-Eu tenho o horário das 19h, deixa eu ver se eu tenho um horário mais cedo nas minhas outras agendas. Informo que a chamada é gravada para a qualidade de segurança, a senhora autoriza a gravação da chamada? 
+CLIENTE-Sim, sim. 
+AGENTE-Eu tenho o horário das 17h, tenho o horário das 19h e deixa eu ver se tem mais algum horário. 
+CLIENTE-E amanhã? Amanhã. 
+AGENTE-Hoje ou amanhã? 
+CLIENTE-Amanhã. Amanhã eu tenho. Amanhã, porque hoje dizem que dá muita chuva, que tem muito temporal e... 
+AGENTE-Tudo bem. Amanhã. 
+CLIENTE-E não é bom. 
+AGENTE-Está bem. Amanhã. 
+CLIENTE-Amanhã tem as 3h? 
+AGENTE-As 15h. Vamos selecionar? 
+CLIENTE-As 15h? 
+AGENTE-Só um instante. 15h. Tenho, sim. Pode ser, então, o horário das 15h. 
+CLIENTE-Pronto. Olhe, e isso fica... fica aonde mesmo. 
+AGENTE-Então, ficou agendado amanhã para as 15h. A senhora, essa consulta também é extensiva, seu agregado. Atendemos crianças a partir de 2 anos. Gostaria de agendar para mais alguém ou seria somente para a senhora? 
+CLIENTE-É para mim mesmo. 
+AGENTE-Sim. A clínica de Braga fica localizada na Avenida da Liberdade, número 536, que é perto do CEF, do Minipreço, da W52. Do outro lado da rua, perto da Loja do Cidadão. 
+CLIENTE-Perto da Loja do Cidadão. 
+AGENTE-Exatamente. 
+CLIENTE-Também tem uns chineses que é cheio, cheio, não é? 
+AGENTE-Deixa eu verificar se eu tenho essa... Tem aqui. Em frente à pastelaria Doce Real, a Vodafone, no final da rua do Raio, fica um pouquinho abaixo da Vodafone, perto da Loja do Cidadão. Mas eu vejo que... 
+CLIENTE-É do mesmo lado da Loja do Cidadão ou do outro lado? 
+AGENTE-Do outro lado. Do lado oposto. 
+CLIENTE-Do outro lado. 
+AGENTE-Exatamente. Eu vou enviar para a senhora. 
+CLIENTE-Pronto, pronto. Eu procuro. Eu procuro lá, porque eu sei onde é a Loja do Cidadão. Tem o Pingo Doce, por baixo, não é? 
+AGENTE-Exatamente. 
+CLIENTE-Tem um mercado que é o Pingo Doce e então é do outro lado da rua? 
+AGENTE-Sim. Exatamente, exatamente. Senhora Ana Maria, me informa o nome completo da senhora. Ana Maria... 
+CLIENTE-Ana Maria Gomes Pinto. 
+AGENTE-Gomes Pinto. Pronto. Eu vou enviar para a senhora, entretanto, um SMS com a data, o horário e o telefone da clínica e também um e-mail com a direção. Então, se a senhora tiver alguma dúvida, alguma questão, é só a senhora nos contactar. 
+CLIENTE-Está bem. Ok. Mas eu amanhã apareço aí. 
+AGENTE-Tudo bem. Vai ser raio-x panorâmico, check-up completo, com diagnóstico e plano de tratamento sem custo. 
+CLIENTE-Sim, senhora, muito obrigada. 
+AGENTE-Muito obrigada, tenha uma boa tarde e continuação de uma boa semana
+CLIENTE-Boa tarde também para a senhora, muito obrigada. 
+AGENTE-Obrigada. Com licença.

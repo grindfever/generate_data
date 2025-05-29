@@ -1,0 +1,53 @@
+
+AGENTE-Sim olá, muito bom dia. Fala Isabel Barros, da linha de apoio ao cliente da Clínica Dentária Smile up em que posso ser útil?
+CLIENTE-Sim, muito bom dia.Sim, claro que sim. Eu queria uma ajuda neste sentido. Eu gostava de fazer uma avaliação e gostava de ir a uma clínica na zona de Lisboa, não sei se tem na margem sul do país, aqui na zona do Montijo, Alcochete, Barreiro.
+AGENTE-Sim, já agora tenho o gosto de estar a falar com a senhora? Peço desculpa.
+CLIENTE-Clara Vila-Cova. 
+AGENTE-Sim, sra Clara Vila-Cova. Permita-me também só informar que motivos de qualidade e segurança a chamada é gravada, até para registro da informação que lhe é prestada,autoriza uma gravação, correto? 
+CLIENTE-Sim, sim, sim com certeza. 
+AGENTE-Obrigada, sim, sra Clara Vila-Cova. Nós temos clínicas, neste caso, na margem sul. Neste caso, temos em Almada, Barreiro, Montijo e Setúbal.
+CLIENTE-Ok.
+AGENTE-Se pretender a consulta de avaliação nas nossas clínicas, faz sempre o raio-x panorâmico e o plano de diagnóstico integral e sem qualquer tipo de custo associado.
+CLIENTE-Ok, eu queria fazer para o Montijo, por favor, que é mesmo na minha área de residência.
+AGENTE-Pronto, com certeza, eu vou preencher então, aqui a sua ficha de marcação de consulta ,a nível de horários , tem preferência de horários, da parte da manhã ou de tarde?
+CLIENTE-Tenho, mais para o final do dia, se possível.
+AGENTE-Ao final do dia, para si, a partir de que horário é que seria?
+CLIENTE-A partir das 5h30.
+AGENTE-A partir das 5h30, pronto. Só para colocar também aqui, para verificarmos já as agendas por parte da clínica do Montijo.
+Para a sua ficha de paciente, posso associar este contacto telefónico, aquele de que me está a ligar Sra Clara?
+CLIENTE-Sim, sim. Sim, sim. Pode sim. 
+AGENTE-Sra Clara Vilacova. Quer que lhe envie para o endereço de e-mail o comprofativo do agendamento e também a localização da clínica no Montijo.
+CLIENTE-Sim, sim. Agradecia, sim.
+AGENTE-Diga-me, então, o endereço de e-mail, por favor.
+CLIENTE-Clara Sofia. 
+AGENTE-Ora, Clara Sofia. 
+CLIENTE-1974. 
+AGENTE-1974 ou 64?
+CLIENTE-7 74.
+AGENTE-74, sim. 
+CLIENTE-Arroba hotmail.com 
+AGENTE-Arroba. arroba hotmail.com. Ora, vamos então aqui. Disse me, então, se possível, sempre depois das 5h30, certo?
+CLIENTE-Certo, sim.
+AGENTE-Ora, vamos então.
+A nível de horário, sra, Clara? Então, para a clínica do Montijo depois das 5h30, se pretender, ainda tenho hoje às 6h, 6h e 7h.
+CLIENTE-Então, às 6h, sim. Pode ser.
+AGENTE-Pode ser, então, hoje para às 6h?
+CLIENTE-Pode, sim.
+AGENTE-Ora, então, vamos então assim. Arroba. E, então, é para a nossa clínica no Montijo. Para hoje, dia 27. De 1 às 18h. Pronto, a nossa clínica no Montijo vou-lhe já dar um ponto de referência, é na rua Joaquim de Almeida, número 79, Fica perto das esquadra da PSP.
+CLIENTE-Sim, ok.
+AGENTE-E em frente ao Cineteatro Joaquim de Almeida. Não sei se conhece?
+CLIENTE-Conheço, conheço, sim. 
+AGENTE-Pronto. Neste caso, então, Sra. Clara, está feito o agendamento, então, para o dia de hoje. Esta consulta, como mencionei, não terá qualquer tipo de custo para a senhora. Vai fazer sempre a ortopantomografia e o plano de diagnóstico ao médico dentista. Ficar com o respectivo orçamento, a nível de tratamento. E a partir dessas informações é que depois tomará a sua decisão. Nesse sentido de dar seguimento ao seu tratamento. Está bem?
+CLIENTE-Ok. Diga-me uma coisa. Existe algum tipo de acordo? Eu tenho ADSE. Tem algum tipo de acordo a esse nível? 
+AGENTE-Não. Acordo direto com a ADSE não temos. Isto porque... E também passo já a dar a informação, Sra. Clara Vila-Cova, porque, às vezes, a ADSE, por vezes, não comparticipa alguns tratamentos na totalidade. Pronto, são considerados, às vezes, estéticos e eles não fazem a comparticipação. Daí, nessa consulta, como nós damos o plano de tratamento e o respectivo orçamento, o que pode fazer é enviar essa documentação para a ADSE e verificar perante a entidade que eles depois dizem quais são os tratamentos que comparticipam e fazem reembolso, nesse sentido. 
+CLIENTE-Ok, ok, ok.
+AGENTE-Está bem?
+CLIENTE-Está bem, está bem. Está bem, está bem.
+AGENTE-Mais alguma dúvida que eu possa ajudar? 
+CLIENTE-Não, não. É tudo. É tudo, é tudo. Obrigada. 
+AGENTE-Ficamos, então, a aguardá-la também para conhecer a nossa clínica no Montijo.
+CLIENTE-Eu acho que eles já me estão a ligar.Já estou aqui com uma chamada e estão me a ligar. 
+AGENTE-Pronto. Então, agradeço.
+CLIENTE-Obrigada,bom dia.
+AGENTE-Obrigada, bom dia.
+CLIENTE-Obrigada.

@@ -1,0 +1,53 @@
+AGENTE-Olá, muito bom dia. Bom dia, está me a ouvir? Olá, bom dia? 
+CLIENTE-Bom dia. 
+AGENTE-O meu nome é Sandra Sanchez, das clínicas dentárias da SmileUp, Tenho o gosto de falar com o Sr. Daniel Santos. 
+CLIENTE-Sim, sim. 
+AGENTE-O Sr. Daniel Santos tinha encaminhado para nós um pedido através dos nossos canais digitais para as nossas clínicas da Smile Up e gostaríamos de convidá-lo para uma consulta. É uma avaliação dentária sem custos, no qual o Sr. possa ter todas as informações e ficar com as informações de tratamento, assinamentos de valores. Não indicou uma das clínicas próximas de si. Se o Sr. quiser, eu posso verificar se temos alguma próxima. Nós temos mais de 78 clínicas espalhadas, de norte a sul do país. O Sr. conhece alguma das clínicas da Smile Up, Sr. Daniel Santos? 
+CLIENTE-Sim, na verdade foi minha esposa que me contatou. Eu cheguei em casa sexta-feira, eu trabalho de caminhonista, e eu cheguei em casa sexta-feira com muita dor de dente e eu precisava ser atendido no sábado, só que aí não obtive  resposta, hoje eu já estou na estrada de novo. Só tenho 24 horas, às vezes 45, para ficar em casa e depois subo de novo, então tem que ser quando eu voltar de novo. 
+AGENTE-Ah, sim. Mas o Sr. quer deixar alguma consulta agendada para quando o Sr. retornar? Para já poder ir à clínica? 
+CLIENTE-Sim. E se acontecer de algum imprevisto e tiver que fazer um reagendamento de data, isso é possível? 
+AGENTE-Sim, sim. Aí pode nos contatar novamente para fazer um novo agendamento. O Sr. Daniel Santos, qual das nossas clínicas que o Sr. conhece, para eu poder adicionar aqui, para eu poder ter acesso à agenda? 
+CLIENTE-É Smile, não é? Como é que é o nome? 
+AGENTE-Isso, Smile Up. O UP no final. 
+CLIENTE-Isso, isso, Smile Up. Ok. E por Tavira tem uma ao pé do CTT, não é?
+AGENTE-Sim. Temos uma em Tavira. Vou informar com o Sr. então a nossa morada, a nossa morada em Tavira então, é Rua Doutor Augusto Carlos Paulo, número 10. Em frente ao edifício do CESA, ao lado do edifício da MEL, próximo ao Tribunal. 
+CLIENTE-Ah, exatamente. É, é. Exatamente. Tá ok. Já sei onde é. 
+AGENTE-Quando nós agendamos, nós encaminhamos no e-mail que está associado a morada, com a data e a hora da consulta. Vou só confirmar os seus dados que preenchi. Permita-me lhe informar também que a nossa chamada é gravada por motivos de qualidade e de segurança. O Sr. autoriza? 
+CLIENTE-Sim, sim. 
+AGENTE-Obrigada, o seu nome é Daniel Matos dos Santos, não é? O seu nome completo. O seu e-mail é danielsantos. Aí vem o número 198223, arroba gmail.com. Está tudo correto? 
+CLIENTE-Sim. 
+AGENTE-Sim? Quando o Sr. retorna então? 
+CLIENTE-Olha, eu tenho previsão de voltar dia 6. 
+AGENTE-Dia 6? 
+CLIENTE-É. Sim, acredito que sim, mas é como eu disse. Isso pode ter que ser, chegue dia 6 e eles me mandem lá para a Inglaterra ou fazer uma viagem na Alemanha, que eu consiga chegar só dia 7 ou dia 8, mas a princípio seria dia 6. 
+AGENTE-Mas o Sr. quer deixar então agendado o dia 6 ou o dia 7? O que é viável? 
+CLIENTE-Pode ser para o dia 7? Pode ser para o dia 7? Vamos tentar para o dia 7? 
+AGENTE-Sim, dia 7 eu também tenho horários disponíveis, então desde a manhã até a tarde. Prefere de manhã ou tarde? 
+CLIENTE-Olha, eu prefiro a tarde, viu? 
+AGENTE-Eu tenho as duas, as três, é sim, eu tenho as duas, as três e as quatro. Qual dos horários? 
+CLIENTE-Pode ser as duas. 
+AGENTE-Pode ser as 14 horas, duas horas, muito bem. A consulta é uma avaliação dentária sem custos, inclui o raio-x também panorâmico, não vai ter custos, o tratamento, o diagnóstico e o orçamento, no qual fica com todas as informações. Eu vou agendar então para o Sr., então vai ser dia 7 de fevereiro, às 14 horas. Recebe no seu e-mail a nossa morada, da clínica em Tavira, com a data e o horário que está agendado, e uma mensagem antes para relembrar. Me permite, só perguntar, você teria interesse para mais alguém, além do Sr., para usufruir da consulta? 
+CLIENTE-Se eu poderia indicar mais alguém? 
+AGENTE-Não, se o Sr. tem interesse também de agendar para mais alguém, ou quer aproveitar a consulta, visto que não vai ter custos, trazer um familiar, um amigo, criança, também poderá, a partir de dois anos em diante. 
+CLIENTE-Olha, eu posso sim, posso levar o meu miúdo, que tem 12 anos, para fazer uma avaliação. 
+AGENTE-Ele vai junto com o Sr. no mesmo horário, eu vou colocar na ficha, então, que a consulta vai para o filho, para ele poder também usufruir. Só um momento, então.
+CLIENTE-Está bem. Posso aproveitar para te fazer uma pergunta? 
+AGENTE-Sim, sim. Pode me dizer primeiro o nome do seu filho? 
+CLIENTE-É Caleb Santos. 
+AGENTE-Caleb? É com capa?
+CLIENTE-Com capa, sim. 
+AGENTE-Santos, né? 
+CLIENTE-Sim. 
+AGENTE-E tem 12 anos, é isso? 
+CLIENTE-Exatamente. 
+AGENTE-Só deixar aqui para o colega da clínica saber. Então, ele faz no mesmo horário consigo, então, no mesmo dia que está agendado. E acede às duas da tarde, também para si e para o seu filho. Também não vai ter nenhum custo. Então, pode perguntar o que quiser. 
+CLIENTE-Ah, ok. Você sabe me dizer em quanto fica o valor de uma extração? Só para mim... 
+AGENTE-Sim, Sr. Daniel Santos, aqui na linha que eu estou contigo, nós não temos os preçários das clínicas, porque as clínicas é uma rede de clínicas, né? Dá-se melhor que trabalhe com o tipo de tratamento e também com facilidade no pagamento. Nós agendamos a primeira consulta. Nessa consulta, já é para conhecer o que nós fazemos, a nossa clínica, e já vai ter as informações sobre os valores que nós temos, os tratamentos e o diagnóstico. E aí, depois, verifica se é de gosto ou não dar o seguimento conosco. Está bem, seu Daniel Santos, eu não tenho valores aqui. Mas pode verificar tudo na clínica quando for. O senhor fica com todas as informações para si. Eu agendei, então, para si e para o seu filho, como pediu no dia 7 de fevereiro, agora às 14 horas, vai ser uma quinta-feira. Mas vai no seu e-mail à morada, com a data da consulta e uma mensagem antes para relembrar. Depois, também, no contato da clínica, o senhor pode entrar em contato se quiser fazer um novo agendamento. Ou, se ir ao site da clínica, da smile up .pt, tem também o 800-100-222, que é uma linha de apoio cliente que nós temos. Também fazemos a marcação da consulta por essa linha. Mais alguma questão, seu Daniel Santos? 
+CLIENTE-Ok. Não, era só isso. 
+AGENTE-Então, está agendado para si e para o seu filho. Está bem? Dia 7 de fevereiro, às 2 da tarde. 
+CLIENTE-Muito obrigado. 
+AGENTE-Muito obrigada. 
+CLIENTE-Obrigado. 
+AGENTE-Um bom trabalho e um bom dia. 
+CLIENTE-Obrigado, igualmente para você. 
+AGENTE-Obrigada, obrigada.

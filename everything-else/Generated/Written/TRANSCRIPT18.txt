@@ -1,0 +1,44 @@
+AGENTE-Olá, muito bom dia.
+CLIENTE-Bom dia. 
+AGENTE-Bom dia. O meu nome é Sandra Sanchez, das Clínicas Dentárias da Smile Up. Tenho que falar com a Sra. Maria Pinto. 
+CLIENTE-Ah, sim, sim, sim. 
+AGENTE-A Sra. Maria Pinto participou de uma ação de rua com a nossa promotora para a nossa clínica no Portimão. Nesse sentido, gostaríamos de convidá-la para uma consulta. É uma avaliação dentária sem custos, um checkup dentário. Vamos agendar, então, para que possa ir à nossa clínica? 
+CLIENTE-Ah, sim, claro. 
+AGENTE-Eu vou verificar, então, com a senhora uma data. Só vou informar que a nossa chamada é gravada por motivos de qualidade de segurança, a Sra. autoriza? 
+CLIENTE-Sim, está bem. 
+AGENTE-A Sra. Maria Pinto, o seu nome completo é Maria Mafalda Pinto? 
+CLIENTE-Sim, Maria Mafalda Gomes da Veiga Pinto. 
+AGENTE-Gomes? 
+CLIENTE-Da Veiga Pinto. 
+AGENTE-Vou colocar aqui que estava faltando. A Sra. Maria Mafalda Gomes da Veiga Pinto. Tem um e-mail para encaminhar depois da marcação? 
+CLIENTE-Não, não tenho. 
+AGENTE-Não tem. Está bem, não há problema. Eu deixo sem aqui. A nossa morada da clínica no Portimão fica dentro do Centro Comercial do Continente, no Portimão, na quinta da Malata. A senhora a conhece? 
+CLIENTE-Conheco, sim. Eu moro perto do Continente. 
+AGENTE-Ok. 
+CLIENTE-Não conheço a clínica, mas vamos ver. 
+AGENTE-Sim, sim. Só vou informar, então, vamos verificar uma data. Só vou informar que a chamada é gravada por motivos de qualidade de segurança. 
+CLIENTE-Sim. 
+AGENTE-Obrigada. A Sra. Maria Pinto, nesse sentido, eu vou ter horário se a senhora tiver disponibilidade para ir à nossa clínica. 
+CLIENTE-Sim. 
+AGENTE-Eu tenho hoje e amanhã, de manhã, tenho à tarde e tenho hoje também. 
+CLIENTE-Não dá para depois de manhã? 
+AGENTE-Qual dia, então? A senhora não pode nem hoje nem amanhã. É na quarta-feira, de manhã? 
+CLIENTE-Pode ser de tarde, porque de manhã também não dá. 
+AGENTE-Sim, na quarta á tarde. Eu tenho às duas, sim, às quatro da tarde. 
+CLIENTE-Pode ser às quatro da tarde. 
+AGENTE-Pode ser às quatro da tarde, na quarta-feira, então? 
+CLIENTE-Sim, na quarta-feira, sim. 
+AGENTE-Vou só, então, ir informar correto sobre essa avaliação. É uma consulta de avaliação sem qualquer tipo de custos. Inclui o exame do raio-x panorâmico, o diagnóstico e o orçamento. Poderá também usufruir o agregado familiar, amigos e crianças, a partir de dois anos. A senhora gostaria de aproveitar a consulta, além da senhora, para mais alguém? 
+CLIENTE-Não, eu não preciso .É só para mim agora. 
+AGENTE-Só para a senhora. Está agendada, então, para, como me pediu, na quarta-feira, está bem? 
+CLIENTE-Sim. 
+AGENTE-Que é dia vinte e nove, deixa eu ver se está aqui no sistema correto. Dia vinte e nove às quatro horas da tarde. 
+CLIENTE-Sim. 
+AGENTE-Mas recebe uma mensagem antes da clínica para relembrar. 
+CLIENTE-Sim, sim. Sim. 
+AGENTE-Está, Maria, mais alguma questão referente a essa consulta ou agendamento? 
+CLIENTE-Não, não. 
+AGENTE-Está tudo, então? 
+CLIENTE-Está tudo, então, sim. 
+AGENTE-Muito obrigada, então, continuação de  um bom dia. 
+CLIENTE-Obrigada, bom dia. Obrigada, bom dia. 

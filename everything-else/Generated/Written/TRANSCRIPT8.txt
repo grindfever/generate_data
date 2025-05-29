@@ -1,0 +1,37 @@
+CLIENTE-Olá, bom dia.
+AGENTE-Bom dia, meu nome é Mariana Massecheira e eu estou a contactar por parte da clínica dentária da SmileUp. Estou a falar com o senhor da Davidson Correia. 
+CLIENTE-Sim. 
+AGENTE-Eu estou a estar em contacto consigo e seguimento de um pedido de contacto que foi através dos nossos canais digitais e estaríamos então a convidá-lo para uma consulta de avaliação dentária sem custos. Qual é que seria a sua disponibilidade? 
+CLIENTE-Olha, eu tinha marcado uma consulta para dia 2, só que dia 2 não é possível. 
+AGENTE-Então, quer então reagendar? 
+CLIENTE-Sim, sim, se possível. 
+AGENTE-Sim, para quando é que teria então a disponibilidade? 
+CLIENTE-Dia 2 dá no sábado, próximo sábado. Sem ser dia 2 no outro. 
+AGENTE-Neste caso, no dia 8, correto? 
+CLIENTE-Isso mesmo. 
+AGENTE-E seria para a clínica do Espinho, certo? 
+CLIENTE-Isso mesmo. 
+AGENTE-Então, para sábado dia 8, tenho, por exemplo, às 10, 11, meio-dia, tenho depois à 1, às 2, 4, 5 e 6. 
+CLIENTE-Para as duas. 
+AGENTE-Às duas horas. Permita-me só o informar, que por motivos de qualidade e segurança, a chamada é gravada. Autoriza? 
+CLIENTE-Sim, sim. 
+AGENTE-Obrigada. Pode-me só confirmar aqui o seu nome completo, por favor? 
+CLIENTE-Davidson Correia Reis Rodrigues. 
+AGENTE-Reis Rodrigues. Eu tenho aqui um e-mail que é Davidson Correia 017 arroba gmail.com, está correto? 
+CLIENTE-Correto. 
+AGENTE-Muito bem. A consulta é só mesmo para si? Ou gostaria de levar mais alguém consigo, visto que esta é extensível também para o agregado familiar. 
+CLIENTE-É só eu. 
+AGENTE-Muito bem. A nossa clínica do Espinho fica na Rua 19, perto da feira e da Câmara. Conhece? 
+CLIENTE-Sim. 
+AGENTE-Um dia antes vamos enviar-lhe uma SMS para confirmar e relembrar o agendamento. A consulta não tem, então, qualquer tipo de custo. Está incluído um raio-x panorâmico, um plano diagnóstico, se necessário, com respectivo orçamento e vai-lhe o tratamento da informação no seu e-mail. 
+CLIENTE-Ok. 
+AGENTE-E fica o agendada a consulta para o dia 8, ok? 
+CLIENTE-Sim. 
+AGENTE-Às duas horas. 
+CLIENTE-Ok. 
+AGENTE-Da minha parte, alguma questão? Posso ajudar? 
+CLIENTE-Não, não é somente isso. 
+AGENTE-Uma boa consulta, então, para si. Obrigada pela disponibilidade. 
+CLIENTE-Obrigado eu. 
+AGENTE-Obrigada, bom dia. 
+CLIENTE-Tenha um bom dia.

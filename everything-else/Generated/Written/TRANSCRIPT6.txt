@@ -1,0 +1,33 @@
+CLIENTE-Estou!
+AGENTE-Estou sim, bom dia.
+CLIENTE-Estou! 
+AGENTE-Consegue me ouvir? 
+CLIENTE-É a Dona Eduarda? 
+AGENTE-Estamos a entrar em contacto por parte da clínica dentária da SmileUp, o meu nome é Mariana de Masqueira. Estou a  falar com a senhora Luisa Carreiro?
+CLIENTE-Sim, sou eu, mas é que está a chover e depois eu... 
+AGENTE-A senhora fez um pedido de contacto através dos nossos canais digitais e seria para convidá-la para uma consulta de avaliação dentária sem custos. Qual é que seria a sua disposição? 
+CLIENTE-Pode ser na... Ai! Na quarta-feira? 
+AGENTE-Na quarta, muito bem. 
+CLIENTE-Eu tenho médico ás dez e meia, tem que ser mais tarde. 
+AGENTE-Às dez e meia, muito bem. Seria para a clínica do Fórum Viseu, mesmo dentro do shopping, correto?
+CLIENTE-Sim, sim. 
+AGENTE-Eu, por exemplo, na quarta-feira, dia 29, tenho ao meio-dia, tenho depois às duas, tenho às três, às quatro... 
+CLIENTE-Não, pode ser às duas, sim? 
+AGENTE-Está 
+CLIENTE-Está? 
+AGENTE-Às duas horas.Então, por motivos de qualidade e segurança, a chamada é gravada. Autoriza? 
+CLIENTE-Sim, sim, sim. 
+AGENTE-Obrigada. Confira-me só aqui o seu nome completo, por favor, senhora Luisa. 
+CLIENTE-Maria Luisa Porto Carreiro. 
+AGENTE-Sim, eu tenho aqui um e-mail que é luizacarreiro79 arroba gmail.com, está correto? 
+CLIENTE-Exatamente, sim, está correto.
+AGENTE-A consulta é só mesmo para si ou gostaria de levar mais alguém consigo? 
+CLIENTE-Não, eu vivo sozinha. 
+AGENTE-Ah, é só mesmo para si. É para pôr implantes dentários, porque eu tenho que arrancar os dentes e depois sim. Pronto. A nossa primeira consulta não tem qualquer tipo de custo, está incluído um raio-x panoramico, bem como um plano de tratamento integral e o respectivo orçamento está bem? Vai receber toda a informação no seu e-mail um dia antes da consulta, vai receber também uma SMS para a relembrar da consulta. Assim consegue verificar todas as condições e depois decidir se quer ou não dar continuidade  Está bem, senhora Luisa? 
+CLIENTE-Está bem, muito obrigada. 
+AGENTE-Muito obrigada. Pronto, a chamada é para si no dia 29, quarta-feira, às duas horas. 
+CLIENTE-Muito obrigada e um bom dia, muito obrigada. Obrigada, igualmente. 
+AGENTE-Boa consulta para você, obrigada.
+CLIENTE-Muito obrigada.
+AGENTE-Obrigada.
+

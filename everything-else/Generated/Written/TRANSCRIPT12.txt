@@ -1,0 +1,44 @@
+AGENTE-Olá, boa tarde. Olá, bom dia. 
+CLIENTE-Boa tarde, bom dia. 
+AGENTE-O meu nome é Pedro Araújo, falo por parte da Clínica Dentária da SmileUP. Estou a falar com a senhora Mónica? 
+CLIENTE-Sim, sim. Olá. Sim, sim. 
+AGENTE-Mónica, estou a contactá-la no seguimento de uma ação bancada, onde participou. Forneceu contacto a uma das nossas promotoras. Neste sentido, gostaria de a convidar a realizar uma consulta da avaliação dentária, sem qualquer tipo de custo, na clínica de Guimarães. Deseja já marcar esta consulta? 
+CLIENTE-Só dá se for sábado de manhã. 
+AGENTE-Diga, peço desculpa. 
+CLIENTE-Dá só sábado de manhã. 
+AGENTE-Só mesmo no sábado? Eu conseguiria marcar na terça ou na quarta? 
+CLIENTE-Pois, mas durante a semana é chato, porque não tenho transporte, para ir para baixo. Também saio às seis, entretanto já não tem transporte para ir para baixo. Se der para marcar para sábado de manhã, era o ideal. 
+AGENTE-Sim, sim, com certeza. Consigo marcar para o sábado da parte de amanhã, às dez. Pode ser? 
+CLIENTE-Pode ser, pode ser. 
+AGENTE-Antes de seguir, gostaria só de informar que por motivos de qualidade e segurança, a chamada será gravada. Autoriza? 
+CLIENTE-Sim, sim.
+AGENTE-Ótimo, então. Esta consulta, senhora Mónica, não terá qualquer custo para si. Será realizado um raio-X panorâmico, um rastreio oral completo e um plano de tratamento integral com o respetivo orçamento. Diga-me o seguinte, é só para si esta consulta ou deseja marcar para mais alguém? 
+CLIENTE-Para a minha filha, para a Joana. Joana Carvalho. 
+AGENTE-Muito bem. Podería-me só confirmar a idade, por favor? 
+CLIENTE-Quarenta e seis. 
+AGENTE-Não, não, não . Da filha. 
+CLIENTE-A Joana? Catorze. 
+AGENTE-Bem, vou deixar aqui já a indicação. Ficou, então, marcada para a clínica de Guimarães. A senhora tem algum e-mail que me consiga facultar? 
+CLIENTE-Não, não, não tenho. 
+AGENTE-Não há problema. 
+CLIENTE-Esta clínica fica onde? Era perto das Finanças, não é? 
+AGENTE-Diga? 
+CLIENTE-A clínica fica onde? Era á beira das Finanças. 
+AGENTE-É perto do Guimarães Shopping, logo a seguir ao Hotel Ibis. 
+CLIENTE-Ok. 
+AGENTE-Sem Salva Avenida. Quase no início do passeio, do lado direito. Ok, ok. Ao chegar ao Bulama. 
+CLIENTE-Está bom está, obrigadinha. 
+AGENTE-Pronto, neste caso, está marcada para si e para a sua filha às dez, está bem? No sábado, dia 1 de Fevereiro. Esta consulta não terá qualquer custo nem para si nem para a sua filha, está bem? 
+CLIENTE-Está bom, está. 
+AGENTE-Está marcada. Irá receber uma mensagem da clínica com a indicação que a consulta está marcada, está bem? 
+CLIENTE-Sim, sim. 
+AGENTE-Neste caso, para a sua filha, portanto, como é menor vão as duas na mesma hora, está bem? 
+CLIENTE-Está bom, está, obrigada. 
+AGENTE-Pronto, da minha parte alguma dúvida ou questão que queira colocar? 
+CLIENTE-Não, não, está tudo. Está tudo certo. 
+AGENTE-Muito bem, agradeço-lhe então a sua disponibilidade, Sra. Mónica. Desejo-lhe então uma continuação de um bom dia. Já agora confirma-me só o nome desculpa, da sua filha? 
+CLIENTE-Joana Carvalho. 
+AGENTE-Joana Carvalho, é isso, era só para perceber se estava aqui correto. Obrigado na mesma pela sua disponibilidade. 
+CLIENTE-Ok, obrigado. 
+AGENTE-Agradeço-lhe um bom dia, boa consulta e uma boa semana. 
+CLIENTE-Obrigado, obrigado, bom dia. 

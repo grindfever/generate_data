@@ -1,0 +1,2221 @@
+#1
+Agente - Boa tarde, está a falar com a Natália Pereira do apoio ao cliente da SmileUP. Falo com a Sra. Daniela Moreira?
+Cliente - Sim, sou eu.
+Agente - Olá, Sra. Daniela! Vi que preencheu os seus dados nas redes sociais da SmileUP para saber mais sobre a consulta gratuita. Ainda está interessada?
+Cliente - Sim, estou!
+Agente - Ótimo! Antes de avançarmos, informo que esta chamada está a ser gravada para fins de qualidade e melhoria do serviço. Posso continuar?
+Cliente - Sim, claro.
+Agente - Obrigada! A consulta é totalmente gratuita, inclui raio-X panorâmico, um diagnóstico completo com o médico dentista e um plano de tratamento caso queira continuar na SmileUP. Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém além de si?
+Cliente - Não, só para mim.
+Agente - Perfeito! Temos disponibilidade para quarta às 14,15 ou ás 18 horas ou na sexta-feira às 11. Qual prefere?
+Cliente - Sexta às 11.
+Agente - Ficou então marcada a sua consulta para sexta-feira às 11 horas, na clínica SmileUP do Porto. Agora só preciso de confirmar os seus dados.
+Agente - O seu e-mail é daniela moreira 44  arroba hotmail.com, correto?
+Cliente - Sim, está certo.
+Agente - E o seu número de telemóvel mantém-se o 913 456 789?
+Cliente - Sim, está correto.
+Agente - Perfeito! Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta para relembrar. Alguma dúvida?
+Cliente - Não, tudo certo.
+Agente - Ótimo, Sra. Daniela! Até sexta-feira!
+Cliente - Obrigada, até lá!
+
+#2
+Agente - Boa tarde, está a falar com a Elsa Dantas do apoio ao cliente da SmileUP. Falo com a Sra. Joana Lopes?
+Cliente - Sim, sou eu.
+Agente - Olá, Sra. Joana! Vi que preencheu os seus dados no site da SmileUP, mas não conseguiu marcar a consulta. Ainda está interessada?
+Cliente - Sim, e queria marcar para o meu marido também.
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+Cliente- Autorizo.
+Agente - Ótimo! A consulta inclui raio-X panorâmico, um diagnóstico completo e um plano de tratamento. Como ambos são maiores de idade, posso marcar as consultas em horários seguidos.
+Agente - Temos disponibilidade para segunda-feira às 14, 15 e ás 16 horas ou na quinta-feira às 10, 11 e 12 horas.
+Cliente - Pode ser segunda às 15 para mim e 16 para o meu marido.
+Agente - Perfeito! Agora só preciso confirmar os dados. O seu e-mail é joana lopes 29 arroba gmail.com, correto?
+Cliente - Sim, está certo.
+Agente - E o seu número de telemóvel mantém-se o 914 678 321?
+Cliente - Sim.
+Agente - Para o seu marido, deseja usar o mesmo e-mail e telemóvel ou quer registar os dele?
+Cliente - Pode usar os mesmos.
+Agente - Combinado! As consultas ficaram marcadas para segunda-feira às 15 para a Sra. Joana e às 16 horas para o Sr. Carlos, na SmileUP de Lisboa. Vai receber um e-mail com todas as informações e um SMS de lembrete um dia antes da consulta.
+Cliente - Obrigada!
+Agente - De nada, Sra. Joana! Até segunda-feira!
+
+#3
+Agente - Boa tarde, está a falar com a Sandra Sanchez do apoio ao cliente da SmileUP. Falo com a Sra. Patrícia Ribeiro?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Patrícia! Vi que preencheu os seus dados numa ação de rua com a nossa promotora para saber mais sobre a consulta gratuita. Ainda está interessada?
+
+Cliente - Sim, e queria marcar para o meu filho também.
+
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Ótimo! A consulta é totalmente gratuita, inclui raio-X panorâmico, um diagnóstico completo e um plano de tratamento. Como o seu filho é menor, a consulta será feita no mesmo horário que a sua. Qual o nome e idade dele?
+
+Cliente - É o Tomás Ribeiro, tem 10 anos.
+
+Agente - Obrigada, Sra. Patrícia! Temos disponibilidade para terça-feira às 14 ou na sexta-feira às 16, 17 ou ás 18 horas.
+
+Cliente - Pode ser terça às 14.
+
+Agente - Perfeito! Agora só preciso confirmar os dados. O seu e-mail é patricia.ribeiro 123 arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel mantém-se o 912 345 678?
+
+Cliente - Sim.
+
+Agente - Para o Tomás, deseja utilizar os mesmos contactos ou prefere registar os dele?
+
+Cliente - Pode usar os mesmos.
+
+Agente - Ótimo, Sra. Patrícia! A consulta ficou marcada para terça-feira às 14 horas, na SmileUP do Porto. Vai receber um e-mail com as informações e um SMS de lembrete um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Patrícia! Até terça-feira!
+
+#4
+Agente - Boa tarde, está a falar com a Ana Correia do apoio ao cliente da SmileUP. Falo com o Sr. Ricardo Fernandes?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. Ricardo! Vi que preencheu os seus dados no Instagram da SmileUP para saber mais sobre a consulta gratuita. Ainda está interessado?
+
+Cliente - Sim, estou.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para fins de qualidade. Posso continuar?
+
+Cliente - Sim, sem problema.
+
+Agente - Ótimo! A consulta é totalmente gratuita, inclui raio-X panorâmico, um diagnóstico completo e um plano de tratamento caso queira continuar a ser tratado na SmileUP.
+
+Agente - Como a consulta é gratuita, pode também trazer um familiar ou amigo para usufruir desta oportunidade. Gostaria de marcar para mais alguém?
+
+Cliente - Não, só para mim mesmo.
+
+Agente - Sem problema! Temos disponibilidade para quarta-feira às 10, 11 ou 12 horas ou na sexta às 15 ou ás 16. Qual prefere?
+
+Cliente - Pode ser sexta às 15.
+
+Agente - Ficou então marcada a sua consulta para sexta-feira às 15 horas, na clínica SmileUP de Lisboa. Agora só preciso de confirmar os seus dados.
+
+Agente - O seu e-mail é ricardo.fernandes 23 arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel é 915 234 678?
+
+Cliente - Sim, esse mesmo.
+
+Agente - Perfeito! Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta para relembrar.
+
+Cliente - Ok, obrigado.
+
+Agente - De nada, Sr. Ricardo! Até sexta-feira!
+
+#5
+Agente - Boa tarde, está a falar com a Isabel Barros do apoio ao cliente da SmileUP. Falo com a Sra. Marta Nunes?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Marta! Vi que preencheu os seus dados no site da SmileUP, mas não conseguiu concluir o agendamento. Ainda está interessada?
+
+Cliente - Sim, quero marcar.
+
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Perfeito! A consulta é gratuita, inclui raio-X panorâmico, um diagnóstico completo e um plano de tratamento personalizado.
+
+Agente - Pode também trazer um familiar ou amigo para aproveitar esta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para a minha irmã também.
+
+Agente - Excelente! Como ela é maior de idade, posso marcar em horários seguidos.
+
+Agente - Temos disponibilidade para terça-feira às 13, 14 e 15 horas ou quinta-feira às 9, 10 e 11 horas.
+
+Cliente - Pode ser terça às 14 horas para mim e às 15 para ela.
+
+Agente - Perfeito! Agora preciso confirmar os seus dados. O seu e-mail é marta.nunes 111 arroba gmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 913 987 654?
+
+Cliente - Sim, está correto.
+
+Agente - Para a sua irmã, deseja usar os mesmos contactos ou prefere dar os dela?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Ótimo! As consultas ficaram marcadas para terça-feira às 14 para a Sra. Marta e às 15 horas para a Sra. Sofia, na SmileUP do Porto.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Marta! Até terça-feira!
+
+
+#6
+Agente - Boa tarde, está a falar com o Gonçalo Cunha do apoio ao cliente da SmileUP. Falo com a Sra. Beatriz Costa?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Beatriz! Vi que preencheu os seus dados numa ação de rua com a nossa promotora para saber mais sobre a consulta gratuita. Ainda está interessada?
+
+Cliente - Sim, quero marcar.
+
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Perfeito! A consulta é gratuita, inclui raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para aproveitar esta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, queria marcar para o meu filho também.
+
+Agente - Ótimo! Como ele é menor, a consulta será feita no mesmo horário que a sua. Qual o nome e idade dele?
+
+Cliente - Pedro Costa, tem 8 anos.
+
+Agente - Obrigado, Sra. Beatriz! Temos disponibilidade para segunda-feira às 11 ou 12 horas ou na quarta-feira às 13, 14 ou 15 horas.
+
+Cliente - Pode ser segunda às 11.
+
+Agente - Perfeito! Agora preciso confirmar os seus dados. O seu e-mail é beatriz costa 22 arroba gmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 916 543 210?
+
+Cliente - Sim.
+
+Agente - Para o Pedro, deseja usar os mesmos contactos ou prefere dar os dele?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Ótimo! A consulta ficou marcada para segunda-feira às 11 na SmileUP de Braga.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Beatriz! Até segunda-feira!
+
+#7
+Agente - Boa tarde, está a falar com a Elsa Dantas do apoio ao cliente da SmileUP. Falo com o Sr. João Almeida?
+
+Cliente - Sim, sou eu.
+
+Agente - Ótimo, Sr. João! Vi que preencheu os seus dados no site da SmileUP, mas não concluiu a marcação. Ainda está interessado na consulta gratuita?
+
+Cliente - Hmm... talvez. Como funciona?
+
+Agente - A consulta é totalmente gratuita e inclui um raio-X panorâmico, uma avaliação completa da saúde oral e um plano de tratamento, caso deseje continuar os seus cuidados na SmileUP.
+
+Agente - Como a consulta é grátis, pode também trazer um familiar ou amigo para aproveitar esta oportunidade. Gostaria de marcar para mais alguém?
+
+Cliente - Acho que só para mim mesmo.
+
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Claro! Temos disponibilidade para quinta-feira às 10, 11, ou ao meio dia ou na sexta-feira às 16 horas. Algum desses horários funciona para si?
+
+Cliente - Pode ser quinta às 10.
+
+Agente - Perfeito! Agora preciso de confirmar os seus dados. O seu e-mail é joao.almeida arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel é 914 678 321?
+
+Cliente - Sim.
+
+Agente - Obrigado! A sua consulta ficou marcada para quinta-feira às 10 horas na SmileUP de Coimbra.
+
+Agente - Vai receber um e-mail com as informações e um SMS um dia antes da consulta para relembrar.
+
+Cliente - Está bem, obrigado.
+
+Agente - De nada, Sr. João! Até quinta-feira!
+
+#8
+Agente - Boa tarde, está a falar com o Pedro Silva do apoio ao cliente da SmileUP. Falo com o Sr. António Mendes?
+
+Cliente - Sim, sou eu.
+
+Agente - Sr. António, vi que preencheu os seus dados numa ação de rua com a nossa promotora para saber mais sobre a consulta gratuita. Ainda está interessado?
+
+Cliente - Sim, quero marcar.
+
+Agente - Queria lhe informar que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Ótimo! A consulta é gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir da consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para a minha esposa.
+
+Agente - Perfeito! Como ela é maior de idade, posso marcar em horários seguidos.
+
+Agente - Temos disponibilidade para segunda-feira às 14, 15 e 16 horas ou na quarta-feira às 10, 11, 12 e 13 horas.
+
+Cliente - Segunda às 15 para mim e às 16 para ela.
+
+Agente - Ficou então marcado para segunda-feira às 15 horas para o Sr. António e às 16 para a Sra. Carla, na SmileUP de Faro.
+
+Agente - Agora só preciso confirmar os seus dados. O seu e-mail é antonio.mendes arroba hotmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 917 234 567?
+
+Cliente - Sim, está certo.
+
+Agente - Para a Sra. Carla, quer utilizar os mesmos contactos ou prefere dar os dela?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! Vai receber um e-mail com as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigado!
+
+Agente - De nada, Sr. António! Até segunda-feira!
+
+
+#9
+Agente - Boa tarde, está a falar com a Natália Pereira do apoio ao cliente da SmileUP. Falo com a Sra. Sofia Matos?
+
+Cliente - Sim, sou eu.
+
+Agente - Vi que preencheu os seus dados no Facebook da SmileUP, mas não concluiu a marcação. Ainda está interessada na consulta gratuita?
+
+Cliente - Sim, mas queria saber mais.
+
+Agente - Queria lhe informar antes de mais que a chamada será gravada para fins de qualidade e melhoria do serviço. Autoriza?
+
+Cliente- Autorizo.
+
+Agente - Ok, a consulta é totalmente gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para a minha filha de 9 anos.
+
+Agente - Perfeito! Como ela é menor, a consulta será feita no mesmo horário que a sua.
+
+Agente - Temos disponibilidade para terça-feira às 14 ou sexta às 10 ou ás 11 horas.
+
+Cliente - Pode ser sexta às 11.
+
+Agente - Perfeito! Agora preciso confirmar os seus dados. O seu e-mail é sofia matos arroba gmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 915 876 543?
+
+Cliente - Sim.
+
+Agente - Para a sua filha, deseja usar os mesmos contactos ou prefere dar outros?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Ótimo! A consulta ficou marcada para sexta-feira às 11 horas na SmileUP de Setúbal.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Sofia! Até sexta-feira!
+ 
+#10
+Agente - Boa tarde, está a falar com a Sandra Sanchez do apoio ao cliente da SmileUP. Falo com o Sr. Ricardo Mendes?
+
+Cliente - Sim, sou eu.
+
+Agente - Ótimo, Sr. Ricardo! Vi que preencheu os seus dados no site da SmileUP, mas não concluiu a marcação. Ainda está interessado na consulta gratuita?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, sem problema.
+
+Agente - Obrigado! A consulta é totalmente gratuita, inclui um raio-X panorâmico, uma avaliação completa e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para aproveitar esta oportunidade. Gostaria de marcar para mais alguém?
+
+Cliente - Não, só para mim mesmo.
+
+Agente - Sem problema! Temos disponibilidade para quarta-feira às 10 ou 11 horas ou na sexta-feira às 15, 16 ou 17 horas. Algum destes horários lhe convém?
+
+Cliente - Pode ser sexta às 15.
+
+Agente - Perfeito! Agora preciso confirmar os seus dados. O seu e-mail é ricardo.mendes arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel é 912 345 678?
+
+Cliente - Sim.
+
+Agente - Ótimo! A sua consulta ficou marcada para sexta-feira às 15 horas na SmileUP do Porto.
+
+Agente - Vai receber um e-mail com as informações e um SMS um dia antes da consulta para relembrar.
+
+Cliente - Obrigado!
+
+Agente - De nada, Sr. Ricardo! Até sexta-feira!
+
+
+#11
+Agente - Boa tarde, está a falar com a Isabel Barros do apoio ao cliente da SmileUP. Falo com a Sra. Mariana Santos?
+
+Cliente - Sim, sou eu.
+
+Agente - Sra. Mariana, vi que preencheu os seus dados numa ação de rua com a nossa promotora para saber mais sobre a consulta gratuita. Ainda está interessada?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, claro.
+
+Agente - Obrigada! A consulta é gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para o meu marido.
+
+Agente - Perfeito! Como ele é maior de idade, podemos marcar em horários seguidos.
+
+Agente - Temos disponibilidade para terça-feira às 14 e 15 horas ou quinta-feira às 10 e 11.
+
+Cliente - Terça às 14 para mim e às 15 para ele.
+
+Agente - Ficou então marcado para terça-feira às 14 para a Sra. Mariana e às 15 para o Sr. Pedro, na SmileUP de Lisboa.
+
+Agente - Agora preciso confirmar os seus dados. O seu e-mail é mariana santos 2 2 3 arroba hotmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 918 654 321?
+
+Cliente - Sim.
+
+Agente - Para o Sr. Pedro, deseja utilizar os mesmos contactos ou prefere dar os dele?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! Vai receber um e-mail com as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Mariana! Até terça-feira!
+
+#12
+Agente - Boa tarde, está a falar com o Pedro Araújo do apoio ao cliente da SmileUP. Falo com a Sra. Cláudia Ferreira?
+
+Cliente - Sim, sou eu.
+
+Agente - Vi que preencheu os seus dados no Instagram da SmileUP, mas não concluiu a marcação. Ainda está interessada na consulta gratuita?
+
+Cliente - Sim, quero saber mais.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, sem problema.
+
+Agente - Obrigado! A consulta é totalmente gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para o meu filho de 10 anos.
+
+Agente - Perfeito! Como ele é menor, a consulta será feita no mesmo horário que a sua.
+
+Agente - Temos disponibilidade para segunda-feira às 16 ou quinta-feira às 10 ou ás 11 horas.
+
+Cliente - Pode ser segunda às 16.
+
+Agente - Perfeito! Agora preciso confirmar os seus dados. O seu e-mail é claudia 1 ferreira 1 arroba gmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 919 876 543?
+
+Cliente - Sim.
+
+Agente - Para o seu filho, deseja usar os mesmos contactos ou prefere dar outros?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Ótimo! A consulta ficou marcada para segunda-feira às 16 na SmileUP de Braga.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Cláudia! Até segunda-feira!
+
+#13
+Agente - Boa tarde, está a falar com a Ana Correia do apoio ao cliente da SmileUP. Falo com o Sr. João Almeida?
+
+Cliente - Sim, sou eu.
+
+Agente - Ótimo, Sr. João! Vi que preencheu os seus dados no site da SmileUP, mas não conseguiu concluir a marcação. Ainda tem interesse na consulta gratuita?
+
+Cliente - Hmmm, não sei… isso é mesmo gratuito?
+
+Agente - Sim, totalmente gratuito! A consulta inclui um raio-X panorâmico, um diagnóstico completo com o médico dentista e um plano de tratamento.
+
+Agente - Caso decida continuar o tratamento connosco, recebe um orçamento personalizado.
+
+Cliente - Ok… e onde é?
+
+Agente - Verifiquei no sistema e a clínica mais próxima de si é a SmileUP de Coimbra.
+
+Agente - Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, pode ser.
+
+Agente - Perfeito! Temos horários disponíveis para quarta-feira às 10, 11 ou 12 ou para sexta-feira às 15 ou 16 horas. Algum destes funciona para si?
+
+Cliente - Sexta às 16.
+
+Agente - Excelente! Antes de finalizar, só preciso confirmar os seus dados.
+
+Agente - O seu e-mail é joao.almeida arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel é 915 234 678?
+
+Cliente - Sim.
+
+Agente - Ótimo! A sua consulta ficou marcada para sexta-feira às 16 horas na SmileUP de Coimbra.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para o relembrar.
+
+Cliente - Obrigado.
+
+Agente - De nada, Sr. João! Até sexta-feira!
+
+
+#14
+Agente - Boa tarde, está a falar com a Elsa Dantas do apoio ao cliente da SmileUP. Falo com a Sra. Catarina Lopes?
+
+Cliente - Sim, sou eu.
+
+Agente - Vi que preencheu os seus dados através de uma ação de rua com a nossa promotora e mostrou interesse na consulta gratuita. Ainda gostaria de marcar?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim.
+
+Agente - Obrigada! A consulta é gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para o meu marido.
+
+Agente - Excelente! Como ele é maior de idade, podemos marcar em horários seguidos.
+
+Agente - Temos disponibilidade para segunda-feira às 11 e 12 horas ou quinta-feira às 15 e 16.
+
+Cliente - Segunda às 11 para mim e às 12 para ele.
+
+Agente - Perfeito! Agora só preciso confirmar os seus dados.
+
+Agente - O seu e-mail é catarina.lopes 22 arroba hotmail.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 918 765 432?
+
+Cliente - Sim.
+
+Agente - Para o Sr. Miguel, prefere manter os mesmos contactos ou fornecer outros?
+
+Cliente - Pode ficar igual.
+
+Agente - Ótimo! A consulta ficou marcada para segunda-feira às 11 para a Sra. Catarina e às 12 horas para o Sr. Miguel na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes da consulta.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Catarina! Até segunda-feira!
+
+
+#15
+Agente - Boa tarde, está a falar com o Gonçalo Cunha do apoio ao cliente da SmileUP. Falo com o Sr. Tiago Costa?
+
+Cliente - Sim, sou eu.
+
+Agente - Vi que preencheu os seus dados nos canais digitais da SmileUP, mas não concluiu a marcação. Ainda tem interesse na consulta gratuita?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim.
+
+Agente - Ótimo! A consulta é totalmente gratuita, inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para o meu filho de 8 anos.
+
+Agente - Perfeito! Como ele é menor, podemos marcar a consulta no mesmo horário.
+
+Agente - Temos disponibilidade para quarta-feira às 10, 11, ou 12 horas ou na sexta às 14 ou 15 horas.
+
+Cliente - Pode ser quarta às 10.
+
+Agente - Ótimo! Agora preciso confirmar os seus dados.
+
+Agente - O seu e-mail é tiago.costa 666 arroba outlook.com, correto?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel é 914 567 890?
+
+Cliente - Sim.
+
+Agente - Para o seu filho, prefere utilizar os mesmos contactos ou fornecer outros?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! A consulta ficou marcada para quarta-feira às 10 horas na SmileUP de Braga.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para o relembrar.
+
+Cliente - Obrigado!
+
+Agente - De nada, Sr. Tiago! Até quarta-feira!
+
+#16
+Agente - Boa tarde, está a falar com a Natália Pereira do apoio ao cliente da SmileUP. Falo com o Sr. Hugo Fernandes?
+
+Cliente - Sim, sou eu.
+
+Agente - Obrigado, Sr. Hugo! Vi que preencheu os seus dados numa ação de rua com a nossa promotora e mostrou interesse na consulta gratuita. Ainda deseja marcar?
+
+Cliente - Sim, pode ser.
+
+Agente - Ótimo! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, claro.
+
+Agente - Perfeito! A consulta é totalmente gratuita e inclui um raio-X panorâmico, diagnóstico completo e um plano de tratamento.
+
+Agente - Temos disponibilidade para terça-feira às 15, 16, ou 17 horas ou quinta-feira às 11. Alguma destas opções funciona para si?
+
+Cliente - Quinta às 11 horas.
+ 
+Agente - Excelente! Agora, para lhe enviar todas as informações, pode indicar-me o seu e-mail?
+
+Cliente - Sim, é hugo.fernandes1985 arroba gmail.com.
+
+Agente - Confirmando: hugo.fernandes1985 arroba gmail.com, certo?
+
+Cliente - Sim, está correto.
+
+Agente - Obrigado! E o seu número de telemóvel é 917 654 321, certo?
+
+Cliente - Sim.
+
+Agente - Ótimo! A sua consulta ficou marcada para quinta-feira às 11 horas na SmileUP do Porto.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para o relembrar.
+
+Cliente - Perfeito, obrigado.
+
+Agente - De nada, Sr. Hugo! Até quinta-feira!
+
+#17
+Agente - Boa tarde, está a falar com o Pedro Araújo do apoio ao cliente da SmileUP. Falo com a Sra. Andreia Nunes?
+
+Cliente - Sim, sou eu.
+
+Agente - Ótimo! Vi que preencheu os seus dados através do Instagram da SmileUP e mostrou interesse na consulta gratuita. Ainda deseja marcar?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim.
+
+Agente - Obrigado! A consulta é totalmente gratuita, inclui um raio-X panorâmico, diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para o meu irmão.
+
+Agente - Excelente! Como ele é maior de idade, podemos marcar em horários seguidos.
+
+Agente - Temos horários para segunda-feira às 14 e 15 horas ou quarta-feira às 10 e 11 horas.
+
+Cliente - Segunda às 14 para mim e às 15 para ele.
+
+Agente - Perfeito! Agora, para lhe enviar todas as informações, pode indicar-me o seu e-mail?
+
+Cliente - Sim, andreia.nunes90 arroba hotmail.com.
+
+Agente - Confirmando: andreia.nunes90 arroba hotmail.com, certo?
+
+Cliente - Sim, está correto.
+
+Agente - Obrigado! E o seu número de telemóvel é 919 876 543, certo?
+
+Cliente - Sim.
+
+Agente - Para o seu irmão, prefere manter os mesmos contactos ou fornecer outros?
+
+Cliente - Pode ficar os mesmos.
+
+Agente - Perfeito! A consulta ficou marcada para segunda-feira às 14 para a Sra. Andreia e às 15 para o Sr. Paulo na SmileUP de Braga.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para o relembrar.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Andreia! Até segunda-feira!
+
+#18
+Agente - Boa tarde, está a falar com o Pedro Silva do apoio ao cliente da SmileUP. Falo com a Sra. Sofia Martins?
+
+Cliente - Sim, sou eu.
+
+Agente - Obrigado, Sra. Sofia! Vi que preencheu os seus dados no site da SmileUP, mas não conseguiu concluir a marcação. Ainda tem interesse na consulta gratuita?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de avançarmos, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim.
+
+Agente - Ótimo! A consulta é totalmente gratuita, inclui um raio-X panorâmico, diagnóstico completo e um plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Gostaria de marcar para mais alguém?
+
+Cliente - Sim, para a minha filha de 12 anos.
+
+Agente - Excelente! Como ela é menor, podemos marcar a consulta no mesmo horário.
+
+Agente - Temos disponibilidade para terça-feira às 9 horas ou sexta-feira às 15.
+
+Cliente - Pode ser terça às 9.
+
+Agente - Perfeito! Agora só preciso confirmar os seus dados.
+
+Agente - O seu e-mail é sofia.martins 23 arroba outlook.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel é 915 432 678?
+
+Cliente - Sim.
+
+Agente - Para a sua filha, prefere utilizar os mesmos contactos ou fornecer outros?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! A consulta ficou marcada para terça-feira às 9 na SmileUP de Faro.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para o relembrar.
+
+Cliente - Obrigada!
+
+Agente - De nada, Sra. Sofia! Até terça-feira!
+
+#19
+Agente - Boa tarde, está a falar com a Ana Correia do apoio ao cliente da SmileUP. Falo com o Sr. Ricardo Gomes?
+
+Cliente - Sim, é ele.
+
+Agente - Olá, Sr. Ricardo! Vi que preencheu os seus dados no site da SmileUP e demonstrou interesse em marcar uma consulta gratuita. Gostaria de agendar a consulta?
+
+Cliente - Sim, sim, quero marcar.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro, pode continuar.
+
+Agente - A consulta é totalmente gratuita, inclui um raio-X panorâmico, diagnóstico completo e um plano de tratamento.
+
+Agente - Temos disponibilidade para segunda-feira às 10 ou quarta às 14 horas. Qual horário é melhor para si?
+
+Cliente - Segunda-feira às 10, por favor.
+
+Agente - Perfeito, Sr. Ricardo! Agora, para enviar as informações, pode-me dar o seu e-mail?
+
+Cliente - ricardo.gomes87 arroba gmail.com.
+
+Agente - Confirmando: ricardo.gomes87 arroba gmail.com, certo?
+
+Cliente - Isso mesmo.
+
+Agente - Ótimo! E o seu número de telemóvel para enviar o SMS de relembrança será?
+
+Cliente - O meu número é 918 123 456.
+
+Agente - Confirmando: 918 123 456, correto?
+
+Cliente - Sim, está correto.
+
+Agente - A sua consulta está marcada para segunda-feira às 10 horas na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com as informações completas e um SMS no dia anterior para relembrá-lo.
+
+Cliente - Obrigado!
+
+Agente - De nada, Sr. Ricardo! Até segunda-feira!
+
+
+#20
+Cliente - Olá, bom dia! Gostaria de marcar uma consulta.
+
+Agente - Boa tarde! Está a falar com a Elsa Dantas do apoio ao cliente da SmileUP. Falo com o Sr. João Lima?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. João! Posso perguntar como encontrou a SmileUP? Preencheu algum dos nossos formulários ou viu uma nossa publicação?
+
+Cliente - Vi a publicação no Instagram e queria aproveitar a consulta gratuita.
+
+Agente - Perfeito, Sr. João! A consulta é totalmente gratuita, com direito a raio-X panorâmico, diagnóstico completo e plano de tratamento.
+
+Agente - Temos horários disponíveis para terça-feira às 15 horas ou sexta-feira às 10. Qual das opções funciona para si?
+
+Cliente - Sexta-feira às 10.
+
+Agente - Ótimo! Antes de marcar, informo que esta chamada será gravada para efeitos de qualidade e segurança. Está de acordo?
+
+Cliente - Sim, sem problema.
+
+Agente - Perfeito! Agora, para enviar as informações sobre a consulta, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é joao.lima2020 arroba gmail.com.
+
+Agente - Confirmando: joao.lima2020 arroba gmail.com, certo?
+
+Cliente - Isso mesmo.
+
+Agente - Perfeito! E o seu número de telemóvel para enviar um SMS no dia anterior à consulta, qual seria?
+
+Cliente - O meu número é 919 654 321.
+
+Agente - Confirmando: 919 654 321, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta ficou marcada para sexta-feira às 10 na SmileUP de Porto.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior.
+
+Cliente - Perfeito, obrigado!
+
+Agente - De nada, Sr. João! Até sexta-feira!
+
+
+#21
+Agente - Boa tarde, está a falar com o Gonçalo Cunha do apoio ao cliente da SmileUP. Falo com a Sra. Mariana Silva?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Mariana! Vi que preencheu os seus dados através dos canais digitais da SmileUP e demonstrou interesse na consulta gratuita. Gostaria de agendar?
+
+Cliente - Sim, quero marcar.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, claro.
+
+Agente - A consulta é totalmente gratuita, com direito a raio-X panorâmico, diagnóstico completo e plano de tratamento.
+
+Agente - Temos horários disponíveis para terça-feira às 16 ou quinta-feira às 12 horas. Qual deles funciona para si?
+
+Cliente - Quinta-feira às 12.
+
+Agente - Excelente! Agora, para lhe enviar todas as informações, pode fornecer-me o seu e-mail?
+
+Cliente - Sim, é mariana.silva87 arroba hotmail.com.
+
+Agente - Confirmando: mariana.silva87 arroba hotmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - Ótimo! E o seu número de telemóvel para enviar o SMS no dia anterior à consulta?
+
+Cliente - O meu número é 920 567 890.
+
+Agente - Confirmando: 920 567 890, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta ficou marcada para quinta-feira às 12 horas na SmileUP de Coimbra.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para relembrá-la.
+
+Cliente - Muito obrigada!
+
+Agente - De nada, Sra. Mariana! Até quinta-feira!
+
+#22
+Cliente - Boa tarde! Gostaria de marcar uma consulta para mim e um amigo.
+
+Agente - Boa tarde! Está a falar com a Sandra Sanchez do apoio ao cliente da SmileUP. Falo com o Sr. André Costa?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. André! Como encontrou a SmileUP? Preencheu os seus dados em alguma das nossas plataformas?
+
+Cliente - Preenchi no site da SmileUP, mas não consegui marcar.
+
+Agente - Entendido, Sr. André! A consulta é totalmente gratuita e inclui raio-X panorâmico, diagnóstico completo e plano de tratamento.
+
+Agente - Pode também trazer um familiar ou amigo para usufruir desta consulta. Deseja trazer alguém?
+
+Cliente - Sim, o nome dele é Carlos Alves.
+
+Agente - Ótimo! Como ele é maior de idade, podemos marcar as consultas em horários seguidos. Temos disponibilidade para segunda-feira às 11 e 12 horas ou quarta-feira às 14 e 15 horas. Qual prefere?
+
+Cliente - Segunda-feira às 11 e ás 12 horas.
+
+Agente - Perfeito! Agora, para enviar todas as informações, pode-me indicar o seu e-mail?
+
+Cliente - Sim, é andre.costa82 arroba gmail.com.
+
+Agente - Confirmando: andre.costa82 arroba gmail.com, certo?
+
+Cliente - Sim.
+
+Agente - E o seu número de telemóvel para envio do SMS de relembrança?
+
+Cliente - O número é 917 654 321.
+
+Agente - Confirmando: 917 654 321, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E para o Sr. Carlos Alves, prefere utilizar os mesmos dados ou quer fornecer outro e-mail e número de telemóvel?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! As consultas ficaram marcadas para segunda-feira às 11 e para as 12 horas na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para relembrá-lo.
+
+Cliente - Muito obrigado!
+
+Agente - De nada, Sr. André! Até segunda-feira!
+
+#23
+Agente - Boa tarde, está a falar com a Ana Correia do apoio ao cliente da SmileUP. Falo com o Sr. Paulo Rodrigues?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. Paulo! Vi que preencheu os seus dados através do site da SmileUP e gostaria de agendar uma consulta gratuita, certo?
+
+Cliente - Sim, gostaria de marcar.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro, sem problemas.
+
+Agente - A consulta é totalmente gratuita, inclui um raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para segunda-feira às 10 ou quarta-feira às 14. Qual horário é melhor para si?
+
+Cliente - Segunda-feira às 10 horas, por favor.
+
+Agente - Ótimo! Agora, para enviar as informações sobre a consulta, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é paulo.rodrigues88 arroba gmail.com.
+
+Agente - Confirmando: paulo.rodrigues88 arroba gmail.com, certo?
+
+Cliente - Sim, está correto.
+
+Agente - E o seu número de telemóvel para enviar o SMS no dia anterior à consulta?
+
+Cliente - O meu número é 912 345 678.
+
+Agente - Confirmando: 912 345 678, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está marcada para segunda-feira às 10 na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com as informações completas e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. Paulo, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por agora vou só eu.
+
+Agente - Perfeito, Sr. Paulo! Então a sua consulta está confirmada. Até segunda-feira!
+
+Cliente - Obrigado! Até lá!
+
+#24
+Agente - Boa tarde, está a falar com a Isabel Barros do apoio ao cliente da SmileUP. Falo com a Sra. Sofia Martins?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Sofia! Vi que preencheu os seus dados através da nossa ação de rua. Gostaria de agendar uma consulta gratuita?
+
+Cliente - Sim, gostaria.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, claro.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para terça-feira às 16 ou sexta-feira às 11 horas. Qual horário prefere?
+
+Cliente - Prefiro terça-feira às 16.
+
+Agente - Perfeito! E gostaria de trazer alguém consigo para fazer também a consulta? A consulta é gratuita e pode trazer um familiar ou amigo.
+
+Cliente - Sim, vou trazer a minha irmã, a Maria.
+
+Agente - Excelente! Como ela é maior de idade, podemos agendar as consultas em horários seguidos. Temos disponibilidade para terça-feira às 16 para si e ás 17 para a sua irmã, está bom assim?
+
+Cliente - Sim, está ótimo!
+
+Agente - Agora, para enviar as informações sobre a consulta, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é sofia.martins34 arroba hotmail.com.
+
+Agente - Confirmando: sofia.martins34 arroba hotmail.com, certo?
+
+Cliente - Sim, está correto.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O meu número é 913 654 321.
+
+Agente - Confirmando: 913 654 321, correto?
+
+Cliente - Sim, está certo.
+
+Agente - Para a sua irmã Maria, quer usar os mesmos dados ou devo pedir um novo e-mail e telemóvel?
+
+Cliente - Pode ser os mesmos.
+
+Agente - Perfeito! Então as consultas estão confirmadas para terça-feira às 16 e ás 17 horas na SmileUP de Coimbra.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS um dia antes para relembrá-la.
+
+Cliente - Muito obrigada!
+
+Agente - De nada, Sra. Sofia! Até terça-feira!
+
+
+#25
+Agente - Boa tarde, está a falar com o Pedro Araújo do apoio ao cliente da SmileUP. Falo com o Sr. Luís Pereira?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. Luís! Vi que preencheu os seus dados no site da SmileUP e gostaria de agendar uma consulta gratuita, correto?
+
+Cliente - Isso mesmo.
+
+Agente - Perfeito! Antes de continuar, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para quarta-feira às 14 horas ou quinta-feira às 10 horas. Qual horário prefere?
+
+Cliente - Quinta-feira às 10 horas.
+
+Agente - Perfeito, Sr. Luís! Agora, para lhe enviar todas as informações, pode-me indicar o seu e-mail?
+
+Cliente - Claro, é luis.pereira23 arroba gmail.com.
+
+Agente - Confirmando: luis.pereira23 arroba gmail.com, correto?
+
+Cliente - Sim, correto.
+
+Agente - E o seu número de telemóvel para lhe enviar um SMS no dia anterior à consulta?
+
+Cliente - O número é 914 567 890.
+
+Agente - Confirmando, 914 567 890, certo?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta ficou marcada para quinta-feira às 10 horas na SmileUP de Porto.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. Luís, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo?
+
+Cliente - Não, por enquanto vou só eu.
+
+Agente - Perfeito, Sr. Luís! Então a sua consulta está confirmada. Até quinta-feira!
+
+Cliente - Muito obrigado!
+
+Agente - De nada, Sr. Luís! Até quinta-feira!
+
+#26
+Agente - Boa tarde, está a falar com a Elsa Dantas da SmileUP. Falo com o Sr. João Silva?
+
+Cliente - Sim, é o João.
+
+Agente - Olá, Sr. João! Vi que preencheu os seus dados através da nossa ação de rua para a SmileUP. Gostaria de agendar uma consulta gratuita, certo?
+
+Cliente - Sim, queria marcar a consulta.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, pode continuar.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para segunda-feira às 15 ou terça-feira às 11. Qual o horário que lhe convém mais?
+
+Cliente - Segunda-feira às 15.
+
+Agente - Excelente! Agora, para lhe enviar todas as informações, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é joao.silva67 arroba gmail.com.
+
+Agente - Confirmando: joao.silva67 arroba gmail.com, está correto?
+
+Cliente - Sim, correto.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 916 123 456.
+
+Agente - Confirmando: 916 123 456, correto?
+
+Cliente - Sim, tudo certo.
+
+Agente - A sua consulta ficou marcada para segunda-feira às 15 horas na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. João, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por enquanto vou só eu.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até segunda-feira, Sr. João!
+
+Cliente - Obrigado! Até lá!
+
+#27
+Agente - Boa tarde, está a falar com a Isabel Barros da SmileUP. Falo com a Sra. Carolina Sousa?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Carolina! Vi que preencheu os seus dados através do Instagram da SmileUP. Gostaria de agendar uma consulta gratuita para si?
+
+Cliente - Sim, é isso mesmo.
+
+Agente - Perfeito! Antes de continuar, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para quinta-feira às 13 ou sexta-feira às 14. Qual horário prefere?
+
+Cliente - Quinta-feira às 13 horas, por favor.
+
+Agente - Ótimo! Sra. Carolina, gostaria de trazer alguém consigo para também realizar a consulta? Pode trazer um amigo ou um familiar.
+
+Cliente - Sim, vou trazer o meu marido, o Pedro.
+
+Agente - Excelente escolha! Como ele é maior de idade, podemos marcar a consulta dele para quinta-feira às 14, está bom para ambos?
+
+Cliente - Perfeito!
+
+Agente - Agora, para enviar as informações sobre a consulta, posso ter o seu e-mail, por favor?
+
+Cliente - Claro, é carolina.sousa89 arroba gmail.com.
+
+Agente - Confirmando: carolina.sousa89 arroba gmail.com, certo?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O meu número é 912 987 654.
+
+Agente - Confirmando: 912 987 654, correto?
+
+Cliente - Sim, está certo.
+
+Agente - Para o seu marido, Pedro, vou precisar também do e-mail e do número de telemóvel. Pode-me fornecer, por favor?
+
+Cliente - Claro, o e-mail dele é pedro.sousa21 arroba hotmail.com e o número é 913 654 321.
+
+Agente - Confirmando: pedro.sousa21 arroba hotmail.com e 913 654 321, correto?
+
+Cliente - Sim, está tudo certo.
+
+Agente - As consultas estão então confirmadas para quinta-feira às 13 horas para si ás 14 para o seu marido, na SmileUP de Porto.
+
+Agente - Vai receber um e-mail com as informações e um SMS no dia anterior para relembrá-la.
+
+Cliente - Muito obrigada!
+
+Agente - De nada, Sra. Carolina! Até quinta-feira!
+
+#28
+Agente - Boa tarde, está a falar com a Natália Pereira da SmileUP. Falo com o Sr. Ricardo Lima?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sr. Ricardo! Vi que preencheu os seus dados através do site da SmileUP. Gostaria de agendar uma consulta gratuita para si?
+
+Cliente - Sim, gostaria de agendar.
+
+Agente - Perfeito! Antes de prosseguir, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro, sem problema.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para segunda-feira às 14 horas ou terça-feira às 10. Qual o horário que prefere?
+
+Cliente - Segunda às 14.
+
+Agente - Perfeito, Sr. Ricardo! Agora, para enviar as informações sobre a consulta, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é ricardo.lima22 arroba gmail.com.
+
+Agente - Confirmando: ricardo.lima22 arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 919 234 567.
+
+Agente - Confirmando: 919 234 567, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para segunda-feira às 14 horas na SmileUP de Lisboa.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. Ricardo, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por agora vou sozinho.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até segunda-feira!
+
+Cliente - Obrigado, até lá!
+
+#29
+Cliente - Olá, boa tarde! Eu vi o vosso site e gostaria de agendar uma consulta gratuita.
+
+Agente - Boa tarde! Está a falar com a Sandra Sanchez da SmileUP. Posso saber o seu nome?
+
+Cliente - Sou o Sr. Carlos Martins.
+
+Agente - Olá, Sr. Carlos! A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para terça-feira às 16 ou quarta-feira às 10. Qual o horário que prefere?
+
+Cliente - Quarta-feira às 10.
+
+Agente - Perfeito! Agora, para escolhermos a clínica mais próxima de si, posso saber onde está localizado?
+
+Cliente - Eu moro em Braga.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Braga, na Av. Liberdade, 536. Está tudo certo para marcar nesta clínica?
+
+Cliente - Sim, está ótimo.
+
+Agente - Ótimo! Agora, para enviar as informações sobre a consulta, posso ter o seu e-mail, por favor?
+
+Cliente - O meu e-mail é carlos.martins01 arroba gmail.com.
+
+Agente - Confirmando: carlos.martins01 arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 924 345 678.
+
+Agente - Confirmando: 924 345 678, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para quarta-feira às 10 horas na Clínica Dentária Braga.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. Carlos, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por enquanto vou sozinho.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até quarta-feira!
+
+Cliente - Obrigado, até lá!
+
+#30
+Agente - Boa tarde, está a falar com o Pedro Araújo da SmileUP. Falo com a Sra. Marta Costa?
+
+Cliente - Sim, sou eu.
+
+Agente - Olá, Sra. Marta! Vi que preencheu os seus dados através da nossa ação de rua. Gostaria de agendar uma consulta gratuita para si?
+
+Cliente - Sim, gostaria.
+
+Agente - Perfeito! Antes de continuar, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Claro!
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para segunda-feira às 11 horas ou quarta-feira às 15. Qual o horário que lhe convém?
+
+Cliente - Segunda às 11.
+
+Agente - Ótimo! Agora, para escolhermos a clínica mais próxima de si, posso perguntar onde está localizada?
+
+Cliente - Eu moro em Almada.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Almada, na Rua Caetano Maria Batalha, 3B. Está bom para marcar nesta clínica?
+
+Cliente - Sim, está ótimo.
+
+Agente - Excelente! Agora, para lhe enviar as informações, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é marta.costa44 arroba hotmail.com.
+
+Agente - Confirmando: marta.costa44 arroba hotmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 966 123 456.
+
+Agente - Confirmando: 966 123 456, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para segunda-feira às 11 na Clínica Dentária Almada.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-la.
+
+Agente - Sra. Marta, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por enquanto vou sozinha.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até segunda-feira!
+
+Cliente - Obrigada, até lá!
+
+
+#31
+Agente - Boa tarde, está a falar com a Natália Pereira da SmileUP. Falo com o Sr. João Ribeiro?
+
+Cliente - Sim, é o João.
+
+Agente - Olá, Sr. João! Vi que preencheu os seus dados através do nosso site. Gostaria de agendar uma consulta gratuita para si?
+
+Cliente - Sim, queria marcar a consulta.
+
+Agente - Perfeito! Antes de continuar, informo que esta chamada está a ser gravada para efeitos de qualidade e segurança. Podemos continuar?
+
+Cliente - Sim, sem problema.
+
+Agente - A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Temos disponibilidade para terça-feira às 10 ou quinta-feira às 16 horas. Qual o horário que prefere?
+
+Cliente - Quinta às 16.
+
+Agente - Perfeito, Sr. João! Agora, para escolhermos a clínica mais próxima, posso perguntar onde está localizado?
+
+Cliente - Eu estou em Lisboa, perto de Alvalade.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Alvalade, na Av. de Roma, 106 A e B, Lisboa. Está tudo certo para marcar nesta clínica?
+
+Cliente - Sim, está ótimo.
+
+Agente - Excelente! Agora, para enviar as informações sobre a consulta, pode-me fornecer o seu e-mail?
+
+Cliente - Claro, é joao.ribeiro22 arroba gmail.com.
+
+Agente - Confirmando: joao.ribeiro22 arroba gmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 917 234 567.
+
+Agente - Confirmando: 917 234 567, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para quinta-feira às 16 na Clínica Dentária Alvalade.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-lo.
+
+Agente - Sr. João, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém do seu agregado familiar ou um amigo.
+
+Cliente - Não, por enquanto vou só eu.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até quinta-feira!
+
+Cliente - Obrigado, até lá!
+
+
+#32 
+Cliente - Olá, boa tarde! Gostaria de marcar uma consulta para mim.
+
+Agente - Boa tarde! Está a falar com o Gonçalo Cunha da SmileUP. Posso saber o seu nome?
+
+Cliente - Sou a Sra. Sofia Almeida.
+
+Agente - Olá, Sra. Sofia! A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Vamos marcar a consulta, mas antes de avançarmos, pode-me dizer onde mora para eu verificar qual a clínica mais próxima?
+
+Cliente - Eu moro em Porto.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Campo Alegre, na Rua do Campo Alegre, 312 Porto. Agora vou verificar os horários disponíveis nesta clínica.
+
+Agente - Temos disponível quinta-feira, dia 18, às 9 horas ou sexta-feira, dia 19, às 15 horas. Esses horários são bons para si?
+
+Cliente - Não consigo nesses horários, mas talvez consiga mais para o final do dia.
+
+Agente - Entendido. Podemos agendar para outro dia que corresponda ao seu horário preferido. Prefere de manhã ou tarde?
+
+Cliente - Prefiro de tarde.
+
+Agente - Na próxima semana, temos disponível segunda-feira, dia 22, às 17 ou 18 horas e para terça, dia 23, às 17 horas. Algum destes horários seria conveniente?
+
+Cliente - Sim, terça-feira, dia 23, às 17 está ótimo.
+
+Agente - Perfeito, vamos marcar para terça-feira, dia 23, às 17 horas na Clínica Dentária Campo Alegre.
+
+Agente - Para enviar as informações sobre a consulta, poderia me fornecer o seu e-mail?
+
+Cliente - Claro, o meu e-mail é sofia.almeida78 arroba hotmail.com.
+
+Agente - Confirmando: sofia.almeida78 arroba hotmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 915 654 321.
+
+Agente - Confirmando: 915 654 321, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para terça-feira, dia 23, às 17 horas na Clínica Dentária Campo Alegre.
+ 
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-la.
+
+Agente - Sra. Sofia, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém.
+
+Cliente - Não, por enquanto vou sozinha.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até terça-feira!
+
+Cliente - Obrigada, até lá!
+
+#33
+Cliente - Olá, boa tarde! Gostaria de marcar uma consulta para mim.
+
+Agente - Boa tarde! Está a falar com o Gonçalo Cunha da SmileUP. Posso saber o seu nome?
+
+Cliente - Sou a Sra. Sofia Almeida.
+
+Agente - Olá, Sra. Sofia! A consulta é totalmente gratuita, inclui raio-X panorâmico, diagnóstico completo e plano de tratamento. Vamos marcar a consulta, mas antes de avançarmos, pode-me dizer onde mora para eu verificar qual a clínica mais próxima?
+
+Cliente - Eu moro em Porto.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Campo Alegre, na Rua do Campo Alegre, 312 Porto. Agora vou verificar os horários disponíveis nesta clínica.
+
+Agente - Temos disponível quinta-feira, dia 18, às 9, 10 e 11 horas ou sexta-feira, dia 19, às 14 ou 15 horas. Esses horários são bons para si?
+
+Cliente - Não consigo nesses horários, mas talvez consiga mais para o final do dia.
+
+Agente - Entendido. Podemos agendar para outro dia que corresponda ao seu horário preferido. Prefere de manhã ou tarde?
+
+Cliente - Prefiro de tarde.
+
+Agente - Temos disponível quarta-feira, dia 24, às 16 ou 17 horas e também para sábado, dia 27, às 16 horas. Algum destes horários seria conveniente?
+
+Cliente - Sim, sábado, dia 27, às 16 horas está ótimo.
+
+Agente - Perfeito, vamos marcar para sábado, dia 27, às 16 horas na Clínica Dentária Campo Alegre.
+
+Agente - Para enviar as informações sobre a consulta, poderia me fornecer o seu e-mail?
+
+Cliente - Claro, o meu e-mail é sofia.almeida78 arroba hotmail.com.
+
+Agente - Confirmando: sofia.almeida78 arroba hotmail.com, correto?
+
+Cliente - Sim, está certo.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 915 654 321.
+
+Agente - Confirmando: 915 654 321, correto?
+
+Cliente - Sim, está certo.
+
+Agente - A sua consulta está confirmada para sábado, dia 27, às 16 horas na Clínica Dentária Campo Alegre.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-la.
+
+Agente - Sra. Sofia, gostaria de aproveitar e marcar também uma consulta para um familiar ou amigo? A consulta é gratuita e pode trazer alguém.
+
+Cliente - Não, por enquanto vou sozinha.
+
+Agente - Perfeito, então a sua consulta está confirmada. Até sábado!
+
+Cliente - Obrigada, até lá!
+
+#34
+Cliente - Olá, gostaria de marcar uma consulta.
+
+Agente - Boa tarde! Está a falar com a Isabel Barros da SmileUP. Em que posso ajudar?
+
+Cliente - Gostaria de marcar uma consulta.
+
+Agente - Claro! A consulta inclui raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita. Vou verificar a clínica mais próxima de si. Pode-me dizer onde mora?
+
+Cliente - Moro em Lisboa.
+
+Agente - A clínica mais próxima para si é a Clínica Dentária Arroios, na Rua Morais Soares, 118 Lisboa. Deixe-me verificar os horários disponíveis nesta clínica.
+
+Agente - Temos disponível segunda-feira, dia 15, às 10 horas ou terça-feira, dia 16, às 14 horas. Esses horários funcionam para si?
+
+Cliente - Não consigo nesses horários, infelizmente.
+
+Agente - Compreendo. Prefere agendar para manhã ou tarde?
+
+Cliente - Prefiro de manhã, mas também posso em alguns dias à tarde.
+
+Agente - Perfeito! E em que dias da semana seria mais conveniente para si?
+
+Cliente - Pode ser quarta-feira ou sexta-feira.
+
+Agente - Ok! Então, temos quarta-feira, dia 17, às 10h ou sexta-feira, dia 19, às 11 horas. Algum desses horários funciona para si?
+
+Cliente - Sexta-feira, dia 19, às 11 horas está perfeito.
+
+Agente - Perfeito, então vamos marcar para sexta-feira, dia 19, às 11h na Clínica Dentária Arroios.
+
+Agente - Para enviar as informações sobre a consulta, poderia fornecer o seu e-mail?
+
+Cliente - Claro, o meu e-mail é maria.silva22 arroba gmail.com.
+
+Agente - Confirmando: maria.silva22 arroba gmail.com, correto?
+
+Cliente - Sim, está correto.
+
+Agente - E o seu número de telemóvel para enviar o SMS de relembrança no dia anterior à consulta?
+
+Cliente - O número é 912 345 678.
+
+Agente - Confirmando: 912 345 678, correto?
+
+Cliente - Sim, está correto.
+
+Agente - E desejaria levar mais alguem consigo? Visto que a consulta seria gratuita também para essa pessoa.
+
+Cliente - Não, era só para mim.
+
+Agente - A sua consulta está confirmada para sexta-feira, dia 19, às 11 horas na Clínica Dentária Arroios.
+
+Agente - Vai receber um e-mail com todas as informações e um SMS no dia anterior para relembrá-la.
+
+Agente - Se precisar de mais alguma coisa, estou à disposição.
+
+Cliente - Muito obrigada, até sexta-feira!
+
+Agente - Até lá, tenha um ótimo dia!
+
+#35
+Cliente - Olá, gostaria de marcar uma consulta.
+
+Agente - Boa tarde! Está a falar com a Isabel Barros da SmileUP. Como posso ajudar?
+
+Cliente - Gostaria de marcar uma consulta.
+
+Agente - Claro! A consulta inclui raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita. Para começar, posso saber em que dias da semana seria mais conveniente para si? E também, prefere consultar de manhã ou de tarde?
+
+Cliente - Eu posso na terça-feira ou quinta-feira. Prefiro de manhã, mas também posso à tarde se for necessário.
+
+Agente - Perfeito! Vou verificar as opções para terça-feira e quinta-feira e posso oferecer-lhe várias opções em ambos os períodos.
+
+Agente - Temos terça ás 9, 10, 11, 14 ou 15horas e também temos para quinta ás 9 horas, 10, 11, 14 e 15 horas.
+
+Agente - Qual desses horários funciona melhor para si?
+
+Cliente - Acho que terça-feira, às 10 funciona bem.
+
+Agente - Ótimo! Agora, vou precisar de alguns dados para completar a marcação. Qual o seu e-mail para enviar todos os detalhes da consulta?
+
+Cliente - O meu e-mail é joao.silva10 arroba gmail.com.
+
+Agente - Confirmando: o seu e-mail é joao.silva10 arroba gmail.com, está correto?
+
+Cliente - Sim, está correto.
+
+Agente - Perfeito! Agora, qual o seu número de telemóvel para que possamos enviar um SMS de confirmação no dia anterior à consulta?
+
+Cliente - O meu número é 912 345 678.
+
+Agente - Confirmando, o número é 912 345 678, correto?
+
+Cliente - Sim, é esse mesmo.
+
+Agente - Perfeito, sua consulta está confirmada para terça-feira, dia 17, às 10 horas na Clínica Dentária Benfica.
+
+Agente - A consulta inclui raio-X panorâmico e diagnóstico completo e será totalmente gratuita.
+
+Agente - Agora, gostaria de agendar uma consulta para um familiar ou amigo? A consulta também será gratuita para ele/ela!
+
+Cliente - Na verdade, sim, gostaria de agendar para o meu irmão.
+
+Agente - Claro! Vou precisar dos dados dele. Qual é o nome completo dele?
+
+Cliente - O nome dele é Carlos Silva.
+
+Agente - E qual o e-mail e número de telemóvel dele para eu registar?
+
+Cliente - O e-mail dele é carlos.silva22 arroba gmail.com e o número é 919 876 543.
+
+Agente - Confirmando: o e-mail dele é carlos.silva22 arroba gmail.com e o número é 919 876 543, correto?
+
+Cliente - Sim, está correto.
+
+Agente - Ótimo! Agora vou registar a consulta do seu irmão.
+
+Agente - A consulta está confirmada para terça-feira, dia 17, às 10horas na Clínica Dentária Benfica para si e para o seu irmão.
+
+Agente - Vou enviar um e-mail com todos os detalhes da consulta e ambos irão receber um SMS um dia antes para relembrá-los.
+
+Agente - Caso precise de algo mais, por favor, não hesite em nos contactar.
+
+Cliente - Muito obrigada pela ajuda, até terça-feira!
+
+Agente - Até lá, tenha um ótimo dia!
+
+#36
+Cliente - Olá, gostaria de marcar uma consulta.
+Agente - Boa tarde! Está a falar com a Isabel Barros da SmileUP. Como posso ajudar?
+Cliente - Gostaria de marcar uma consulta.
+Agente - Claro! A consulta inclui raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita. Para começarmos, em que dias da semana seria mais conveniente para si? E prefere consultar de manhã ou de tarde?
+Cliente - Eu posso na quarta-feira ou sexta-feira, e preferia de manhã.
+Agente - Perfeito! Temos para quarta-feira às 14 horas ou 15 horas, e também temos para sexta-feira às 9, 10, 11 e 14 horas. Qual desses horários seria mais conveniente para si?
+Cliente - Eu consigo na sexta-feira, às 10.
+Agente - Ótimo! Agora, vou precisar de alguns dados para completar a marcação. Qual o seu e-mail para enviar todos os detalhes da consulta?
+Cliente - O meu e-mail é ana.martins88 arroba gmail.com.
+Agente - Confirmando: o seu e-mail é ana.martins88 arroba gmail.com, está correto?
+Cliente - Sim, está correto.
+Agente - Perfeito! E qual o seu número de telemóvel para que possamos enviar um SMS de confirmação um dia antes da consulta?
+Cliente - O número é 918 765 432.
+Agente - Confirmando: o número é 918 765 432, correto?
+Cliente - Sim, é esse.
+Agente - A consulta está confirmada para sexta-feira, dia 20, às 10 horas na Clínica Dentária de Coimbra.
+Agente - Agora, gostaria de agendar uma consulta para um familiar ou amigo? A consulta também será gratuita para ele/ela!
+Cliente - Sim, gostaria de marcar para o meu pai.
+Agente - Claro! Vou precisar dos dados dele. Qual é o nome completo dele?
+Cliente - O nome dele é Jorge Martins.
+Agente - E qual o e-mail e número de telemóvel dele?
+Cliente - O e-mail dele é jorge.martins88 arroba gmail.com e o número é 917 123 456.
+Agente - Confirmando: o e-mail dele é jorge.martins88 arroba gmail.com e o número é 917 123 456, correto?
+Cliente - Sim, está correto.
+Agente - Perfeito! Agora vou registar a consulta do seu pai.
+Agente - A consulta está confirmada para sexta-feira, dia 20, às 10 horas na Clínica Dentária Coimbra para si e para o seu pai.
+Agente - Vou enviar um e-mail com todos os detalhes da consulta e ambos irão receber um SMS um dia antes para relembrá-los.
+Agente - Caso precise de algo mais, por favor, não hesite em nos contactar.
+Cliente - Muito obrigada pela ajuda, até sexta-feira!
+Agente - Até lá, tenha um ótimo dia!
+
+#37
+Cliente - Boa tarde.
+Agente - Boa tarde! Está a falar com a Isabel Barros das clínicas dentárias SmileUP. Estou a falar com a Sra. Ana Barros?
+Cliente - Sim, é ela.
+Agente - Como posso ajudá-la hoje?
+Cliente - Gostaria de marcar uma consulta.
+Agente - Claro! A consulta inclui raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita. Para começarmos, em que dias da semana seria mais conveniente para si? E prefere consultar de manhã ou de tarde?
+Cliente - Eu posso na quarta-feira ou sexta-feira, e preferia de manhã.
+Agente - Perfeito! Temos disponível para quarta-feira às 9, 10 ou 11 horas, e para sexta-feira às 9, 10 ou 11 horas. Qual desses horários seria mais conveniente para si?
+Cliente - Eu consigo na sexta-feira, às 10 horas.
+Agente - Ótimo! Agora, vou precisar de alguns dados para completar a marcação. Qual o seu e-mail para enviar todos os detalhes da consulta?
+Cliente - O meu e-mail é ana.martins88 arroba gmail.com.
+Agente - Confirmando: o seu e-mail é ana.martins88 arroba gmail.com, está correto?
+Cliente - Sim, está correto.
+Agente - Perfeito! E qual o seu número de telemóvel para que possamos enviar um SMS de confirmação um dia antes da consulta?
+Cliente - O número é 918 765 432.
+Agente - Confirmando: o número é 918 765 432, correto?
+Cliente - Sim, é esse.
+Agente - A consulta está confirmada para sexta-feira, dia 20, às 10 horas na Clínica Dentária Coimbra.
+Agente - Agora, gostaria de agendar uma consulta para um familiar ou amigo? A consulta também será gratuita para essa pessoa!
+Cliente - Sim, gostaria de marcar para o meu pai.
+Agente - Claro! Vou precisar dos dados dele. Qual é o nome completo dele?
+Cliente - O nome dele é Jorge Martins.
+Agente - E qual o e-mail e número de telemóvel dele?
+Cliente - O e-mail dele é jorge.martins88 arroba gmail.com e o número é 917 123 456.
+Agente - Confirmando: o e-mail dele é jorge.martins88 arroba gmail.com e o número é 917 123 456, correto?
+Cliente - Sim, está correto.
+Agente - Perfeito! Agora vou registar a consulta do seu pai.
+Agente - A consulta está confirmada para sexta-feira, dia 20, às 10 horas na Clínica Dentária Coimbra para si e para o seu pai fica para as 11 horas assim vai um a seguir ao outro.
+Agente - Vou enviar um e-mail com todos os detalhes da consulta e ambos irão receber um SMS um dia antes para relembrá-los.
+Agente - Caso precise de algo mais, por favor, não hesite em nos contactar.
+Cliente - Muito obrigada pela ajuda, até sexta-feira!
+Agente - Até lá, tenha um ótimo dia!
+
+#38
+Agente - Boa tarde! Está a falar com a Isabel Barros da SmileUP. Estou a falar com a Sra. Ana Barros?
+Cliente - Sim, sou eu.
+Agente - Como posso ajudá-la hoje?
+Cliente - Gostaria de marcar uma consulta.
+Agente - Perfeito! Antes de avançarmos com o agendamento, gostaria de pedir a sua autorização para gravar esta chamada, para fins de qualidade e formação. Está de acordo?
+Cliente - Sim, pode gravar.
+Agente - Obrigada! A consulta que vamos agendar inclui um raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita.
+Agente - Para que possamos proceder, posso saber o seu nome completo, e-mail e número de telemóvel?
+Cliente - O meu nome é Ana Barros, o e-mail é ana.barros34 arroba gmail.com, e o número de telemóvel é 912 345 678.
+Agente - Perfeito, Ana. Confirmando, o seu e-mail é ana.barros34 arroba gmail.com, e o número de telemóvel é 912 345 678, está correto?
+Cliente - Sim, está correto.
+Agente - Ótimo! Agora, vamos procurar a clínica mais próxima de si. A Sra. Ana Barros está em Lisboa, correto?
+Cliente - Sim, eu moro em Lisboa.
+Agente - Nesse caso, a clínica mais próxima de si seria a Clínica Dentária Lumiar, em Lisboa.
+Agente - Em que dia da semana seria mais conveniente para marcar a consulta e qual é a sua preferência de horário?
+Cliente - Eu posso na segunda-feira, de tarde.
+Agente - Perfeito! Para segunda-feira, temos disponível às 14 ou 15 horas. Qual dessas opções seria mais conveniente para si?
+Cliente - Eu posso às 14.
+Agente - Então, a sua consulta está confirmada para segunda-feira, às 14 horas, na Clínica Dentária Lumiar em Lisboa.
+Agente - Gostaria de agendar uma consulta para um familiar ou amigo? A consulta também é gratuita para ele ou ela!
+Cliente - Não, é só para mim.
+Agente - Perfeito, Ana! Vou enviar um e-mail com todos os detalhes da consulta, e também receberá um SMS de confirmação um dia antes da consulta.
+Agente - Caso precise de mais alguma coisa, estamos à disposição. A consulta está confirmada para segunda-feira, às 14 horas, na Clínica Dentária Lumiar, em Lisboa. Até lá!
+Cliente - Muito obrigada, até lá!
+
+#39
+Agente - Boa tarde! Está a falar com o Pedro Silva da SmileUP. Estou a falar com o Sr. João Costa?
+Cliente - Sim, sou eu.
+Agente - Como posso ajudá-lo hoje, Sr. João?
+Cliente - Gostaria de marcar uma consulta.
+Agente - Perfeito! Antes de avançarmos com o agendamento, gostaria de pedir a sua autorização para gravar esta chamada, para fins de qualidade e formação. Está de acordo?
+Cliente - Sim, pode gravar.
+Agente - Obrigado, Sr. João. A consulta que vamos agendar inclui um raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita.
+Agente - Para que possamos continuar, posso saber o seu nome completo, e-mail e número de telemóvel?
+Cliente - O meu nome é João Costa, o e-mail é joao.costa45 arroba hotmail.com, e o meu número de telemóvel é 913 876 543.
+Agente - Perfeito, João. Confirmando, o seu e-mail é joao.costa45 arroba hotmail.com, e o número de telemóvel é 913 876 543, está correto?
+Cliente - Sim, está correto.
+Agente - Ótimo! Agora, vamos procurar a clínica mais próxima de si. O Sr. João Costa encontra-se em Lisboa, correto?
+Cliente - Sim, moro Lisboa.
+Agente - Nesse caso, a clínica mais próxima seria a Clínica Dentária Benfica, em Lisboa.
+Agente - Para que possamos marcar a consulta, gostaria de saber em que dia da semana e qual horário seria mais conveniente para si ?
+Cliente - Eu posso na terça-feira ou quinta-feira, de tarde.
+Agente - Para terça-feira, temos disponível às 14 horas, e para quinta-feira, temos disponível às 15 horas. Qual dessas opções seria mais conveniente para si?
+Cliente - Eu posso terça-feira às 14 horas.
+Agente - Perfeito! A sua consulta está confirmada para terça-feira, às 14 horas, na Clínica Dentária Benfica em Lisboa.
+Agente - Gostaria de agendar uma consulta para um familiar ou amigo? A consulta é gratuita para ele ou ela!
+Cliente - Não, por agora é só para mim.
+Agente - Perfeito, João! Vou enviar um e-mail com todos os detalhes da consulta, e também receberá um SMS de confirmação um dia antes da consulta.
+Agente - Caso precise de mais alguma coisa, estamos à disposição. Até terça-feira!
+Cliente - Muito obrigado, até lá!
+
+#40
+Agente - Boa tarde! Está a falar com o Pedro Silva da SmileUP. Estou a falar com o Sr. João Costa?
+Cliente - Sim, sou eu.
+Agente - João, já nos contactou através da nossa página no Instagram, onde demonstrou interesse em marcar uma consulta na SmileUP, correto?
+Cliente - Sim, foi isso mesmo.
+Agente - Perfeito! Como posso ajudá-lo hoje, João?
+Cliente - Gostaria de marcar uma consulta.
+Agente - Perfeito! Antes de avançarmos com o agendamento, gostaria de pedir a sua autorização para gravar esta chamada, para fins de qualidade e formação. Está de acordo?
+Cliente - Sim, pode gravar.
+Agente - Obrigado, João! A consulta que vamos agendar inclui um raio-X panorâmico, diagnóstico completo e plano de tratamento, e é totalmente gratuita.
+Agente - Para que possamos continuar, posso saber o seu nome completo, e-mail e número de telemóvel?
+Cliente - O meu nome é João Costa, o e-mail é joao.costa45 arroba hotmail.com, e o meu número de telemóvel é 913 876 543.
+Agente - Perfeito, João. Confirmando, o seu e-mail é joao.costa45 arroba hotmail.com, e o número de telemóvel é 913 876 543, está correto?
+Cliente - Sim, está correto.
+Agente - Ótimo! Agora, com base nas suas informações, tenho indicações que a Clínica Dentária Benfica, em Lisboa, é a que se encontra mais próxima de si. Está correto?
+Cliente - Sim, é isso mesmo.
+Agente - Perfeito! Para agendarmos a sua consulta, gostaria de saber em que dia da semana tem mais disponibilidade e em que horário seria mais conveniente para si? Prefere da parte da manhã ou da parte da tarde?
+Cliente - Eu posso na terça-feira, da parte da tarde.
+Agente - Para terça-feira, temos disponível às 14 horas ou 15 horas. Qual dessas opções seria mais conveniente para si?
+Cliente - Eu posso terça-feira às 14 horas.
+Agente - Perfeito! A sua consulta está confirmada para terça-feira, às 14 horas, na Clínica Dentária Benfica, em Lisboa.
+Agente - Gostaria de agendar uma consulta para um familiar ou amigo? A consulta é gratuita para ele ou ela!
+Cliente - Não, por agora é só para mim.
+Agente - Perfeito, João! Vou enviar um e-mail com todos os detalhes da consulta, e também receberá um SMS de confirmação um dia antes da consulta.
+Agente - Caso precise de mais alguma coisa, estamos à disposição. Até terça-feira!
+Cliente - Muito obrigado, até lá!
+
+#41
+Agente - Boa tarde! Está a falar com o João Silva da SmileUP. Estou a falar com a Sra. Sofia Pereira?
+Cliente - Sim, sou eu.
+Agente - Como posso ajudá-la hoje, Sra. Sofia?
+Cliente - Gostaria de marcar uma consulta para o meu marido.
+Agente - Claro, vou ajudá-la com isso. Qual é o nome completo do seu marido?
+Cliente - O nome dele é Luís Pereira.
+Agente - E qual o e-mail e número de telemóvel dele?
+Cliente - O e-mail dele é luis.pereira34 arroba gmail.com e o número de telemóvel é 918 123 456.
+Agente - Confirmando: o e-mail dele é luis.pereira34 arroba gmail.com e o número de telemóvel é 918 123 456, está correto?
+Cliente - Sim, está correto.
+Agente - Perfeito! Agora vamos verificar a clínica mais próxima. O seu marido mora em Lisboa, correto?
+Cliente - Sim, ele mora em Lisboa.
+Agente - Nesse caso, a clínica mais próxima de vocês é a Clínica Dentária Lisboa, em Lisboa.
+Agente - Em que dia da semana seria mais conveniente para ele, e qual horário ele prefere?
+Cliente - Ele pode na segunda-feira, de tarde.
+Agente - Perfeito! Temos disponível para segunda-feira às 14 ou 15 horas. Qual desses horários seria mais conveniente para o seu marido?
+Cliente - Ele pode às 14 horas.
+Agente - A consulta está confirmada para segunda-feira, às 14 horas, na Clínica Dentária Lisboa.
+Agente - Gostaria de agendar uma consulta para mais alguém da sua família ou amigos?
+Cliente - Não, por agora é só para ele.
+Agente - Perfeito! Vou enviar um e-mail com todos os detalhes da consulta, e também receberá um SMS de confirmação um dia antes da consulta.
+
+#42
+Cliente: Olá.
+Agente: Olá, está a falar com Isabel Barros das clínicas dentárias SmileUP. Como o posso ajudar?
+Cliente: Gostaria de marcar uma consulta.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Desejava marcar uma consulta numa das nossas clínicas?
+Cliente: Sim, gostaria de marcar.
+Agente: Para garantir a qualidade do nosso atendimento e por motivos de segurança, gostaria de pedir a sua autorização para gravar esta chamada. Autoriza?
+Cliente: Sim, autorizo.
+Agente: A consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo, um plano de tratamento, assim como o estabelecimento de um orçamento.
+Cliente: Ok, entendi.
+Agente: Poderia-me dizer o seu nome, por favor?
+Cliente: O meu nome é Ana Silva.
+Agente: Certo, Ana, poderia-me fornecer o seu e-mail para colocar na sua ficha?
+Cliente: Claro, o meu e-mail é ana.silva@gmail.com.
+Agente: O e-mail é ana.silva@gmail.com, correto?
+Cliente: Sim, correto.
+Agente: Perfeito. Poderia também dizer-me o seu número de telemóvel para que possamos enviar um lembrete da sua consulta?
+Cliente: O meu número é 912 345 678.
+Agente: 912 345 678, certo?
+Cliente: Sim, é isso.
+Agente: Obrigada, Ana.
+Agente: Agora, para encontrar a clínica mais próxima de si, poderia-me dizer onde mora?
+Cliente: Moro em Lisboa, na zona da Baixa.
+Agente: Com base nas informações, a Clínica Dentária Lisboa, que fica no centro de Lisboa, seria a mais próxima de si. Está correto?
+Cliente: Sim, está certo.
+Agente: Em que dia e horários lhe daria mais jeito agendar a consulta?
+Cliente: Eu tenho disponibilidade ao final da tarde durante a semana.
+Agente: Tenho disponível na terça-feira às 16h ou às 18h, ou na quinta-feira às 17 e às 18 horas. Qual desses horários seria mais conveniente para si?
+Cliente: Pode ser na terça-feira às 16.
+Agente: Ótimo! Então, fica agendada a sua consulta para terça-feira, às 16 horas, na Clínica Dentária Lisboa.
+Agente: Além de si, gostaria de agendar uma consulta para algum familiar ou amigo? A consulta é gratuita para ele ou ela também.
+Cliente: Ah, sim, gostaria de agendar para a minha mãe também.
+Agente: Claro! Qual é o nome completo da sua mãe?
+Cliente: O nome dela é Maria Silva.
+Agente: E qual é o e-mail e número de telemóvel dela?
+Cliente: O e-mail é maria.silva@gmail.com e o número de telemóvel é 913 456 789.
+Agente: Só para confirmar, o e-mail da sua mãe é maria.silva@gmail.com e o número de telemóvel é 913 456 789, certo?
+Cliente: Sim, é isso mesmo.
+Agente: Obrigada, Ana. Agora, em relação à sua mãe, em que dia e horário seria conveniente para ela?
+Cliente: Ela pode também na terça-feira, às 16, já que temos um compromisso juntas.
+Agente: Perfeito, então agendamos para a sua mãe também na terça-feira, às 16, na Clínica Dentária Lisboa.
+Cliente: Sim, está ótimo.
+Agente: Então, para confirmar: a sua consulta fica marcada para terça-feira, dia 6 às 16 horas, na Clínica Dentária Lisboa. A consulta para a sua mãe também está agendada para o mesmo dia e horário. Você e ela irão receber um e-mail com todas as informações, e um SMS será enviado no dia anterior como lembrete. Tem alguma questão ou posso ajudar com mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Perfeito! Obrigada pela sua disponibilidade. Até terça-feira!
+Agente: Então, tenha um resto de um bom dia e uma excelente semana. Obrigada!
+Cliente: Obrigada, igualmente.
+Agente: Obrigada e até terça-feira!
+
+#43
+Cliente: Olá.
+Agente: Olá, está a falar com Isabel Barros das clínicas dentárias SmileUP. Como o posso ajudar?
+Cliente: Gostaria de agendar uma consulta para mim.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Desejava marcar uma consulta numa das nossas clínicas?
+Cliente: Sim, gostaria de marcar.
+Agente: Para garantir a qualidade do nosso atendimento e por motivos de segurança, gostaria de pedir a sua autorização para gravar esta chamada. Autoriza?
+Cliente: Sim, pode gravar.
+Agente: A consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo, um plano de tratamento e o estabelecimento de um orçamento.
+Cliente: Perfeito, parece bom.
+Agente: Poderia-me dizer o seu nome, por favor?
+Cliente: O meu nome é João Pereira.
+Agente: Certo, João. Poderia-me fornecer o seu e-mail para que eu possa colocar na sua ficha?
+Cliente: Claro, o meu e-mail é joao.pereira@hotmail.com.
+Agente: O e-mail é joao.pereira@hotmail.com, correto?
+Cliente: Sim, está certo.
+Agente: Obrigado, João. E o seu número de telemóvel, por favor?
+Cliente: O meu número é 961 234 567.
+Agente: 961 234 567, correto?
+Cliente: Sim, exatamente.
+Agente: Obrigado, João.
+Agente: Agora, para localizar a clínica mais próxima de si, poderia-me dizer onde mora?
+Cliente: Moro em Oeiras, perto do centro.
+Agente: A clínica mais próxima de si é a Clínica Dentária Oeiras, que está localizada no centro de Oeiras. Está correto?
+Cliente: Sim, isso mesmo.
+Agente: Em que dia e horários lhe seria mais conveniente agendar a consulta?
+Cliente: Eu posso ao final da tarde durante a semana, de preferência na quarta-feira ou na sexta-feira.
+Agente: Tenho horários disponíveis na quarta-feira às 16 ou às 18 horas, ou na sexta-feira às 17 ou às 18 horas. Qual destes horários seria melhor para si?
+Cliente: Pode ser na quarta-feira às 16.
+Agente: Perfeito, então a sua consulta fica agendada para quarta-feira, às 16, na Clínica Dentária Oeiras.
+Agente: Além de si, gostaria de agendar uma consulta para algum amigo ou familiar? A consulta é gratuita para ele ou ela também.
+Cliente: Sim, gostaria de agendar para o meu irmão.
+Agente: Claro! Qual é o nome completo do seu irmão?
+Cliente: O nome dele é Pedro Pereira.
+Agente: E qual é o e-mail e número de telemóvel dele?
+Cliente: O e-mail dele é pedro.pereira@gmail.com e o número de telemóvel é 965 432 109.
+Agente: Só para confirmar, o e-mail do seu irmão é pedro.pereira22@gmail.com e o número de telemóvel é 965 432 109, correto?
+Cliente: Sim, está correto.
+Agente: Obrigado. E para o seu irmão, em que dia e horário seria conveniente?
+Cliente: Ele também pode na quarta-feira às 16, pois vamos juntos.
+Agente: Perfeito, então vamos agendar também a consulta para o seu irmão na quarta-feira, às 16, na Clínica Dentária Oeiras.
+Cliente: Ótimo, assim fica resolvido.
+Agente: Para confirmar: a sua consulta fica marcada para quarta-feira, às 16, na Clínica Dentária Oeiras. A consulta para o seu irmão, Pedro, também está agendada para o mesmo dia e horário. Ambos irão receber um e-mail com todas as informações e um SMS será enviado no dia anterior como lembrete. Tem alguma dúvida ou posso ajudar com mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Perfeito! Agradecemos pela sua disponibilidade. Até quarta-feira!
+Agente: Então, tenha um excelente dia e uma ótima consulta. Obrigado!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado e até quarta-feira!
+
+#44
+Cliente: Olá!
+Agente: Olá, está a falar com Pedro Araujo das clínicas dentárias SmileUP. Como posso ajudá-lo?
+Cliente: Gostaria de marcar uma consulta, por favor.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Desejava marcar uma consulta numa das nossas clínicas?
+Cliente: Sim, gostaria de marcar uma consulta.
+Agente: Para garantir a qualidade do nosso atendimento e por motivos de segurança, gostaria de pedir a sua autorização para gravar esta chamada. Autoriza?
+Cliente: Sim, pode gravar a chamada.
+Agente: A consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo, um plano de tratamento e um orçamento.
+Cliente: Perfeito, ótimo!
+Agente: Pode-me dizer o seu nome completo, por favor?
+Cliente: O meu nome é Mariana Silva.
+Agente: Certo, Mariana. Poderia-me fornecer o seu e-mail para registar na sua ficha?
+Cliente: Claro, o meu e-mail é mariana.silva@gmail.com.
+Agente: O e-mail é mariana.silva@gmail.com, correto?
+Cliente: Sim, está correto.
+Agente: Obrigado, Mariana. E o seu número de telemóvel, por favor?
+Cliente: O meu número é 912 345 678.
+Agente: 912 345 678, correto?
+Cliente: Sim, exatamente.
+Agente: Obrigado, Mariana. Agora, para localizar a clínica mais próxima de si, pode-me dizer onde mora?
+Cliente: Eu moro em Lisboa, na zona de Campo de Ourique.
+Agente: A clínica mais próxima de si seria a Clínica Dentária Lisboa, localizada em Campo de Ourique. Está correto?
+Cliente: Sim, está certo.
+Agente: Em que dia e horário seria mais conveniente para agendar a sua consulta?
+Cliente: Eu posso à tarde, preferencialmente entre terça-feira e quinta-feira.
+Agente: Tenho horários disponíveis na terça-feira às 15 ou às 16, ou na quinta-feira às 16 horas ou às 18. Qual destes horários lhe convém mais?
+Cliente: Pode ser na terça-feira às 15.
+Agente: Perfeito, então a sua consulta está marcada para terça-feira, às 15, na Clínica Dentária Lisboa.
+Agente: Além de si, gostaria de agendar uma consulta para algum amigo ou familiar? A consulta é gratuita para ele ou ela também.
+Cliente: Na verdade, queria agendar para a minha mãe também.
+Agente: Claro! Qual é o nome completo da sua mãe?
+Cliente: O nome dela é Ana Silva.
+Agente: E qual é o e-mail e número de telemóvel dela?
+Cliente: O e-mail dela é ana.silva@gmail.com e o número de telemóvel é 923 456 789.
+Agente: Só para confirmar, o e-mail da sua mãe é ana.silva@gmail.com e o número de telemóvel é 923 456 789, correto?
+Cliente: Sim, isso mesmo.
+Agente: Vou agendar a consulta da sua mãe para a hora seguinte á sua consulta. Pode ser ?
+Cliente: Perfeito, obrigada.
+Agente: Para confirmar: a sua consulta, Mariana, está marcada para terça-feira às 15, e a consulta da sua mãe, Ana, também está agendada para o mesmo dia ás 16. Ambas receberão um e-mail com todos os detalhes e um SMS no dia anterior como lembrete. Tem mais alguma dúvida ou posso ajudar em mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Perfeito, então! Agradecemos a sua confiança. Até terça-feira!
+Agente: Tenha um excelente dia e uma ótima consulta. Obrigada!
+Cliente: Obrigada, igualmente.
+Agente: Obrigada e até breve!
+
+#45
+Cliente: Olá, estou a falar com a SmileUP?
+Agente: Sim, o meu nome é Pedro Cunha. O que posso fazer por si?
+Cliente: Gostaria de marcar uma consulta.
+Agente: Estamos a ligar porque vimos que tentou agendar uma consulta sem sucesso no nosso site. Gostaria de fazer a marcação agora?
+Cliente: Sim, por favor.
+Agente: Para garantir a qualidade do nosso atendimento e por motivos de segurança, gostaria de pedir a sua autorização para gravar esta chamada. Autoriza?
+Cliente: Sim, autorizo.
+Agente: A consulta que vamos agendar abrange um raio-X panorâmico, diagnóstico completo e plano de tratamento. Esta consulta não tem qualquer custo e será uma consulta de avaliação onde depois pode decidir continuar conosco ou não com o seu tratamento.
+Cliente: Entendi, parece-me bem.
+Agente: Pode dizer-me o seu nome completo?
+Cliente: Sim, sou o João Ferreira.
+Agente: Obrigado, João. Pode-me fornecer o seu e-mail?
+Cliente: Claro, é joao.ferreira@email.com.
+Agente: Só para confirmar, joao.ferreira@email.com, correto?
+Cliente: Isso mesmo.
+Agente: E qual número de telemóvel gostaria de guardar aqui na sua ficha?
+Cliente: O mesmo de onde estou a ligar, 935 678 901.
+Agente: 935 678 901, correto?
+Cliente: Sim.
+Agente: Obrigado. Agora, para encontrarmos a clínica mais próxima, pode-me dizer onde mora?
+Cliente: Moro no Porto, na zona da Boavista.
+Agente: Perfeito, então a clínica mais próxima de si é a Clínica Dentária SmileUP Boavista.
+Cliente: Ótimo.
+Agente: Em que dia e horário daria mais jeito para a consulta?
+Cliente: Durante a semana, ao final da tarde.
+Agente: Tenho disponíveis terça-feira às 17 e quinta-feira às 18 horas. Qual prefere?
+Cliente: Pode ser quinta-feira às 18 horas.
+Agente: Perfeito. Além de si, gostaria de marcar uma consulta para algum familiar ou amigo? A consulta é gratuita para ele ou ela também.
+Cliente: Sim, gostaria de marcar para a minha esposa.
+Agente: Claro! Pode-me dizer o nome completo dela?
+Cliente: Sim, é Sofia Martins.
+Agente: Certo. E qual é o e-mail e número de telemóvel dela?
+Cliente: O e-mail dela é sofia.martins@email.com e o número é 927 654 321.
+Agente: Apenas confirmando, o e-mail é sofia.martins@email.com e o número 927 654 321, correto?
+Cliente: Sim, correto.
+Agente: Obrigado. E qual horário seria mais conveniente para a Sofia?
+Cliente: Se for possível, na mesma hora que a minha consulta.
+Agente: Sim, conseguimos agendar para quinta-feira às 18 horas para ambos.
+Cliente: Perfeito!
+Agente: Então, só confirmando: a sua consulta, João, e a da sua esposa, Sofia, estão marcadas para quinta-feira às 18 horas na Clínica Dentária SmileUP Boavista. Ambos receberão um e-mail com os detalhes e um SMS no dia anterior. Posso ajudar em mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Ótimo! Agradecemos a sua confiança. Tenha uma excelente semana e uma boa consulta!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado e até breve!
+
+#46
+Cliente: Olá, estou a falar com a SmileUP?
+Agente: Sim, o meu nome é Elsa Dantas. Como posso ajudar?
+Cliente: Queria marcar uma consulta.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Desejava marcar uma consulta numa das nossas clínicas?
+Cliente: Sim, gostaria.
+Agente: Antes de avançarmos, devo informá-lo de que esta chamada será gravada para efeitos de qualidade e segurança. Está de acordo?
+Cliente: Sim, sem problema.
+Agente: A consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento. Depois da consulta, poderá decidir se deseja continuar conosco para o seu tratamento.
+Cliente: Certo, entendido.
+Agente: Pode dizer-me o seu nome, por favor?
+Cliente: Sim, sou a Mariana Silva.
+Agente: Obrigado, Mariana. Pode-me fornecer o seu e-mail?
+Cliente: Claro, é marianasilva@email.com.
+Agente: Apenas confirmando, marianasilva@email.com, correto?
+Cliente: Isso mesmo.
+Agente: E o seu número de telemóvel?
+Cliente: O meu número é 919 876 543.
+Agente: Obrigado. Agora, pode dizer-me onde mora para identificarmos a clínica mais próxima?
+Cliente: Moro em Coimbra.
+Agente: Perfeito, então a clínica mais próxima de si é a Clínica Dentária SmileUP Coimbra.
+Cliente: Ótimo.
+Agente: Em que dia e horário lhe daria mais jeito para a consulta?
+Cliente: Durante a semana, de manhã.
+Agente: Tenho disponíveis terça-feira às 10 e quarta-feira às 11 horas. Qual prefere?
+Cliente: Pode ser quarta-feira às 11 horas.
+Agente: Perfeito. Além de si, gostaria de marcar uma consulta para algum familiar ou amigo? A consulta é gratuita para ele ou ela também.
+Cliente: Sim, queria marcar para o meu filho.
+Agente: Claro! Pode-me dizer o nome completo dele?
+Cliente: Sim, é Tiago Silva.
+Agente: Obrigado. E qual é o e-mail e número de telemóvel dele?
+Cliente: Ele não tem e-mail, pode usar o meu. O número dele é 914 567 890.
+Agente: Certo, então vou usar o seu e-mail e registar o número 914 567 890 para o Tiago. Está correto?
+Cliente: Sim, correto.
+Agente: E para o Tiago, deseja marcar no mesmo horário ou prefere um horário seguido?
+Cliente: Se possível, no mesmo horário.
+Agente: Sim, conseguimos agendar para quarta-feira às 11 horas para ambos.
+Cliente: Perfeito!
+Agente: Então, confirmando: a sua consulta, Mariana, e a do seu filho, Tiago, estão marcadas para quarta-feira às 11 horas na Clínica Dentária SmileUP Coimbra. Receberá um e-mail com os detalhes e um SMS no dia anterior. Posso ajudar com mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Ótimo! Agradecemos a sua confiança. Tenha um bom dia e uma excelente consulta!
+Cliente: Obrigada, igualmente.
+Agente: Obrigado e até breve!
+
+#47
+Cliente: Olá, estou a falar com a SmileUP?
+Agente: Sim, o meu nome é Isabel Barros. Como posso ajudar?
+Cliente: Queria marcar uma consulta.
+Agente: Estamos a ligar porque vimos que tentou agendar uma consulta sem sucesso no nosso site. Gostaria de fazer a marcação agora?
+Cliente: Sim, pode ser.
+Agente: Antes de avançarmos, devo informá-lo de que esta chamada será gravada para efeitos de qualidade e melhoria do nosso serviço. Autoriza?
+Cliente: Sim, sem problema.
+Agente: Esta consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento. Depois, poderá decidir se deseja continuar conosco para o seu tratamento.
+Cliente: Perfeito.
+Agente: Pode dizer-me o seu nome, por favor?
+Cliente: Sim, sou o Ricardo Almeida.
+Agente: Obrigado, Ricardo. Pode-me fornecer o seu e-mail?
+Cliente: Claro, é ricardoalmeida@email.com.
+Agente: Apenas confirmando, ricardoalmeida@email.com, correto?
+Cliente: Isso mesmo.
+Agente: E o seu número de telemóvel?
+Cliente: O meu número é 926 345 678.
+Agente: Obrigado. Pode-me dizer onde mora para identificarmos a clínica mais próxima?
+Cliente: Moro no Porto.
+Agente: Certo, então a clínica mais próxima de si é a Clínica Dentária SmileUP Porto.
+Cliente: Ótimo.
+Agente: Em que dia e horário lhe daria mais jeito para a consulta?
+Cliente: Durante a semana, ao final da tarde.
+Agente: Tenho disponíveis quinta-feira às 16 e sexta-feira às 17 horas. Qual prefere?
+Cliente: Pode ser quinta-feira às 16 horas.
+Agente: Perfeito. Além de si, gostaria de marcar uma consulta para algum familiar ou amigo? A consulta também será gratuita para ele ou ela.
+Cliente: Sim, queria marcar para a minha esposa.
+Agente: Claro! Pode-me dizer o nome completo dela?
+Cliente: Sim, é Sofia Mendes.
+Agente: Obrigado. E pode-me fornecer o e-mail e número de telemóvel dela?
+Cliente: Pode usar o meu e-mail. O número dela é 924 567 890.
+Agente: Certo, então vou usar o seu e-mail e registar o número 924 567 890 para a Sofia. Está correto?
+Cliente: Sim, correto.
+Agente: E para a Sofia, deseja marcar no mesmo horário ou prefere um horário seguido?
+Cliente: Se puder, para as 17 horas.
+Agente: Sim, temos disponibilidade para quinta-feira às 17 horas para a Sofia.
+Cliente: Perfeito!
+Agente: Então, confirmando: a sua consulta, Ricardo, ficou marcada para quinta-feira às 16 horas, e a da Sofia para quinta-feira às 17 horas, ambas na Clínica Dentária SmileUP Porto. Receberão um e-mail com os detalhes e um SMS no dia anterior. Posso ajudar com mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Ótimo! Agradecemos a sua confiança. Tenham um bom dia e uma excelente consulta!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado e até breve!
+
+#48
+Cliente: Olá, estou a falar com a SmileUP?
+Agente: Sim, o meu nome é Elsa Dantas. Como posso ajudar?
+Cliente: Gostaria de marcar uma consulta.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Deseja marcar uma consulta numa das nossas clínicas?
+Cliente: Sim, por favor.
+Agente: Antes de avançarmos, devo informá-lo de que esta chamada será gravada para efeitos de qualidade e segurança. Está de acordo?
+Cliente: Sim, sem problema.
+Agente: Esta consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento, bem como a elaboração do orçamento.
+Cliente: Parece-me ótimo.
+Agente: Pode-me dizer o seu nome, por favor?
+Cliente: Sim, sou a Joana Marques.
+Agente: Obrigado, Joana. Pode-me fornecer o seu e-mail?
+Cliente: Claro, é joanamarques@email.com.
+Agente: Apenas confirmando, joanamarques@email.com, correto?
+Cliente: Sim, correto.
+Agente: E o seu número de telemóvel?
+Cliente: O meu número é 927 654 321.
+Agente: Obrigado. Pode-me dizer onde mora para identificarmos a clínica mais próxima?
+Cliente: Moro em Braga.
+Agente: Certo, então a clínica mais próxima de si é a Clínica Dentária SmileUP Braga.
+Cliente: Perfeito.
+Agente: Em que dia e horário lhe daria mais jeito para a consulta?
+Cliente: Durante a semana, à tarde.
+Agente: Tenho disponíveis terça-feira às 15 e quarta-feira às 16 horas. Qual prefere?
+Cliente: Pode ser quarta-feira às 16 horas.
+Agente: Ótimo. Além de si, gostaria de agendar uma consulta para algum familiar ou amigo? A consulta também será gratuita para ele ou ela.
+Cliente: Sim, queria marcar para o meu filho.
+Agente: Claro! Pode-me dizer o nome completo dele?
+Cliente: Sim, é Tiago Marques.
+Agente: Obrigado. E pode-me fornecer o e-mail e número de telemóvel dele?
+Cliente: Pode usar o meu e-mail, e o número dele é 925 432 198.
+Agente: Certo, então vou usar o seu e-mail e registar o número 925 432 198 para o Tiago. Está correto?
+Cliente: Sim, correto.
+Agente: E para o Tiago, deseja marcar no mesmo horário ou prefere um horário seguido?
+Cliente: Se puder, para as 17 horas.
+Agente: Sim, temos disponibilidade para quarta-feira às 17 horas para o Tiago.
+Cliente: Perfeito!
+Agente: Então, confirmando: a sua consulta, Joana, ficou marcada para quarta-feira às 16 horas, e a do Tiago para quarta-feira às 17 horas, ambas na Clínica Dentária SmileUP Braga. Receberão um e-mail com os detalhes e um SMS no dia anterior. Posso ajudar com mais alguma coisa?
+Cliente: Não, está tudo certo.
+Agente: Ótimo! Agradecemos a sua confiança. Tenham um bom dia e uma excelente consulta!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado e até breve!
+
+#49
+Cliente: Sim?
+Agente: Boa tarde! Daqui fala Isabel Barros das Clínicas Dentárias SmileUP. Estou a falar com Manuel Lamas?
+Cliente: Sim, sou eu. Mas estou um pouco ocupado agora.
+Agente: Compreendo! Apenas ligamos porque vimos que demonstrou interesse na nossa consulta gratuita. Se quiser, podemos marcar rapidamente ou voltar a ligar noutro momento.
+Cliente: Para ser sincero, não tenho interesse.
+Agente: Sem problema! Agradeço o seu tempo. Tenha um bom dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#50
+Cliente: Olá.
+Agente: Olá, bom dia! Daqui fala Gonçalo Cunha da SmileUP. Estou a falar com o Sr. António?
+Cliente: Sim.
+Agente: Ligamos-lhe hoje porque vimos que demonstrou interesse numa consulta de avaliação gratuita. Gostaria de marcar uma consulta numa das nossas clínicas?
+Cliente: Eu já tenho um dentista e faço acompanhamento regularmente.
+Agente: Que bom saber que já faz acompanhamento! Caso precise de uma segunda opinião ou queira conhecer os nossos serviços, saiba que a consulta é gratuita e sem compromisso.
+Cliente: Não, obrigado. Estou satisfeito onde estou.
+Agente: Compreendo perfeitamente! Caso precise no futuro, estaremos disponíveis. Tenha um excelente dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#51
+Cliente: Olá.
+Agente: Olá! Daqui fala Gonçalo Cunha da SmileUP. Estou a falar com a Sra. Manuela Antunes?
+Cliente: Sim, sou eu.
+Agente: Estamos a ligar porque vimos que tentou agendar uma consulta sem sucesso no nosso site. Gostaria de fazer a marcação agora?
+Cliente: Ah, eu tinha visto, mas ainda não sei se quero marcar.
+Agente: Compreendo. A nossa consulta é gratuita e inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento. Caso tenha interesse, podemos já agendar e, se depois não puder comparecer, pode reagendar sem compromisso.
+Cliente: Prefiro pensar melhor e, se decidir marcar, entro em contacto.
+Agente: Claro! Caso tenha alguma dúvida, pode ligar-nos. Tenha um ótimo dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#52
+Cliente: Olá, estou a falar com ?
+Agente: Sim, o meu nome é Isabel Barros das clinicas déntarias SmileUP. Como posso ajudar?
+Cliente: Recebi uma chamada vossa, do que se trata?
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita através das nossas redes sociais. Gostaria de marcar uma consulta numa das nossas clínicas?
+Cliente: Ah, sim, mas neste momento não estou interessado.
+Agente: Sem problema! Caso mude de ideia no futuro, estamos sempre disponíveis para ajudá-lo. Tenha um bom dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#53
+Cliente: Olá.
+Agente: Olá! Daqui fala Gonçalo Cunha da SmileUP. Estou a falar com o Sr. Francisco Silva?
+Cliente: Sim, sou eu.
+Agente: Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita. Gostaria de marcar uma consulta numa das nossas clínicas?
+Cliente: Ah, mas eu não quero gastar dinheiro agora com isso.
+Agente: Compreendo! Só para esclarecer, esta consulta é totalmente gratuita e inclui um raio-X panorâmico, um diagnóstico completo e um plano de tratamento, sem qualquer compromisso.
+Cliente: Mesmo assim, acho que não preciso agora.
+Agente: Sem problema! Se no futuro mudar de ideia, estamos à disposição. Tenha um bom dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#54
+Cliente: Sim?
+Agente: Boa tarde! Daqui fala Isabel Barros das Clínicas Dentárias SmileUP. Estou a falar com a Sra. Isabel Sá?
+Cliente: Sim.
+Agente: Ligamos porque vimos que tentou agendar uma consulta sem sucesso no nosso site. Gostaria de fazer a marcação agora?
+Cliente: Não sei… depois tenho de continuar o tratamento convosco?
+Agente: Não, de forma alguma! A consulta é apenas para avaliação e sem compromisso. Após o diagnóstico, se decidir continuar, fazemos um orçamento, mas a escolha é sempre sua.
+Cliente: Hm… Prefiro não marcar por agora.
+Agente: Sem problema! Se mudar de ideia, estamos aqui para ajudar. Tenha um ótimo dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#55
+Cliente: Olá.
+Agente: Olá! Falo com o Sr. Rodrigo Leão? Aqui é Elsa Dantas das Clínicas Dentárias SmileUP.
+Cliente: Sim, sou eu.
+Agente: Vimos que demonstrou interesse numa consulta de avaliação gratuita. Podemos agendar para si?
+Cliente: Ah, eu já fui a outro dentista e já resolvi o problema que tinha.
+Agente: Que ótimo que já conseguiu resolver! Caso no futuro precise de outro tratamento ou uma segunda opinião, teremos todo o gosto em ajudá-lo.
+Cliente: Sim, obrigado, mas por agora estou bem.
+Agente: Compreendo! Agradeço o seu tempo. Tenha um excelente dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#56
+Cliente: Olá.
+Agente: Olá! Aqui é Elsa Dantas da SmileUP. Estou a falar com a Sra. Joana Leão?
+Cliente: Sim.
+Agente: Estamos a ligar porque demonstrou interesse numa consulta gratuita. Podemos agendar para si?
+Cliente: Gratuita mesmo? Ou depois vão tentar vender-me algo?
+Agente: A consulta é 100% gratuita e sem compromisso. Apenas fornecemos um diagnóstico e, se quiser, podemos sugerir tratamentos, mas a decisão será sempre sua.
+Cliente: Hm, não sei… Prefiro não marcar.
+Agente: Claro, compreendo! Se no futuro decidir fazer a consulta, teremos todo o gosto em recebê-lo. Tenha um ótimo dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#57
+Cliente: Sim?
+Agente: Boa tarde! Daqui fala Elsa Dantas da SmileUP. Estou a falar com o Sr. João Rodrigo?
+Cliente: Sim, sou eu.
+Agente: Estamos a ligar porque vimos que demonstrou interesse numa consulta gratuita. Gostaria de agendar?
+Cliente: Para ser sincero, eu detesto ir ao dentista. Evito ao máximo.
+Agente: Compreendo perfeitamente! Muitas pessoas sentem-se assim, mas na SmileUP fazemos tudo para garantir que tenha uma experiência tranquila e confortável.
+Cliente: Mesmo assim, prefiro não marcar nada.
+Agente: Sem problema! Se mudar de ideia, estaremos disponíveis. Tenha um bom dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+#58
+Cliente: Olá.
+Agente: Olá, bom dia! Daqui fala Isabel Barros da SmileUP. Estou a falar com João Moura?
+Cliente: Sim.
+Agente: Ligamos porque vimos que demonstrou interesse numa consulta gratuita. Podemos agendar?
+Cliente: Ah, mas os meus dentes estão bons, não sinto necessidade de ir ao dentista agora.
+Agente: Que ótimo que sente os seus dentes saudáveis! Mas mesmo sem dor ou problemas visíveis, a consulta pode ajudar a prevenir futuras complicações.
+Cliente: Sim, mas por enquanto acho que não preciso.
+Agente: Claro, compreendo! Caso mude de ideia, estamos por aqui. Tenha um excelente dia!
+Cliente: Obrigado, igualmente.
+Agente: Obrigado!
+
+

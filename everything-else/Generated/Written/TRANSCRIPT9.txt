@@ -1,0 +1,43 @@
+AGENTE-Olá, bom dia. 
+CLIENTE-Bom dia. 
+AGENTE-O meu nome é Pedro Araújo, falo por parte da Clínica Dentária da SmileUp. Estou a falar com a Sra. Celeste Gonzaga. 
+CLIENTE-Sim, sim. 
+AGENTE-Estou a contactá-la num seguimento aqui de um formulário que preencheu, através dos canais digitais. 
+CLIENTE-Sim. 
+AGENTE-Eu gostaria de a convidar a realizar uma consulta de avaliação dentária, sem qualquer tipo de custo, na SmileUp de Queluz. Deseja marcar esta consulta? 
+CLIENTE-Correto. 
+AGENTE-Sim, deseja marcar esta consulta? 
+CLIENTE-Sim, sim. Pode marcar. 
+AGENTE-Muito bem. Então, neste sentido, antes de seguir, eu gostaria só de informá-la que por motivos de qualidade e segurança, a chamada será gravada, a senhora autoriza?
+CLIENTE-Sim, sim. 
+AGENTE-Então, neste caso, eu consigo-lhe marcar já a consulta para amanhã ou na quarta-feira? 
+CLIENTE-Não. Nem amanhã, nem quarta. Eu só tenho disponibilidade quinta-feira.
+AGENTE-Quinta-feira? Pode ser na quinta-feira, a parte de amanhã, a parte da tarde? 
+CLIENTE-Não. Pode ser na quinta-feira, às 14h30. 
+AGENTE-Lamento, eu só consigo marcar ou para às 14h, ou então para às 15h. 
+CLIENTE-Então, pode ser para às 15h. 
+AGENTE-Muito bem. Eu vou marcar. 
+CLIENTE-Depois, quanto tempo demora a consulta? 
+AGENTE-Cerca de 30 a 45 minutos. 
+CLIENTE-Pronto. Porque eu tenho, depois, um compromisso às 16h30. 
+AGENTE-Sem problema. Eu iria perguntar-lhe se o seu email é ciolina. 
+CLIENTE-É esse mesmo. 
+AGENTE-Esta consulta é extensiva ao seu agregado familiar e amigos,deseja marcar para mais alguém. 
+CLIENTE-Não. É para mim porque eu quero uma segunda opinião. 
+AGENTE-É para uma segunda opinião. Deixe-me só, então, colocar aqui a informação. Portanto para uma segunda opinião, não é? 
+CLIENTE-Sim, porque eu já fiz uma consulta num outro sítio e gostava de saber o que é que vocês me oferecem em termos de implantologia. 
+AGENTE-Muito bem. Nesse sentido, ficou marcado para a clínica de Queluz, que é a clínica que nos indicou como mais próxima. 
+CLIENTE-Sim, é que fica na... Ai, como é que se chama aquela rua? Mas fica em frente... Há um mini-preço nessa rua, não há? 
+AGENTE-Fica na Rua da Segurança Social, em frente ao Parque Infantil, na Avenida da República, número 103. 
+CLIENTE-Rua da Segurança Social... 
+AGENTE-Sim. Em frente ao Parque Infantil. 
+CLIENTE-Sim, sim, sei. É uma rua que depois vai dar ao Palácio de Queluz. 
+AGENTE-Pronto, então, neste caso, esta consulta, quero-lhe dizer, então, que está incluído o Raio-X Panorâmico, o Rastreio Oral Completo e o Plano de Tratamento Integral com o respectivo ao orçamento. Pronto, neste caso, então, está marcado só para si. Irá receber uma mensagem, portanto, da clínica, com a indicação que a consulta está marcada e, por e-mail, recebe a localização exata. Está bem? 
+CLIENTE-Certo.
+AGENTE-Se não estiver no principal, por favor, confirme no spam. Está bem? 
+CLIENTE-Obrigada. 
+AGENTE-Não sei se existe alguma questão ou dúvida que queira tirar. 
+CLIENTE-Não, senhor. É só... Obrigada. 
+AGENTE-Bom dia. Agradeço, então, a sua disponibilidade. Continuação de um bom dia, boa consulta e boa semana. 
+CLIENTE-Igualmente. 
+AGENTE-Obrigada. Bom dia. Com licença.

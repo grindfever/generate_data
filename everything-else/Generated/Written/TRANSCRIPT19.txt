@@ -1,0 +1,36 @@
+AGENTE-Bom dia, o meu nome é Ana Correia das Clínicas dentária Smile Up, estou a falar com a Sra. Marlene Santos. 
+CLIENTE-Sim, sim. 
+AGENTE-Sra. Marlene, nós estamos a contactá-la em seguimento de uma ação de bancada, já nos facultou o seu contacto, e nesse sentido gostaríamos de convidá-la a usufruir de uma consulta. Quando é que lhe seria possível? Temos já disponibilidade para esta semana, pode ser já para amanhã, quarta-feira? 
+CLIENTE-Oh, isso é, qual é a clínica? 
+AGENTE-O seu pedido foi feito para a nossa clínica Smile Up de Alvalade. 
+CLIENTE-Ah, sim, sim, sim. 
+AGENTE-Sim, de facto, a Sra. já foi fazer o check-up, mas já foi há algum tempo, uma vez que já foi há mais de seis meses. Se a Sra. quiser voltar a usufruir da consulta de avaliação, pode ir a fazer, sem qualquer custo. 
+CLIENTE-Sim, porque eu também estou com uma dor de dentes, queria mesmo ir para lá. E tem vaga para amanhã, às cinco? 
+AGENTE-Eu vou já verificar. Permita-me só, antes de mais informá-la, que por motivos de qualidade e segurança, a chamada está a ser gravada, autoriza? 
+CLIENTE-Autorizo. 
+AGENTE-Muito obrigada. A nossa clínica de Alvalade fica, então, na Avenida de Roma, perto da Escola Eugénio dos Santos e do Hospital Júlio de Mares. Para o seu e-mail, marlenesantos santos3 arroba hotmail.com, vai ser enviado a confirmação da marcação, que vai ficar em nome da Sra. Marlene da Graça dos Santos dos Ramos, está bem? Então, vou agora verificar a disponibilidade para amanhã. Deixe-me só um momento, por favor. Então, em termos de disponibilidade, para amanhã, dia 28, prefere de manhã ou tarde? 
+CLIENTE-À tarde. 
+AGENTE-Na parte da tarde, tenho às quatro ou às cinco? 
+CLIENTE-Às cinco. 
+AGENTE-Às cinco. Vou-lhe confirmar, então, a sua marcação para amanhã, dia 27, às dezessete horas, na clínica SmileUP de Alvalade. Irá ter direito ao raio-x de avaliação e, se necessário, o plano de tratamento e o respeito de orçamento. E não lhe terá qualquer custo, está bem? Na minha parte, não sei se teria mais alguma questão, alguma dúvida? A consulta também não terá qualquer custo para o seu agregado familiar, não gostaria de levar mais alguém consigo? 
+CLIENTE-Não sei. Só se levar o meu filho. 
+AGENTE-Que idade tem o filho? 
+CLIENTE-Dezasseis. 
+AGENTE-Dezesseis. Eu posso, então, colocar aqui a indicação e a senhora vai conferir a consulta. Fica marcado para ambos amanhã. Pode ser? 
+CLIENTE-Sim. 
+AGENTE-Como é que se chama o filho, se faz favor? 
+CLIENTE-Adeazy. A D 
+AGENTE-A D 
+CLIENTE-E
+AGENTE-E 
+CLIENTE-A
+AGENTE-A 
+CLIENTE-Z
+AGENTE-Z
+CLIENTE-Y
+AGENTE-Y
+CLIENTE-Adeazy Ramos. 
+AGENTE-Ramos. Fica, então, marcado para si e para o filho amanhã, dia 27, às dezessete horas. 
+CLIENTE-Está bem. 
+AGENTE-Muito obrigada. 
+CLIENTE-Obrigada.

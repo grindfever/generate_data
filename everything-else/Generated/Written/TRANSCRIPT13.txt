@@ -1,0 +1,53 @@
+AGENTE-Olá, muito boa tarde. 
+CLIENTE-Olá, boa tarde. 
+AGENTE-Boa tarde, meu nome é Sandra Sanches, das clínicas dentárias da Smile Up. Tenho o gosto em falar com a senhora Patti Berg? 
+CLIENTE-Sou ela mesma. 
+AGENTE-Sim, nós estamos a contactar ela, pois preencheu um formulário através do Facebook para a nossa clínica em Setúbal. E nesse sentido, nós gostaríamos de convidá-la para uma consulta. É uma avaliação dentária sem custos, no qual possa ter todas as informações, tratamento, traçamento de valores. Vamos agendar uma data para que possa ir à nossa clínica em Setúbal. 
+CLIENTE-Sim, pode ser na semana que vem? 
+AGENTE-Pode sim. Eu vou verificar uma data consigo para a semana que vem. Me permita, antes de mais, informar que a chamada é gravada, por motivo de qualidade de segurança. Autoriza? 
+CLIENTE-Autorizo sim. 
+AGENTE-Obrigada. Eu vou só confirmar. Seu e-mail está como patti.berg arroba hotmail.com, está correto? 
+CLIENTE-Não, é patti domingos. 
+AGENTE-Então, vamos aqui, acho que era o antigo. Antes de mais, me informe o nome completo para eu deixar correto na nossa agenda. 
+CLIENTE-Patrícia. 
+AGENTE-Patrícia. 
+CLIENTE-Berg. 
+AGENTE-Berg. Como está aqui? B-E-R-G? 
+CLIENTE-B-E-R-G, isso. 
+AGENTE-Ok. Patrícia. 
+CLIENTE-Berg Domingo. 
+AGENTE-Domingo. Ok agora, vamos para o e-mail, então. Pode me dizer? É Patrícia o e-mail? 
+CLIENTE-É patti, patti com um i só. 
+AGENTE-Ok. 
+CLIENTE-Domingo. 
+AGENTE-Domingo. 
+CLIENTE-Sete sete. 
+AGENTE-Sim. 
+CLIENTE-Arroba gmail.com. 
+AGENTE-Obrigada. Assim já deixo correto aqui para a clínica. Bom, essa consulta não vai ter custo, também. 
+CLIENTE-Tá. 
+AGENTE-Tem direito a um raio-x panoramico, um diagnóstico e um orçamento. Se quiser aproveitar a consulta para mais alguém também nao vai ter custo, se quiser trazer um familiar, um amigo, crianças apartir de 2 anos.Esta consulta é so para si, ou deseja usufruir para mais alguém?  
+CLIENTE-Não, seria só para mim. 
+AGENTE-Na próxima semana, prefere qual dia da semana e qual o horário que é melhor? De manha ou á tarde?
+CLIENTE-Na segunda-feira pode ser, assim, ou final da manhã, ou horário do almoço. Fica bom para mim depois das onze horas. 
+AGENTE-Deixa verificar aqui , então na segunda. Na próxima semana, nessa segunda eu já não tenho mais horários.
+CLIENTE-Quais os dias que você teria? 
+AGENTE-Eu tenho na quinta e na sexta.
+CLIENTE-Desta sexta. Desta semana? 
+AGENTE-Da próxima semana que me disse. 
+CLIENTE-Ah, tá. 
+AGENTE-Essa semana eu tenho horários. Essa eu tenho horários, tanto amanhã, se quiser de manhã, tenho a tarde, tenho também na quarta. 
+CLIENTE-Não, vou mais para a semana que vem que fica mais folgado para mim. Esta semana de pagamento está meio corrida. 
+AGENTE-Então pode ser no dia seis, na quinta, de manhã? 
+CLIENTE-Pode ser no dia seis, quinta de manhã. No sete eu já tenho compromisso. 
+AGENTE-Então, às dez, nove ou meio-dia. Qual o horário? 
+CLIENTE-Meio-dia, por favor. 
+AGENTE-Meio-dia e vai ser só para si no momento a consulta, não é? 
+CLIENTE-No momento seria, porque eu estou sozinha aqui agora, eu não tenho nem como confirmar com alguém que queira ir junto. 
+AGENTE-Correto. Bom, está agendado então para a próxima semana, para quinta-feira, dia seis, tá bem? Às doze da hora. Recebe no seu e-mail então a marcação da consulta, com a data e a hora da consulta agendada e uma mensagem antes também, para relembrar dessa avaliação conosco, dessa consulta. 
+CLIENTE-Ah, era isso que eu ia perguntar, se eu recebia alguma mensagem antes, porque senão depois eu não ia lembrar. 
+AGENTE-Está bem, sim, recebe. Mais alguma questão que eu possa lhe ser útil? 
+CLIENTE-Não, seria isso mesmo. 
+AGENTE-Tá bem, muito obrigada então, Sra. Patricia . Continuação assim de uma boa tarde, uma boa semana. 
+CLIENTE-Obrigada igualmente para você, tchau. 
+AGENTE-Obrigada, obrigada.

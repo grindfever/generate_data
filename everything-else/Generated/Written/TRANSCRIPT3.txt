@@ -1,0 +1,42 @@
+AGENTE-Apoio ao cliente SmileUp, bom dia, o meu nome é Mariana Sacieira em que posso ser util?
+CLIENTE-Bom dia, é o seguinte, eu gostaria de saber quanto é que ficava uma avaliação oral com o rastiz e o plano de tratamento.
+AGENTE-Sim sim.
+CLIENTE-Queria eu dizer que eu tenho um implante, tenho 4 implantes em baixo e 4 em cima, e há um em debaixo que está com uma inflamaçãozita aí então.
+AGENTE-Se quiser verificar então aqui todas as condições, os valores e depois decidir então se quer dar aqui continuidade, muito bem, pode só me facultar o seu nome, por favor. 
+CLIENTE-Sara Cristina Almeida Grosso. 
+AGENTE-Muito bem, antes de mais, permita-me também informar por motivos de qualidade, a segurança da chamada é gravada, autoriza? 
+CLIENTE-Autorizo.
+AGENTE-Obrigada, pronto, a nossa primeira consulta,  senhora Sara, não tem mesmo qualquer tipo de custo, está incluído um raio-x panorâmico, um plano diagnóstico necessário com o respectivo orçamento, está bem? Disse me que residia onde, pode só voltar a repetir?
+CLIENTE-Diana de Alentejo.
+AGENTE-Deixe-me só confirmar, temos aqui a indicação que seria a clínica de Évora, a mais próxima, não sei se está correto. 
+CLIENTE-Exato, exato, exato. 
+AGENTE-Muito bem, a nossa clínica de Évora situa-se na Avenida Sanchos de Miranda, no antigo balcão do BPI, na Rotunda. 
+CLIENTE-Eu sei onde é.
+AGENTE-Muito bem, se bem quiser agendar esta consulta, pode fazê-la através desta chamada, para um dia ou um horário à sua escolha, e se consegue verificar todas as condições, os valores, sem qualquer tipo de custo, e depois decidir se quer ou não dar continuidade.
+CLIENTE-Então eu gostaria de marcar pelo menos a avaliação oral, já que não tem custos nenhums, e continuaria com vocês, claro. 
+AGENTE-Claro que sim, para fazer para esta semana, tem disponibilidade, por exemplo, para amanhã, quarta-feira, quando é que seria oportuno para si? 
+CLIENTE-É igual, é que eu agora ando com dores, para mim... 
+AGENTE-Então eu posso por exemplo, para amanhã, se for oportuno para si, tenho às 11, tenho ao meio-dia, tenho depois à 1, às 7... 
+CLIENTE-Às 11. 
+AGENTE-Às 11 horas, muito bem. A consulta também é extensível para o agregado familiar, gostaria de levar mais alguem, ou é só mesmo para si? 
+CLIENTE-Não, é só mesmo para mim, levo um acompanhante, que é o meu namorado, mas é só mesmo para mim. 
+AGENTE-Ok, mas a consulta é só mesmo, então, para si, se quiser pode também agendar aqui a consulta para o namorado, não há nenhum problema. 
+CLIENTE-Queres? Como tens de arranjar dentista? Estou a ver mal.
+Então marcamos para os dois, porque eu também, de momento, tenho que alterar. E diga-me uma coisa, mas vocês não têm acordo? 
+AGENTE-É assim, de forma direta não, mas convém verificar diretamente na clínica, porque depende também do tratamento, da seguradora, e depois também vão lhe explicar o procedimento todo, como é que depois faz para pedir o reembolso, está bem? Tem depois mesmo que ver diretamente na clínica. 
+Preciso que me confirme só aqui o nome do namorado, por favor.
+CLIENTE-Vitor Bonito.
+AGENTE-E o e-mail, posso deixar o seu e o número de telefone também? 
+CLIENTE-Sim, sim.
+AGENTE-Muito bem, o e-mail, pode-me facultar, porque não lhe perguntei há bocado. 
+CLIENTE-Sarah.Almeida.Grosso arroba gmail.com 
+AGENTE-Vou deixar aqui também este e-mail associado à ficha do Sr. Vitor, está bem? Deixe-me só confirmar se tenho aqui alguma vaga para amanhã também para o Sr. Vitor, às 11 horas. Deixe-me só confirmar aqui a disponibilidade, assim podem-nos usufruir os dois do mesmo horário. Deixe-me só aqui confirmar. É assim, para amanhã às 11 horas já não tem. Tenho depois para o horário o seguinte ao meio-dia, assim acaba um e vai logo depois o Sr. Vitor, pode ser? 
+CLIENTE-Pode ser, pode ser. 
+AGENTE-Pronto. Fica então agendado para si, às 11 horas, para o Sr. Vitor ao meio-dia. Normalmente um dia antes enviamos então uma SMS para confirmar e relembrar o agendamento. A consulta não tem mesmo qualquer tipo de custo, nem para si, nem para o seu agregado familiar, está bem? E ficou então agendado para os dois, amanhã na clínica de Évora, às 11 horas e ao meio-dia. 
+CLIENTE-E ao meio-dia. Muito obrigado.
+AGENTE-Está bem, da minha parte alguma questão, onde eu posso ajudar? 
+CLIENTE-Não, não, era só. 
+AGENTE-Uma boa consulta então para os dois. 
+CLIENTE-Muito obrigada. Bom dia, bom trabalho. 
+AGENTE-Muito obrigado. Bom dia, boa semana. 
+CLIENTE-Obrigado

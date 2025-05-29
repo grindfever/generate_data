@@ -1,0 +1,31 @@
+AGENTE-Olá, muito bom dia, o meu nome é Gonçalo Cunha,falo  do apoio ao cliente SmileUp, em que podemos ser úteis.
+CLIENTE-Sim, muito bom dia.
+AGENTE-Bom dia.
+CLIENTE-Eu tenho uma chamada, conheci o número do meu telefone.
+AGENTE-Ah, ok. Muito bem, deixe-me lhe deixar claro então, que por motivos de qualidade e de segurança, a chamada será gravada autoriza a gravação? Bom dia, consegue me ouvir? 
+CLIENTE-Sim, sim.
+AGENTE-Ok, estou a falar com a Sra. Clara Almeida, certo?
+CLIENTE-Certo.
+AGENTE-Olá, Sra. Clara, nós temos contatado aqui por parte das Clínicas Dentárias SmileUp apenas para dar seguimento a um pedido de contato que nos terá feito via online através do nosso website, não sei se se recorda, pronto, da nossa ação de sensibilização sobre a saúde oral, onde teríamos uma primeira consulta no dentista, ou seja, uma avaliação completa que não teria qualquer tipo de custo para conosco. Esta ação decorre em todas as nossas 78 clínicas que temos, incluindo na clínica de Coimbra, a que foi a única sessão que ficamos, portanto que será a clínica mais próxima a da Sra. Clara, e onde estamos abertos de segunda a sábado, das nove às sete, sendo totalmente conforme a sua disponibilidade. Nós estaremos a contactar para saber se gostaria de agendar, para um dia a sua escolha, esta avaliação sem custo. Portanto, esta semana seria possível para terça, quarta-feira, das nove às sete?
+CLIENTE-Não, esta semana vai me ser um pouco complicado por causa do trabalho. 
+AGENTE-Ok, e ao sábado também não seria possível?
+CLIENTE-Porque na sexta que eu tenho folga, eu trabalho também de sábado. 
+AGENTE-Ah, ok, então dia 31 pode ser, sexta-feira? 
+CLIENTE-Sim, sim. 
+AGENTE-Muito bem, e gostaria da parte da manhã ou da parte da tarde, Sra. Clara? 
+CLIENTE-Da parte da tarde. 
+AGENTE-Ok, então nós aqui da parte da tarde temos algo ao meio-dia, às duas, às quatro, às cinco, às seis e às sete. 
+CLIENTE-Pode ser ao meio-dia. 
+AGENTE-Ao meio-dia. Esta consulta também é extensível aos seus familiares e amigos, inclusive a crianças, Sra. Clara, gostaria de levar consigo mais alguém? Também não há custo para essas pessoas? 
+CLIENTE-Não, em princípio não, não tenho cá ninguem. 
+AGENTE-Ok, para já é só o princípio. Pronto tem então direito na consulta a um raio-x panorâmico, que vai avaliar o estado dos seus dentes, da gengiva e até do próprio osso. Está também direito a outras avaliações feitas pelo dentista, bem como um plano de tratamento integral e o respectivo orçamento, tudo isto sem qualquer tipo de custo. Quanto aqui á localização, a clinica de Coimbra fica na Rua João Machado, em frente ao Crédito Agrícola, ao lado do Monte Pio, próximo também do Tivoli, Coimbra Hotel. No entanto, vai para o seu e-mail toda a informação e a localização, para que não tenha dúvidas, aqui para Kiara Almeida, com um A, 11 arroba hotmail.com .Ok? Então é para este e-mail que toda a informação sobre a consulta e a localização, e também tem um dia antes, portanto na quinta-feira, recebe um SMS, só mesmo para lhe relembrar da consulta e confirmar a presença, ok?  
+CLIENTE-Está, Ok. 
+AGENTE-Da minha parte alguma dúvida, alguma questão? 
+Não não, de princípio não.
+AGENTE-Tem hipotese sempre de contactamos. 
+CLIENTE-Está bom. 
+AGENTE-Fica então para o meio-dia de 31 de sexta-feira! Está bem?
+CLIENTE-Sim sim sexta-feira  
+AGENTE-Exatamente. Então um resto de um ótimo dia e boa consulta, uma boa semana, com licença.
+CLIENTE-Ok. Muito obrigada.
+AGENTE-Muito obrigado.

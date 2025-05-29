@@ -1,0 +1,41 @@
+AGENTE-Bom dia. 
+CLIENTE-Sim.
+AGENTE-Olá, muito bom dia. Fala Pedro Silva da Clínica Dentrária SmileUp, estou a falar com a senhora Manuela Ferreira?
+CLIENTE-Sim.
+AGENTE-Eu estou a entrar em contacto, porque verificamos que teve uma consulta agendada para a nossa SmileUp em Leiria.
+CLIENTE-Eu não consegui ir.
+AGENTE-Exatamente.Pronto nós estamos a ligar para fazer o reagendamento, tem alguma preferência, por exemplo, para amanhã, quarta... 
+CLIENTE-Esta semana não consigo, esta semana não consigo.
+AGENTE-Qual é que seria, então, neste caso, a melhor altura para si?
+CLIENTE-Na proxima semana.
+AGENTE-Na próxima semana? Muito bem. Vou, então, aqui verificar. Permita-me só indicar, por questões de qualidade e segurança, a chamada será gravada. Autoriza-me?
+CLIENTE-Sim, sim.
+AGENTE-Então, diga-me o seu nome, por favor.
+CLIENTE-Ah, Manuela Ferreira. 
+AGENTE-Manuela Ferreira. O seu endereço de e-mail é nenet .
+CLIENTE-É, sim é.
+AGENTE-52 arroba hotmail.com.
+CLIENTE-Sim.
+AGENTE-Pronto, relativamente à localização da nossa Clínica, estamos na rua Cornell, hotel Champaio Rio, próximo ao Rei dos Frangos e ao Pingo Doce, que fica na rua Irajo da Angola. Onde é que fica?
+CLIENTE-Certo. 
+AGENTE-Próximo ao Teatro José Lúcio da Silva. 
+CLIENTE-José Lúcio,sim.
+AGENTE-Exatamente.Pronto. Tinha-me dito na próxima semana,ia-me colocar alguma questão? 
+CLIENTE-Depois das cinco da tarde, se fosse possível. 
+AGENTE-Teria de ser seis ou sete, neste caso. Não pode mesmo ás cinco. Teria de ser seis ou sete. Pode ser?
+CLIENTE-Seis da tarde sim.
+AGENTE-Segunda-feira, pelo dia três, ou seja, desde uma semana, pelas oito horas. É possível?
+CLIENTE-Sim. Sim. Sim. 
+AGENTE-Muito bem. Pronto. A sua avaliação, ela não terá qualquer... Peço desculpa. A sua avaliação não tem qualquer custo. Ok?
+CLIENTE-Hum hum.
+AGENTE-Ela consiste na ortopantomografia, raio-x diagnóstico, rastreio oral, plano diagnóstico e plano tratamento. Deseja trazer mais alguém consigo nesse sentido? 
+CLIENTE-Não, não, não. 
+AGENTE-Certo. Ora, então, fica então agendado para o dia três, está bem? Ou seja, desde uma semana, pelas dezoito horas, na SmileUp em Leiria. Como eu lhe informei, a avaliação não terá custo. Consiste na ortopantomografia , raio-x diagnóstico, rastreio oral, plano diagnóstico e plano tratamento. Um dia antes da sua consulta, vai ser contactada via SMS, isto para recordar a mesma, e vai receber no seu endereço de e-mail a informação relativamente à consulta, bem como dados relativos à localização da clínica, está bem? 
+CLIENTE-Ok. Ok. 
+AGENTE-Tem alguma dúvida ou questão? 
+CLIENTE-Não. É tudo. 
+AGENTE-Muito bem. Fica então com essa informação.
+OCLIENTE-brigado.
+AGENTE-Obrigado nós, tenha um bom dia e uma boa semana.
+CLIENTE-Obrigado.
+AGENTE-Obrigado, obrigado, obrigado.

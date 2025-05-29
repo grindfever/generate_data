@@ -1,0 +1,191 @@
+1-introduçao Cliente - >Agente (0.4) ->salta para passo 3:
+op1
+Cliente - Olá.
+Agente - Olá, está a falar com [nome de agente] das clínicas dentárias SmileUP.Como o posso ajudar?
+Cliente - Gostaria de marcar uma consulta.
+op2
+Cliente - Olá, estou a falar com SmileUP?
+Agente - Sim, o meu nome é [nome de agente], o que posso fazer por si ?
+Cliente - Gostaria de marcar uma consulta.
+op3
+Agente - Olá, está a falar com [nome de agente] das clínicas dentárias SmileUP,como posso lhe ajudar?
+Cliente - Olá , estava a ligar para marcar uma consulta numa das suas clinicas.
+1-introduçao Agente - >Cliente (0.6)->salta para passo 2:
+op1 0.25
+Agente - Olá, bom dia! Daqui  fala [nome de agente] da SmileUP. Estou a falar com [nome cliente]?"
+Cliente - Sim.
+op2 0.25
+Agente - Olá,falo com [nome cliente]? Aqui fala [nome de agente] das clinicas dentárias SmileUP.
+Cliente - Sim sou eu.
+op3 0.5
+Agente - Boa tarde. Daqui fala [nome de agente] das clinicas dentárias SmileUP , estou a falar com?
+Cliente - Boa tarde , daqui fala [nome cliente]
+2-Contexto prévio/informaçoes prévias -> salta para passo 3:
+op1
+Agente - Estamos a ligar porque vimos que demonstrou interesse na nossa consulta de avaliação gratuita, através das nossas redes sociais. Desejava marcar uma consulta numa das nossas clinicas?"
+Cliente - Sim.
+op2
+Agente - Estamos a ligar visto que já teve uma consulta marcada e nao compareceu, gostariamos de saber se deseja reagendar esta consulta.
+Cliente - Sim ,gostaria de reagendar para outro dia.
+op3
+Agente - Ligamos-lhe hoje pois vimos que tentou agendar uma consulta sem sucesso no nosso site. Gostaria de fazer a marcação agora ?
+Cliente - Certo, pode ser.
+3-Pedido de gravaçao da chamada ->salta para passo 4
+op1
+Agente - Para garantir a qualidade do nosso atendimento e por motivos de segurança gostaria de pedir a sua autorização para gravar esta chamada. Autoriza?"
+Cliente - Sim, autorizo.
+op2
+Agente - Devo lhe informar que por motivos de segurança e qualidade a chamada seguinte será gravada.Está de acordo?
+Cliente - Estou.
+op3
+Agente - Antes de seguirmos com o agendamento da sua consulta, pedia lhe a sua autorização para gravar esta chamada para efeitos de qualidade e melhoria do nosso serviço. Pode ser?"
+Cliente - Sim.
+4-Explicaçao da consulta ->salta para passo 5(0.33) ou salta para passo 6(0.67)
+Agente - Esta consulta será gratuita e inclui um raio-X panorâmico, um diagnóstico completo, um plano de tratamento assim como o estabelecimento de orçamento.
+Cliente - Ok.
+op2
+Agente - A consulta que vamos agendar abrange um raio-X panorâmico, diagnóstico completo e plano de tratamento. Esta consulta não tem qualquer custo e será uma consulta de avaliação onde depois pode decidir continuar conosco ou não , o seu tratamento.
+Cliente - Então, depois se quiser continuar o tratamento com vocês como poderia ver os custos?
+Agente - Isso ai depois irá depender da clinica, após esta consulta irá ser feito um orçamento depois para o seu tratamento.
+Cliente - Ok.
+op3
+Agente - Esta consulta de avaliação seria gratuita, onde será fornecido um diagnóstico completo assim como um plano de tratamento e o respectivo orçamento.Também terá direito a um raio-X panorâmico e como já disse, esta consulta não teria custo para si.
+Cliente - Parece-me bem.
+5-ADSE ->salta para passo 6
+op1
+Cliente - Desculpe, mas gostaria de saber se têm algum acordo com a ADSE.
+Agente - Sem problema, nós de momento não temos acordo direto com a ADSE mas consegue usufruir dos seus beneficios, depois tem de perguntar na clinica onde fizer a sua consulta como seria o procedimento.
+op2
+Cliente - Eu tenho ADSE, vocês tem algum tipo de acordo ?
+Agente - Não, mas voçe consegue usufruir dos seus beneficios tem é de se dar a algum trabalho para isso, depois na clinica onde tiver a sua consulta eles explicam -lhe o procedimento.
+Cliente - Ok, então eu depois pergunto lá.
+6-solicitaçao/confirmaçao de dados Cliente - >Agente - >salta para passo 7
+op1
+Agente - Pode-me dizer o seu nome?
+Cliente - [nome cliente]
+Agente - Certo, [nome cliente] poderia-me fornecer o seu e-mail para meter aqui na sua ficha.
+Cliente - Sim, o meu email é [email]
+Agente - [email] certo?
+Cliente - Correto.
+Agente - Poderia dizer-me o seu numero de telemovel, para depois receber um lembrete da sua consulta.
+Cliente - [tel]
+Agente - Obrigada
+op2
+Agente - Poderia dizer o seu nome?
+Cliente - [nome cliente]
+Agente - Você disse-me [nome cliente] correto?
+Cliente - Exatamente.
+Agente - Você sabe me dizer o seu email?
+Cliente - Sim , é [email].
+Agente - E que numero de telemovel gostaria de guardar aqui na sua ficha? Seria este de qual me está a ligar ?
+Cliente - Sim , [tel]
+Agente - Então apenas para confirmar [nome] o seu email é [email] e o seu telemovel seria [tel] certo?
+Cliente - Exato.
+6-solicitaçao/confirmaçao de dados Agente - >Cliente - >salta para passo 7
+op1
+Agente - Iria só pedir que me confirmasse aqui os seu dados.
+Cliente - Com certeza.
+Agente - O seu nome é [nome cliente] , o seu email seria [email] e o seu telemovel [tel] correto?
+Cliente - Certo.
+op2
+Agente - O seu nome é [nome] e o seu email é [email] correto ?
+Cliente - Sim.
+Agente - Obrigado. Podia apenas me fornecer o seu telemovel? Não aparece aqui no sistema.
+Cliente - [tel]
+Agente - Disse [tel] correto ?
+Cliente - Sim.
+op3
+Agente - Poderia fornecer o seu email? Não chegou a guardar aqui nos seus dados.
+Cliente - Sim, [email].
+Agente - [email] certo ?
+Cliente - Sim.
+Agente - Ok, só para confirmar o seu telemovel é [tel]?
+Cliente - Correto.
+7- Identificação da Clínica Mais Próxima Agente - >Cliente - > salta para 8
+op1
+Agente - Com base nas informações que temos, a Clínica Dentária [Nome] em [Localização] seria a mais próxima de si. Correto?
+Cliente - Sim.
+op2
+Agente - Segundo o nosso sistema, a clínica mais próxima de si é a [Nome da clínica], que está em [Localização]. Está certo?
+Cliente - Sim.
+op3
+Agente - A clinica mais próxima de si seria a [nome da clinica]?
+Cliente - Sim, exatamente.
+7- Identificação da Clínica Mais Próxima Cliente - >Agente - > salta para 8
+op1
+Agente - Vamos ver qual seria a clinica mais próxima de si, podia me dizer onde mora?
+Cliente - Moro em [Localização].
+Agente - Então penso que seria a [nome da clinica]
+op2
+Agente - Poderia dizer-me onde você mora para encontrar a clinica mais perto de si.
+Cliente - Claro que sim, moro em [Localizaçao].
+Agente - Ok, então seria a [nome da clinica]
+Cliente - E isso ficaria aonde?
+Agente - [localizaçao] , mas depois também irá receber um email com as informaçoes da consulta.
+Cliente - Ok, obrigado.
+op3
+Agente - Onde é que você mora?
+Cliente - [localizaçao].
+Agente - Obrigado, deixe-me só ver então qual seria a clinica mais próxima de si.
+Agente - Seria a [nome da clinica].
+Cliente - E isso aonde é que ficaria ?
+Agente - Você depois vai receber um email com todas as informações, não se preocupe.
+Cliente - Está bem, obrigado.
+8-Pergunta sobre Dias e Horários Preferidos ->9
+op1
+Agente - Em que dia e horários lhe daria mais jeito agendar a consulta?
+Cliente - Ao fim de semana, porque á semana tenho um horário ocupado.
+Agente - Então seria sábado deixe-me ver que horários tenho aqui disponiveis. Teria de ser ás [3 horas diferentes].
+Cliente - Pode ser ás [1hora escolhida da lista de 3horas diferentes] então.
+Agente - Ok então ficaria para sábado dia [dia 1-29] ás[1hora escolhida em cima] ,correto?
+Cliente - Exatamente.
+op2
+Agente - Em que dia e horas lhe dava mais jeito?
+Cliente - Á semana posso ao final da tarde em qualquer dia, senão teria de ser ao fim de semana.
+Agente - Eu tenho aqui os seguintes horários, na [dia da semana] ás [2horas diferentes(16-18)] ou na [dia da semana] ás [2horas diferentes(16-18)] horas.
+Cliente - Pode ser na [dia da semana] ás [hora].
+Agente - Então fica marcado para [dia da semana] ás [hora].
+op3
+Agente - Em que dias e horas lhe daria jeito?
+Cliente - Durante a semana posso de manha ou na hora de almoço.
+Agente - Eu tenho aqui na [dia da semana] ás [2horas diferentes(9-14)] ou na [dia da semana] ás [2horas diferentes(9-14)] horas.
+Cliente - Pode ser na [dia da semana] ás [hora].
+Agente - Então fica marcada a consulta para [dia da semana] ás [hora].
+op4
+Agente - Em que dias e horas lhe daria jeito?
+Cliente - Só posso de tarde, que manhãs não me dá jeito.
+Agente - Sem problema , eu tenho na [dia da semana] ás [2horas diferentes(14-18)] ou na [dia da semana] ás [2horas diferentes(14-18)] horas.
+Cliente - Pode ser na [dia da semana] ás [hora]?
+Agente - Claro. Então fica marcado para [dia da semana] ás [hora].
+Cliente - Obrigado.
+9-Marcação para Familiar ou Amigo ->10
+op1
+Agente - Além de si, gostaria de agendar uma consulta para algum familiar ou amigo? A consulta é gratuita para ele ou ela também.
+Cliente - Não, seria só para mim
+op2
+Agente - A consulta é totalmente gratuita. Gostaria de marcar também para um amigo ou familiar?
+Cliente - Não, obrigado.
+10-Confirmaçao ->11
+op1
+Agente - Então a consulta fica marcada para [dia da semana] dia [dia 1-29] ás [hora] na [nome da clinica].Irá receber um e-mail com as informaçoes da consulta e um SMS no dia anterior. Tem alguma questão ou posso lhe ajudar com mais alguma coisa?
+Cliente - Não, obrigado.
+op2
+Agente - A sua consulta ficou então agendada para [dia da semana] dia [dia 1-29] ás [hora] na [nome da clinica], depois receberá um email com os detalhes da consulta e vai receber um SMS no dia antes da consulta.Se tiver mais alguma questão ou se puder ajudar-lhe com mais alguma coisa...
+Cliente - Não. É tudo.
+op3
+Agente - Fica então para, [dia da semana] dia [dia 1-29] ás [hora] na [nome da clinica], agendada a sua consulta.Tem mais alguma questão?
+Cliente - Não, era tudo obrigado.
+11-Finalização
+op1
+Agente - Então, tenha um resto de um bom dia e uma boa semana, obrigada.
+Cliente - Obrigado e igualmente.
+Agente - Obrigado.
+op2
+Agente - Certo, tenha então uma boa semana e uma boa consulta.
+Cliente - Obrigado.
+Agente - Obrigado
+op3
+Agente - Obrigado então pela sua disponibilidade, tenha um resto de um bom dia. Obrigada.
+Cliente - Obrigado e igualmente.
+Agente - Obrigado e boa consulta.
+CLiente - Obrigado.

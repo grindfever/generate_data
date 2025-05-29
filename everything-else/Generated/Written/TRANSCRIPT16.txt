@@ -1,0 +1,40 @@
+AGENTE-Olá, bom dia. 
+CLIENTE-Bom dia. 
+AGENTE-Bom dia, meu nome é Elsa Dantas. Eu estou a contactar por parte da Comunica Dentária SmileUP. Estou a falar devido a um pedido que foi efetuado através das nossas redes sociais. Havia alguma questão em que eu possa ajudar? 
+CLIENTE-É, eu queria saber como é que vocês facilitam, que eu estava vendo, para um implante dentário, como é que é a forma de pagamento que vocês fazem para a gente fazer o implante dentário? 
+AGENTE-Com certeza. Antes de mais, eu estaria a falar com quem? Desculpa. 
+CLIENTE-Sara. 
+AGENTE-Senhora Sara, nós o que costumamos fazer é convidar as pessoas para os usufruirem da nossa consulta de avaliação dentária. Esta consulta não tem qualquer custo e servirá para realizar o raio X e o nosso médico avaliar a sua saúde oral e verificar então o tratamento correto e o respectivo valor. Relativamente aos métodos de pagamento, poderá pagar as prestações. É uma questão de verificar qual é o valor total e conversar com as colegas na clínica e verificar o melhor método de pagamento para si. 
+CLIENTE-Ah, sim, entendi. E aonde é que fica a clínica? 
+AGENTE-Nós temos várias clínicas, de norte a sul do país. Contudo, eu tenho a indicação que a clínica mais próxima seria em Leiria, a informação está correta? 
+CLIENTE-Ah, Leiria, é. Leiria. 
+AGENTE-A nossa clínica é em Leiria. Fica junto ao Rio Lins, perto do Pingo Doce. Fica na Rua Coronel Teles Sampaio Rio. Não sei se isso ajuda na localização...
+CLIENTE-Pode marcar. 
+AGENTE-Não consigo ouvir, peço desculpa. 
+CLIENTE-Você poderia marcar para fazer a avaliação? 
+AGENTE-Claro que sim. Olha, teria disponibilidade amanhã, espero quarta-feira. 
+CLIENTE-Hoje à tarde tem, não. 
+AGENTE-Eu posso verificar se ainda temos alguma disponibilidade. Só um momento. Aproveito também para informar que por questões de qualidade e de segurança, a chamada será gravada. Me autoriza? 
+CLIENTE-Sim. 
+AGENTE-Agora, nós hoje da parte da tarde, ainda temos, por exemplo, o horário das cinco ou das sete? 
+CLIENTE-Cinco. Cinco horas. Cinco horas. 
+AGENTE-Nesse caso, pode-me por favor indicar o seu nome completo? 
+CLIENTE-Frank Leite Albuquerque. 
+AGENTE-Disse-me Frank Leite Albuquerque? 
+CLIENTE-Isso. 
+AGENTE-Nós, por norma, enviamos uma mensagem com confirmação do agendamento. Contudo, utiliza e-mail. Gostaria que enviasse-nos um e-mail com a morada completa? 
+CLIENTE-E-mail... Frank Albuquerque. 590... 
+AGENTE-Albuquerque. 590... 
+CLIENTE-arroba gmail.com
+AGENTE-590... Só para confirmar, Frank seria F-R-A-N-K? 
+CLIENTE-Sim, sim.
+AGENTE-Então é Frank Albuquerque 590 arroba-gmail.com, correto? 
+CLIENTE-Isso. 
+AGENTE-Esta consulta é então uma avaliação dentária e inclui raio X e plano de tratamento e não tem qualquer custo ou fidelização e fica então agendada para o dia de hoje, às 5 da tarde, na nossa clínica que fica então em Leiria, na Rua Coronel Teles Champaio Rio, número 4, perto do Rio Lis e também do Pingo Doce. 
+CLIENTE-Tem como mandar por escrito esse endereço? 
+AGENTE-Conseguimos enviar por e-mail, sim. 
+CLIENTE-Tá, ok. 
+AGENTE-Da minha parte há alguma dúvida, alguma questão? 
+CLIENTE-Não tenho dúvida. Obrigada. 
+AGENTE-Muito obrigada pela disponibilidade e desejo-vos um bom dia. Obrigada. 
+CLIENTE-Obrigado.

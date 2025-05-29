@@ -1,0 +1,48 @@
+AGENTE-Olá, muito boa tarde. 
+CLIENTE-Boa tarde. 
+AGENTE-Muito boa tarde, meu nome é Sandra Sanchez, das clínicas dentárias da Smile Up. Tenho gosto de falar com a senhora Ana Corte. 
+CLIENTE-Sim, sim. 
+AGENTE-Nós estamos a contatá-la, a senhora participou de uma ação, onde facultou o seu contato a nossa promotora para a nossa clínica da Smile Up em Covilhã. Nós gostaríamos de convidá-la para uma consulta e uma avaliação dentária sem custos. Vamos agendar para a senhora usufrir da consulta conosco? 
+CLIENTE-Sim, sim. 
+AGENTE-Muito bem, só vou informar a senhora, antes que a nossa chamada é gravada, por motivos de segurança. A senhora autoriza? 
+CLIENTE-Sim, sim. 
+AGENTE-Muito obrigada. Eu tenho aqui o horário disponível para amanhã, de manhã e à tarde. 
+CLIENTE-Eu só posso ir a partir das 5 horas. 
+AGENTE-Só a partir das 17 horas. Deixa eu ver se é claro o que eu tenho aqui para a senhora. Bom, a consulta, ela não tem custos também, ela inclui o raio-x panorâmico, o diagnóstico e o orçamento, no qual ela fica com todas as informações. Se quiser aproveitar para mais alguém, também não vai ter custos, um familiar, amigo, criança. Ou é só para a senhora? 
+CLIENTE-Em princípio, era só para mim. 
+AGENTE-Só para você. Eu amanhã, eu já não tenho depois das 5. Eu tenho na quarta-feira, pode ser? De 29 às 6 horas? 
+CLIENTE-Às 18? 
+AGENTE-Sim. 
+CLIENTE-Pode ser. 
+AGENTE-Pode ser? Então eu vou agendar para a senhora dia 29, quarta-feira. 29 às 18 horas. A senhora tem algum e-mail para eu poder encaminhar a marcação para a senhora, para a Ana Corte? 
+CLIENTE-Eu não sei de cabeça, eu não consigo dizer agora. 
+AGENTE-Tá bem, depois a senhora pode consultar a nossa clínica. Pode então só me informar o nome completo. 
+CLIENTE-Ana.
+AGENTE-Sim. 
+CLIENTE-Paula. 
+AGENTE-Paula, sim. 
+CLIENTE-Silveira.
+AGENTE-Silveira. 
+CLIENTE-Corte. 
+AGENTE-Corte, muito bem. 
+CLIENTE-C-O-R-T-E, não é curto, é corte. 
+AGENTE-Corte, com C-O-R-T-E, é isso? 
+CLIENTE-Certo, é isso mesmo. 
+AGENTE-Ah, ok. E a avaliação, então, vai ser só mesmo para si, então? Não quer aproveitar para outra pessoa? 
+CLIENTE-Eu só falando, só falando com a família, não falei ainda, não sabia, disseram que era só para mim e eu não... 
+AGENTE-Sim, bom, se de repente alguém tiver interesse, a senhora pode agendar o mesmo na nossa clínica quando for, ou pela linha de apoio que tem no site da clínica da SmileUp, que é o 800-100-222. A consulta também não vai ter custo, tá bem? Inclui o raio-x panoramico, o diagnóstico e o orçamento. E poderá também usufruir o agregado, como disse, crianças a partir de dois anos em diante. 
+CLIENTE-E esse número 800 é gratuito? 
+AGENTE-Sim, é o 800-100-222. 
+CLIENTE-Mas não se paga a chamada? 
+AGENTE-Não. 
+CLIENTE-Ok, obrigada. 
+AGENTE-A senhora conhece a nossa morada, é dentro do Serra Shopping, no Covilhã. 
+CLIENTE-Sim, foi onde fiz a inscrição. 
+AGENTE-Sim, é do lado da Wells, logo na entrada, piso 0, ao lado da loja da Wells. Tá bem? 
+CLIENTE-Eu sei, obrigada, sim, obrigada. 
+AGENTE-Sra. Ana Corte, tem mais alguma questão que possa lhe ser útil? Algo mais? 
+CLIENTE-Acho que não, pelo menos. Depois vamos ver o que mais se passará, não é? 
+AGENTE-Sim. Está agendado, então, dia 29, às 18 horas, pela clínica que é da semana em Covilhã. Muito obrigada. Então, continuação de uma boa tarde, boa consulta e uma boa semana. 
+CLIENTE-Obrigada igualmente para vocês também, obrigada. 
+AGENTE-Obrigada a nós.
+CLIENTE-Obrigada.
